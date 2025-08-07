@@ -1,0 +1,628 @@
+{
+    "state_str": "08b900/c9f872",
+    "state_str_content_free": "dd1dd1/b397ed",
+    "foreground_activity": "org.wta/.LoginOrRegisterActivity",
+    "activity_stack": [
+        "org.wta/.LoginOrRegisterActivity",
+        "org.wta/.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                13,
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "11d00bf5f3f80cda98ce80a07f673858",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "2fb119ea135212d5dc68dd77bf11d92e",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "aa8de0d2b1cfce220887eeab42de4f7f",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]org.wta:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "80aa7e3316dad7ff213b8d963a10f71e",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]org.wta:id/action_bar_root"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "3efeb276755d147016b585a8965f8b2a",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/content[text]None[enabled,,]",
+            "view_str": "b9610aff9c57698341d58d669e86cc18",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/content"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 6,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "f50898def2aef7d77323463eba62e36e",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    168
+                ],
+                [
+                    984,
+                    290
+                ]
+            ],
+            "resource_id": "org.wta:id/txtSubtitle",
+            "checked": false,
+            "text": "Sign up or log in to save hikes and access My Backpack.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "888*122",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtSubtitle[text]None[enabled,,]",
+            "view_str": "3a937db195a275c62d106ce79075e416",
+            "bound_box": "96,168,984,290",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtSubtitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=96,168,984,290>Sign up or log in to save hikes and access My Back</p>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    290
+                ],
+                [
+                    984,
+                    715
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 8,
+            "size": "888*425",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "58859bd9a91399561c15baa057b0d826",
+            "bound_box": "96,290,984,715",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    715
+                ],
+                [
+                    984,
+                    859
+                ]
+            ],
+            "resource_id": "org.wta:id/btnLogin",
+            "checked": false,
+            "text": "LOG IN",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 9,
+            "size": "888*144",
+            "signature": "[class]android.widget.Button[resource_id]org.wta:id/btnLogin[text]LOG IN[enabled,,]",
+            "view_str": "353494834a9bd7519a8a7687d4a8a5e6",
+            "bound_box": "96,715,984,859",
+            "content_free_signature": "[class]android.widget.Button[resource_id]org.wta:id/btnLogin",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=96,715,984,859>LOG IN</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    859
+                ],
+                [
+                    984,
+                    1003
+                ]
+            ],
+            "resource_id": "org.wta:id/btnRegister",
+            "checked": false,
+            "text": "CREATE A FREE ACCOUNT",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 10,
+            "size": "888*144",
+            "signature": "[class]android.widget.Button[resource_id]org.wta:id/btnRegister[text]CREATE A FREE ACCOUNT[enabled,,]",
+            "view_str": "5d4f0dad0cefa7424fd876533952d64b",
+            "bound_box": "96,859,984,1003",
+            "content_free_signature": "[class]android.widget.Button[resource_id]org.wta:id/btnRegister",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=96,859,984,1003>CREATE A FREE ACCOUNT</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1075
+                ],
+                [
+                    984,
+                    1254
+                ]
+            ],
+            "resource_id": "org.wta:id/txtHelp",
+            "checked": false,
+            "text": "You can also comment on or file trip reports and access hike information offline with a WTA account.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 11,
+            "size": "888*179",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtHelp[text]None[enabled,,]",
+            "view_str": "7cb5377c535eea405917c7e4ca66d90e",
+            "bound_box": "96,1075,984,1254",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtHelp",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<p bound_box=96,1075,984,1254>You can also comment on or file trip reports and a</p>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1254
+                ],
+                [
+                    984,
+                    1680
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 12,
+            "size": "888*426",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "58859bd9a91399561c15baa057b0d826",
+            "bound_box": "96,1254,984,1680",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 13,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "87cca92052b1c5cb5176a08bd81f7f3a",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "org.wta",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 14,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "82cef7461ee8678a427979605e84051b",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

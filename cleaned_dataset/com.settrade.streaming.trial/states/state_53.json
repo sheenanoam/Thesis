@@ -1,0 +1,1962 @@
+{
+    "state_str": "08b900/5ba7b2",
+    "state_str_content_free": "dd1dd1/eb29d2",
+    "foreground_activity": "com.settrade.streaming.trial/com.settrade.streaming.OpenACActivity",
+    "activity_stack": [
+        "com.settrade.streaming.trial/com.settrade.streaming.OpenACActivity",
+        "com.settrade.streaming.trial/com.settrade.streaming.LoginActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                44,
+                45
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c606f869a3b3501b2caff30aa728e6af",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "7c1a7eb87c9d9e89b1bfc4b46d34947e",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "13b94605662902609c8c693f8db4a440",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "828669e739dd46f1d863cbd68aabc323",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    198
+                ]
+            ],
+            "resource_id": "com.settrade.streaming.trial:id/openac_back_menu",
+            "checked": false,
+            "text": "Registration",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*126",
+            "signature": "[class]android.widget.TextView[resource_id]com.settrade.streaming.trial:id/openac_back_menu[text]Registration[enabled,,]",
+            "view_str": "dbd291e0da796f0ab117b6616f897535",
+            "bound_box": "0,72,1080,198",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.settrade.streaming.trial:id/openac_back_menu",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button bound_box=0,72,1080,198>Registration</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    198
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.webkit.WebView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 5,
+            "size": "1080*1578",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+            "view_str": "52abc0cf5666220ef9dc5cdb4c87e64d",
+            "bound_box": "0,198,1080,1776",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                37
+            ],
+            "focused": true,
+            "bounds": [
+                [
+                    0,
+                    198
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Streaming",
+            "class": "android.webkit.WebView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1578",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]Streaming[enabled,,]",
+            "view_str": "43da75029bb2e95b567ec972a15f515f",
+            "bound_box": "0,198,1080,1776",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<scrollbar bound_box=0,198,1080,1776>Streaming</scrollbar>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 13,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8,
+                9,
+                17,
+                18,
+                22,
+                23,
+                27,
+                29,
+                30,
+                31,
+                32,
+                35,
+                36
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    438
+                ],
+                [
+                    1020,
+                    1776
+                ]
+            ],
+            "resource_id": "loginFrm",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "960*1338",
+            "signature": "[class]android.view.View[resource_id]loginFrm[text][enabled,,]",
+            "view_str": "2792a491af72b61bc420d8da402644cd",
+            "bound_box": "60,438,1020,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]loginFrm"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    117,
+                    534
+                ],
+                [
+                    963,
+                    699
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "newstreaming_dark_bg",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "846*165",
+            "signature": "[class]android.widget.Image[resource_id]None[text]newstreaming_dark_bg[enabled,,]",
+            "view_str": "5e4734053e6e56460bd35bd551b0bbb7",
+            "bound_box": "117,534,963,699",
+            "content_free_signature": "[class]android.widget.Image[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<p bound_box=117,534,963,699>newstreaming_dark_bg</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    804
+                ],
+                [
+                    879,
+                    912
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 9,
+            "size": "675*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6f86c95e6c82c75dd8dbfaeabbb62ee2",
+            "bound_box": "204,804,879,912",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    804
+                ],
+                [
+                    879,
+                    912
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.widget.ListView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "675*108",
+            "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+            "view_str": "a53c621af91c94790c1c94101a02698b",
+            "bound_box": "204,804,879,912",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12,
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    804
+                ],
+                [
+                    879,
+                    912
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "675*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "a2979fb0bd098c73d8ef816e96c439e8",
+            "bound_box": "204,804,879,912",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13,
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    207,
+                    822
+                ],
+                [
+                    801,
+                    894
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "594*72",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "15173c96846c76c406f5ee92fe640828",
+            "bound_box": "207,822,801,894",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    237,
+                    822
+                ],
+                [
+                    558,
+                    894
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Select broker..",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "321*72",
+            "signature": "[class]android.view.View[resource_id]None[text]Select broker..[enabled,,]",
+            "view_str": "4cc3af829ec83c80f178c168b57bd855",
+            "bound_box": "237,822,558,894",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button bound_box=237,822,558,894>Select broker..</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    207,
+                    822
+                ],
+                [
+                    876,
+                    900
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 14,
+            "size": "669*78",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "62cced9dc03a7fcbd7187e94e841bb23",
+            "bound_box": "207,822,876,900",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    237,
+                    822
+                ],
+                [
+                    726,
+                    900
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "489*78",
+            "signature": "[class]android.widget.EditText[resource_id]None[text][enabled,,]",
+            "view_str": "90126cbfe8a862effde1c810a10ebc45",
+            "bound_box": "237,822,726,900",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    801,
+                    822
+                ],
+                [
+                    876,
+                    894
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 16,
+            "size": "75*72",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "242ea49d8023b536a41a68083560dd4e",
+            "bound_box": "801,822,876,894",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    972
+                ],
+                [
+                    879,
+                    1014
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Username",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 17,
+            "size": "675*42",
+            "signature": "[class]android.view.View[resource_id]None[text]Username[enabled,,]",
+            "view_str": "77f96ef178a64abdfb434a3aab5ffad2",
+            "bound_box": "204,972,879,1014",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<p bound_box=204,972,879,1014>Username</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                19,
+                20
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1023
+                ],
+                [
+                    879,
+                    1143
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 18,
+            "size": "675*120",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "b69b67935d22fb09cfac71651eb01549",
+            "bound_box": "204,1023,879,1143",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    114,
+                    1050
+                ],
+                [
+                    153,
+                    1101
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\uf007",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 18,
+            "temp_id": 19,
+            "size": "39*51",
+            "signature": "[class]android.view.View[resource_id]None[text]\uf007[enabled,,]",
+            "view_str": "b878cf6fa8b24554d456db32f21c6ad7",
+            "bound_box": "114,1050,153,1101",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<p bound_box=114,1050,153,1101>\uf007</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1023
+                ],
+                [
+                    879,
+                    1128
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 18,
+            "temp_id": 20,
+            "size": "675*105",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "ba741fe8e377709789f46d5f03399895",
+            "bound_box": "204,1023,879,1128",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1023
+                ],
+                [
+                    879,
+                    1128
+                ]
+            ],
+            "resource_id": "txtLogin",
+            "checked": false,
+            "text": "",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 20,
+            "temp_id": 21,
+            "size": "675*105",
+            "signature": "[class]android.widget.EditText[resource_id]txtLogin[text][enabled,,]",
+            "view_str": "9ed8c3953c72375ff1dc0bbf0c123d87",
+            "bound_box": "204,1023,879,1128",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]txtLogin"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1149
+                ],
+                [
+                    879,
+                    1194
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Password",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 22,
+            "size": "675*45",
+            "signature": "[class]android.view.View[resource_id]None[text]Password[enabled,,]",
+            "view_str": "a71b3e756ca384a8026759c0f5aabcce",
+            "bound_box": "204,1149,879,1194",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<p bound_box=204,1149,879,1194>Password</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                24,
+                25
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1200
+                ],
+                [
+                    879,
+                    1320
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 23,
+            "size": "675*120",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "a55c1e91843db603b8a0c31ca8c86879",
+            "bound_box": "204,1200,879,1320",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    1227
+                ],
+                [
+                    159,
+                    1281
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\uf084",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 23,
+            "temp_id": 24,
+            "size": "51*54",
+            "signature": "[class]android.view.View[resource_id]None[text]\uf084[enabled,,]",
+            "view_str": "ddd8cb7aa240fce1223a8e6335622ec1",
+            "bound_box": "108,1227,159,1281",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<p bound_box=108,1227,159,1281>\uf084</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                26
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1200
+                ],
+                [
+                    879,
+                    1308
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 23,
+            "temp_id": 25,
+            "size": "675*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "14a46b8ce2cc21e5fec036162ced7335",
+            "bound_box": "204,1200,879,1308",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": true,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1200
+                ],
+                [
+                    879,
+                    1308
+                ]
+            ],
+            "resource_id": "txtPassword",
+            "checked": false,
+            "text": "",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 26,
+            "size": "675*108",
+            "signature": "[class]android.widget.EditText[resource_id]txtPassword[text][enabled,,]",
+            "view_str": "c1d7fcadcb9af4b11e30f66be96982ba",
+            "bound_box": "204,1200,879,1308",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]txtPassword"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                28
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1320
+                ],
+                [
+                    525,
+                    1416
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 27,
+            "size": "321*96",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "d23b7168ff138196973e28cde333f424",
+            "bound_box": "204,1320,525,1416",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1320
+                ],
+                [
+                    252,
+                    1395
+                ]
+            ],
+            "resource_id": "showPassword",
+            "checked": false,
+            "text": "Show Password",
+            "class": "android.widget.CheckBox",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 28,
+            "size": "48*75",
+            "signature": "[class]android.widget.CheckBox[resource_id]showPassword[text]Show Password[enabled,,]",
+            "view_str": "09590f8099fe1818d2ed36e31d45a794",
+            "bound_box": "204,1320,252,1395",
+            "content_free_signature": "[class]android.widget.CheckBox[resource_id]showPassword",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<checkbox bound_box=204,1320,252,1395>Show Password</checkbox>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    294,
+                    1422
+                ],
+                [
+                    342,
+                    1500
+                ]
+            ],
+            "resource_id": "isRememberMe",
+            "checked": false,
+            "text": "Keep account to My List",
+            "class": "android.widget.CheckBox",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 29,
+            "size": "48*78",
+            "signature": "[class]android.widget.CheckBox[resource_id]isRememberMe[text]Keep account to My List[enabled,,]",
+            "view_str": "2e37399d25fed91070c29de52f81ee47",
+            "bound_box": "294,1422,342,1500",
+            "content_free_signature": "[class]android.widget.CheckBox[resource_id]isRememberMe",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<checkbox bound_box=294,1422,342,1500>Keep account to My List</checkbox>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1590
+                ],
+                [
+                    879,
+                    1728
+                ]
+            ],
+            "resource_id": "submitBtn",
+            "checked": false,
+            "text": "Login",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 30,
+            "size": "675*138",
+            "signature": "[class]android.widget.Button[resource_id]submitBtn[text]Login[enabled,,]",
+            "view_str": "33640f85a5b4a3542a35f5a0376d346e",
+            "bound_box": "204,1590,879,1728",
+            "content_free_signature": "[class]android.widget.Button[resource_id]submitBtn",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<button bound_box=204,1590,879,1728>Login</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1749
+                ],
+                [
+                    879,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "or",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 31,
+            "size": "675*27",
+            "signature": "[class]android.view.View[resource_id]None[text]or[enabled,,]",
+            "view_str": "19edca0d8099cdb4d259f159a7c1c39c",
+            "bound_box": "204,1749,879,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<p bound_box=204,1749,879,1776>or</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                33,
+                34
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1773
+                ],
+                [
+                    879,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 32,
+            "size": "675*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "4c8db24024d3eaa7a1390451dff2a036",
+            "bound_box": "204,1773,879,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    351,
+                    1773
+                ],
+                [
+                    393,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\uf013",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 32,
+            "temp_id": 33,
+            "size": "42*3",
+            "signature": "[class]android.view.View[resource_id]None[text]\uf013[enabled,,]",
+            "view_str": "21ef76c2c1bdcdc3fcfc50aee353458f",
+            "bound_box": "351,1773,393,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "12",
+            "desc": "<button bound_box=351,1773,393,1776>\uf013</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    402,
+                    1773
+                ],
+                [
+                    732,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Manage My List",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 32,
+            "temp_id": 34,
+            "size": "330*3",
+            "signature": "[class]android.view.View[resource_id]None[text]Manage My List[enabled,,]",
+            "view_str": "17aff4303785c73e01f9733f53eaec61",
+            "bound_box": "402,1773,732,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "13",
+            "desc": "<button bound_box=402,1773,732,1776>Manage My List</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1773
+                ],
+                [
+                    879,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Open Account",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 35,
+            "size": "675*3",
+            "signature": "[class]android.view.View[resource_id]None[text]Open Account[enabled,,]",
+            "view_str": "ce93d8e9ee03f8c0061ca9da3946be09",
+            "bound_box": "204,1773,879,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "14",
+            "desc": "<button bound_box=204,1773,879,1776>Open Account</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1773
+                ],
+                [
+                    879,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Copyright \u00a9 Settrade.com",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 36,
+            "size": "675*3",
+            "signature": "[class]android.view.View[resource_id]None[text]Copyright \u00a9 Settrade.com[enabled,,]",
+            "view_str": "d1256797c2af3abc91cd4ad86ab06fde",
+            "bound_box": "204,1773,879,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "15",
+            "desc": "<p bound_box=204,1773,879,1776>Copyright \u00a9 Settrade.com</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                38
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    198
+                ],
+                [
+                    1080,
+                    438
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 37,
+            "size": "1080*240",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "04e241e1b3b14b2d600eea5f46b44071",
+            "bound_box": "0,198,1080,438",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "16",
+            "desc": "<scrollbar bound_box=0,198,1080,438></scrollbar>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    198
+                ],
+                [
+                    1080,
+                    438
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 37,
+            "temp_id": 38,
+            "size": "1080*240",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "7d70c5278e571ad689bb35b8bf580a2f",
+            "bound_box": "0,198,1080,438",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    15,
+                    297
+                ],
+                [
+                    66,
+                    351
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00d7",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 38,
+            "temp_id": 39,
+            "size": "51*54",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00d7[enabled,,]",
+            "view_str": "74a33f6649c2dbcb44d708c40e621adc",
+            "bound_box": "15,297,66,351",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "17",
+            "desc": "<button bound_box=15,297,66,351>\u00d7</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    294,
+                    258
+                ],
+                [
+                    771,
+                    315
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Streaming for Android",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 38,
+            "temp_id": 40,
+            "size": "477*57",
+            "signature": "[class]android.view.View[resource_id]None[text]Streaming for Android[enabled,,]",
+            "view_str": "37616da24205d9f121914d1e5d0a8698",
+            "bound_box": "294,258,771,315",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "18",
+            "desc": "<p bound_box=294,258,771,315>Streaming for Android</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    294,
+                    312
+                ],
+                [
+                    771,
+                    354
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Settrade.Com Co., Ltd.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 38,
+            "temp_id": 41,
+            "size": "477*42",
+            "signature": "[class]android.view.View[resource_id]None[text]Settrade.Com Co., Ltd.[enabled,,]",
+            "view_str": "a1852a89135069606fbaeb3e62c6c0d2",
+            "bound_box": "294,312,771,354",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "19",
+            "desc": "<p bound_box=294,312,771,354>Settrade.Com Co., Ltd.</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    294,
+                    351
+                ],
+                [
+                    615,
+                    393
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "FREE - In Google Play",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 38,
+            "temp_id": 42,
+            "size": "321*42",
+            "signature": "[class]android.view.View[resource_id]None[text]FREE - In Google Play[enabled,,]",
+            "view_str": "4ac547f20f1b3e65271ef3b0aef6242a",
+            "bound_box": "294,351,615,393",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "20",
+            "desc": "<p bound_box=294,351,615,393>FREE - In Google Play</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    843,
+                    279
+                ],
+                [
+                    1020,
+                    354
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "OPEN",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 38,
+            "temp_id": 43,
+            "size": "177*75",
+            "signature": "[class]android.view.View[resource_id]None[text]OPEN[enabled,,]",
+            "view_str": "3d4cb1228cd6db884e3ae1faf20fd362",
+            "bound_box": "843,279,1020,354",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "21",
+            "desc": "<button bound_box=843,279,1020,354>OPEN</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 44,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "0e6cbc782e5959f5d7a4016436f1d2f3",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 45,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "208f8e5912a4b0ba3753be8d51b3e8bb",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

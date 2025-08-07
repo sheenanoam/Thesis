@@ -1,0 +1,664 @@
+{
+    "state_str": "08b900/5bcd88",
+    "state_str_content_free": "dd1dd1/cf4a5e",
+    "foreground_activity": "com.amazon.kindle/.s2k.SendToKindleActivity",
+    "activity_stack": [
+        "com.amazon.kindle/.s2k.SendToKindleActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    27,
+                    633
+                ],
+                [
+                    1053,
+                    1215
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1026*582",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "09473319e8d49c689d5497ebf5a0492e",
+            "bound_box": "27,633,1053,1215",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    681
+                ],
+                [
+                    1005,
+                    1167
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "930*486",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "b3e6eb7e28253af49d429bc1aff10360",
+            "bound_box": "75,681,1005,1167",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    681
+                ],
+                [
+                    1005,
+                    1167
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "930*486",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "48dc5599d9a01a5b477b13369a188656",
+            "bound_box": "75,681,1005,1167",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                9,
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    681
+                ],
+                [
+                    1005,
+                    1167
+                ]
+            ],
+            "resource_id": "android:id/parentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "930*486",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel[text]None[enabled,,]",
+            "view_str": "ab4c6137106379b437a32b7862ae40d8",
+            "bound_box": "75,681,1005,1167",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5,
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    681
+                ],
+                [
+                    1005,
+                    855
+                ]
+            ],
+            "resource_id": "android:id/topPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "930*174",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/topPanel[text]None[enabled,,]",
+            "view_str": "1327f6d0754ee678138c6847de0cd9f3",
+            "bound_box": "75,681,1005,855",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/topPanel"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6,
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    681
+                ],
+                [
+                    1005,
+                    831
+                ]
+            ],
+            "resource_id": "android:id/title_template",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "930*150",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/title_template[text]None[enabled,,]",
+            "view_str": "41302e974dcda16f0eca3e2ee0650aca",
+            "bound_box": "75,681,1005,831",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/title_template"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    147,
+                    735
+                ],
+                [
+                    243,
+                    831
+                ]
+            ],
+            "resource_id": "android:id/icon",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "96*96",
+            "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+            "view_str": "a699ca4b74eaab845e6d6c4a81c484be",
+            "bound_box": "147,735,243,831",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    267,
+                    742
+                ],
+                [
+                    933,
+                    823
+                ]
+            ],
+            "resource_id": "android:id/alertTitle",
+            "checked": false,
+            "text": "Sign in required",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 7,
+            "size": "666*81",
+            "signature": "[class]android.widget.TextView[resource_id]android:id/alertTitle[text]Sign in required[enabled,,]",
+            "view_str": "86fdba432fd66df4ad73c5d896b10af0",
+            "bound_box": "267,742,933,823",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/alertTitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=267,742,933,823>Sign in required</p>"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    831
+                ],
+                [
+                    1005,
+                    855
+                ]
+            ],
+            "resource_id": "android:id/titleDividerNoCustom",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 8,
+            "size": "930*24",
+            "signature": "[class]android.view.View[resource_id]android:id/titleDividerNoCustom[text]None[enabled,,]",
+            "view_str": "ba1ba844247ec3cc25d77a8de02200e8",
+            "bound_box": "75,831,1005,855",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/titleDividerNoCustom"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    855
+                ],
+                [
+                    1005,
+                    999
+                ]
+            ],
+            "resource_id": "android:id/contentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 9,
+            "size": "930*144",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/contentPanel[text]None[enabled,,]",
+            "view_str": "da1c3fab5b81677690b6e2fc71dfdd94",
+            "bound_box": "75,855,1005,999",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/contentPanel"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    855
+                ],
+                [
+                    1005,
+                    969
+                ]
+            ],
+            "resource_id": "android:id/scrollView",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "930*114",
+            "signature": "[class]android.widget.ScrollView[resource_id]android:id/scrollView[text]None[enabled,,]",
+            "view_str": "dd0565a59bc0c5fa38b56478501d1aee",
+            "bound_box": "75,855,1005,969",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]android:id/scrollView"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    855
+                ],
+                [
+                    1005,
+                    969
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "930*114",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "b07d0796f0a4a631ad2fb3de088ae72c",
+            "bound_box": "75,855,1005,969",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    855
+                ],
+                [
+                    1005,
+                    969
+                ]
+            ],
+            "resource_id": "android:id/message",
+            "checked": false,
+            "text": "To send files, sign in to your Amazon account from the Kindle app.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "930*114",
+            "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]None[enabled,,]",
+            "view_str": "1499cf6259b7705239ab7489f30d7aad",
+            "bound_box": "75,855,1005,969",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<p bound_box=75,855,1005,969>To send files, sign in to your Amazon account from</p>"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    999
+                ],
+                [
+                    1005,
+                    1167
+                ]
+            ],
+            "resource_id": "android:id/buttonPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 13,
+            "size": "930*168",
+            "signature": "[class]android.widget.ScrollView[resource_id]android:id/buttonPanel[text]None[enabled,,]",
+            "view_str": "422c4ec32149e706c62e206d9689dca3",
+            "bound_box": "75,999,1005,1167",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]android:id/buttonPanel"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    999
+                ],
+                [
+                    1005,
+                    1167
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "930*168",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "6e8aed47f774fb90ffdb49e4d6bce9dc",
+            "bound_box": "75,999,1005,1167",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.amazon.kindle",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    777,
+                    1011
+                ],
+                [
+                    969,
+                    1155
+                ]
+            ],
+            "resource_id": "android:id/button1",
+            "checked": false,
+            "text": "OK",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "192*144",
+            "signature": "[class]android.widget.Button[resource_id]android:id/button1[text]OK[enabled,,]",
+            "view_str": "6743300ccd9ff51d96ce05c791253fed",
+            "bound_box": "777,1011,969,1155",
+            "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button1",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=777,1011,969,1155>OK</button>"
+        }
+    ]
+}

@@ -1,0 +1,5262 @@
+{
+    "state_str": "483bb8/1422b8",
+    "state_str_content_free": "024a1a/a3770a",
+    "foreground_activity": "com.ebooks.ebookreader/.readers.ui.ReaderActivity",
+    "activity_stack": [
+        "com.ebooks.ebookreader/.readers.ui.ReaderActivity",
+        "com.ebooks.ebookreader/.ui.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "00d68aa16f794912ef69c13f6d8f110e",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "d3ba0c104533d4b804aa5628a48e55c9",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "cee1cc93c3df99f6832f4a659a38ea7e",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "9ba81d510c3ebc03881a40659525ec7c",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/action_bar_root"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "7123313d87f17208be67d6bf35b9fbb3",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/coordinator",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1920",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.ebooks.ebookreader:id/coordinator[text]None[enabled,,]",
+            "view_str": "ec1bd83e979252e4a2607934fb5527f1",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.ebooks.ebookreader:id/coordinator"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "783874a7101af68153e0fc48745f619c",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8,
+                90,
+                100,
+                101,
+                117
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/root_view",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]com.ebooks.ebookreader:id/root_view[text]None[enabled,,]",
+            "view_str": "c7ff4181c22ba7b4ace2d8bb00090b46",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.ebooks.ebookreader:id/root_view"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/reader_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]com.ebooks.ebookreader:id/reader_container[text]None[enabled,,]",
+            "view_str": "b33b26e77113c17fbe4200e75ea91c47",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.ebooks.ebookreader:id/reader_container"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "ff4afe14f54525311daed688319f32b0",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11,
+                76
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/reading_mode_view",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "1080*1920",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.ebooks.ebookreader:id/reading_mode_view[text]None[enabled,,]",
+            "view_str": "d7eb4ce67e8acbdbad33efecd5832067",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.ebooks.ebookreader:id/reading_mode_view"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "1080*1920",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "88b0692be275087bad6f29abb2e4214a",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.webkit.WebView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "1080*1920",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+            "view_str": "367afc4ab31b2d4874ab3f0530423ef4",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14,
+                75
+            ],
+            "focused": true,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    5400,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Title page",
+            "class": "android.webkit.WebView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "5400*1920",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]Title page[enabled,,]",
+            "view_str": "7563b98636b6b765ff698c60d45c6f1d",
+            "bound_box": "0,0,5400,1920",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<scrollbar bound_box=0,0,5400,1920>Title page</scrollbar>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 50,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                53,
+                55,
+                57,
+                59,
+                61,
+                63,
+                65,
+                67,
+                69,
+                71,
+                72,
+                73,
+                74
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    90
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "900*1830",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "634e95ace75ffef954ab38bd8e0bb292",
+            "bound_box": "90,90,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    90
+                ],
+                [
+                    990,
+                    138
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "900*48",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,90,990,138",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<p bound_box=90,90,990,138>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    177
+                ],
+                [
+                    990,
+                    228
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 16,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,177,990,228",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<p bound_box=90,177,990,228>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    264
+                ],
+                [
+                    990,
+                    315
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "DRACULA'S GUEST",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 17,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]DRACULA'S GUEST[enabled,,]",
+            "view_str": "b8f5c2ddb174d0bb03a721d42f4795eb",
+            "bound_box": "90,264,990,315",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<p bound_box=90,264,990,315>DRACULA'S GUEST</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    354
+                ],
+                [
+                    990,
+                    402
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 18,
+            "size": "900*48",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,354,990,402",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<p bound_box=90,354,990,402>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    441
+                ],
+                [
+                    990,
+                    492
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "By Bram Stoker",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 19,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]By Bram Stoker[enabled,,]",
+            "view_str": "afcd9d5e5ed3209112d9f0a62460b989",
+            "bound_box": "90,441,990,492",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<p bound_box=90,441,990,492>By Bram Stoker</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    528
+                ],
+                [
+                    990,
+                    579
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 20,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,528,990,579",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<p bound_box=90,528,990,579>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    618
+                ],
+                [
+                    990,
+                    666
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "First published 1914",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 21,
+            "size": "900*48",
+            "signature": "[class]android.view.View[resource_id]None[text]First published 1914[enabled,,]",
+            "view_str": "a8a8e84616a6dfe2f0304e158955cfa0",
+            "bound_box": "90,618,990,666",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<p bound_box=90,618,990,666>First published 1914</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    705
+                ],
+                [
+                    990,
+                    756
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "To MY SON",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 22,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]To MY SON[enabled,,]",
+            "view_str": "a2ba682db9ea990b2e0fb4973db2f1f0",
+            "bound_box": "90,705,990,756",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<p bound_box=90,705,990,756>To MY SON</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    792
+                ],
+                [
+                    990,
+                    843
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 23,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,792,990,843",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<p bound_box=90,792,990,843>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    882
+                ],
+                [
+                    990,
+                    930
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 24,
+            "size": "900*48",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,882,990,930",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<p bound_box=90,882,990,930>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    969
+                ],
+                [
+                    990,
+                    1020
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 25,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,969,990,1020",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<p bound_box=90,969,990,1020>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1056
+                ],
+                [
+                    990,
+                    1107
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 26,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1056,990,1107",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "12",
+            "desc": "<p bound_box=90,1056,990,1107>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1146
+                ],
+                [
+                    990,
+                    1194
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 27,
+            "size": "900*48",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1146,990,1194",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "13",
+            "desc": "<p bound_box=90,1146,990,1194>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1233
+                ],
+                [
+                    990,
+                    1284
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 28,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1233,990,1284",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "14",
+            "desc": "<p bound_box=90,1233,990,1284>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1320
+                ],
+                [
+                    990,
+                    1371
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 29,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1320,990,1371",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "15",
+            "desc": "<p bound_box=90,1320,990,1371>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1410
+                ],
+                [
+                    990,
+                    1458
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 30,
+            "size": "900*48",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1410,990,1458",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "16",
+            "desc": "<p bound_box=90,1410,990,1458>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1497
+                ],
+                [
+                    990,
+                    1548
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 31,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1497,990,1548",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "17",
+            "desc": "<p bound_box=90,1497,990,1548>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1584
+                ],
+                [
+                    990,
+                    1635
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 32,
+            "size": "900*51",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1584,990,1635",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "18",
+            "desc": "<p bound_box=90,1584,990,1635>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1674
+                ],
+                [
+                    990,
+                    1722
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Ebooks Corporation Limited\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 33,
+            "size": "900*48",
+            "signature": "[class]android.view.View[resource_id]None[text]Ebooks Corporation Limited\u00a0[enabled,,]",
+            "view_str": "72f68ead57c132bb3300df104546bf63",
+            "bound_box": "90,1674,990,1722",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "19",
+            "desc": "<p bound_box=90,1674,990,1722>Ebooks Corporation Limited\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1812
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Copyright \u00a9 2010 by Ebooks Corporation Limited, 62 Bayview Tce, Claremont, WA, Australia. All rights reserved. Manufactured in Australia. Except as permitted herein, no part of this publication may be reproduced or distributed in any form or by any means, or stored in a database or retrieval system, without the prior written permission of the publisher.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 34,
+            "size": "900*108",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1812,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "20",
+            "desc": "<p bound_box=90,1812,990,1920>Copyright \u00a9 2010 by Ebooks Corporation Limited, 62</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "All trademarks are trademarks of their respective owners.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 35,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "21",
+            "desc": "<p bound_box=90,1917,990,1920>All trademarks are trademarks of their respective </p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "TERMS OF USE",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 36,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]TERMS OF USE[enabled,,]",
+            "view_str": "e3859a8c11b427230f8b989c8fa94e57",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "22",
+            "desc": "<p bound_box=90,1917,990,1920>TERMS OF USE</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "This work is out of copyright and in the public domain. However, the formatting and other editorial work applied to this text remains the property of Ebooks Corporation limited. To the extent permitted by law, Ebooks Corporation reserves all rights in and to the work.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 37,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "23",
+            "desc": "<p bound_box=90,1917,990,1920>This work is out of copyright and in the public do</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Use of this work is subject to these terms.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 38,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]Use of this work is subject to these terms.[enabled,,]",
+            "view_str": "140c1c2bfa8eb9478173905ec91bed2a",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "24",
+            "desc": "<p bound_box=90,1917,990,1920>Use of this work is subject to these terms.</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Any lawful non-commercial use of the work is permitted. Apart from commercial use, you may:",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 39,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "25",
+            "desc": "<p bound_box=90,1917,990,1920>Any lawful non-commercial use of the work is permi</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "store and retrieve unlimited copies of the work,",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 40,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]store and retrieve unlimited copies of the work,[enabled,,]",
+            "view_str": "66c26203ea3d5e3ba32a47286dd9c3c9",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "26",
+            "desc": "<p bound_box=90,1917,990,1920>store and retrieve unlimited copies of the work,</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "decompile, disassemble, reverse engineer, reproduce, modify, create derivative works based upon, transmit, distribute, disseminate, the work or any part of it without Ebooks Corporation\u2019s prior consent.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 41,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "27",
+            "desc": "<p bound_box=90,1917,990,1920>decompile, disassemble, reverse engineer, reproduc</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "use the work for your own non-commercial and personal use.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 42,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "28",
+            "desc": "<p bound_box=90,1917,990,1920>use the work for your own non-commercial and perso</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "You may not copy, sell, adapt or distribute the work or parts of it for commercial purposes. Such prohibited commercial uses include but are not limited to distributing the work or parts of it free of charge in support of or to promote any commercial enterprise or activity.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 43,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "29",
+            "desc": "<p bound_box=90,1917,990,1920>You may not copy, sell, adapt or distribute the wo</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "If you distribute the work or parts of it for non-commercial purposes, for the protection of Ebooks Corporation\u2019s interests in the work, you must include this copyright statement in its entirety at the beginning of the distributed text.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 44,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "30",
+            "desc": "<p bound_box=90,1917,990,1920>If you distribute the work or parts of it for non-</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Your right to use the work will be terminated if you fail to comply with these terms.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 45,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "31",
+            "desc": "<p bound_box=90,1917,990,1920>Your right to use the work will be terminated if y</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "THE WORK IS DERIVED FROM PUBLICLY AVAILABLE VERSIONS THAT MAY HAVE BEEN TRANSCRIBED OR EDITED BY NON-PROFESSIONAL VOLUNTEERS. THE WORK IS PROVIDED \"AS IS\". EBOOKS CORPORATION AND ITS LICENSORS MAKE NO GUARANTEES OR WARRANTIES AS TO THE ACCURACY, ADEQUACY OR COMPLETENESS OF OR RESULTS TO BE OBTAINED FROM USING THE WORK, INCLUDING ANY INFORMATION THAT CAN BE ACCESSED THROUGH THE WORK VIA HYPERLINK OR OTHERWISE, AND EXPRESSLY DISCLAIM ANY WARRANTY, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 46,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "32",
+            "desc": "<p bound_box=90,1917,990,1920>THE WORK IS DERIVED FROM PUBLICLY AVAILABLE VERSIO</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Ebooks Corporation and its licensors do not warrant or guarantee that the functions contained in the work will meet your requirements or that its operation will be uninterrupted or error free. Neither Ebooks Corporation nor its licensors shall be liable to you or anyone else for any inaccuracy, error or omission, regardless of cause, in the work or for any damages resulting therefrom. Ebooks Corporation has no responsibility for the content of any information accessed through the work. Under no circumstances shall Ebooks Corporation and/or its licensors be liable for any indirect, incidental, special, punitive, consequential or similar damages that result from the use of or inability to use the work, even if any of them has been advised of the possibility of such damages. This limitation of liability shall apply to any claim or cause whatsoever whether such claim or cause arises in contract, tort or otherwise.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 47,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "db50ebc860f9e450ada8d6691c8c4ace",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "33",
+            "desc": "<p bound_box=90,1917,990,1920>Ebooks Corporation and its licensors do not warran</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 48,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "34",
+            "desc": "<p bound_box=90,1917,990,1920>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 49,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "35",
+            "desc": "<p bound_box=90,1917,990,1920>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Contents",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 50,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]Contents[enabled,,]",
+            "view_str": "6ce85d492d9a22782252de393b979f61",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "36",
+            "desc": "<p bound_box=90,1917,990,1920>Contents</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                52
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 51,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "3b88d4864c019f226509ef665286a573",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    366,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Preface\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 i",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 51,
+            "temp_id": 52,
+            "size": "276*3",
+            "signature": "[class]android.view.View[resource_id]None[text]Preface\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 i[enabled,,]",
+            "view_str": "c1cb86cfdda9e45c51475402fc1dd5a8",
+            "bound_box": "90,1917,366,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "37",
+            "desc": "<button bound_box=90,1917,366,1920>Preface\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 i</button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                54
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 53,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "281895778934067fb3fe298f61b3eee6",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    558,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Dracula's Guest\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 53,
+            "temp_id": 54,
+            "size": "468*3",
+            "signature": "[class]android.view.View[resource_id]None[text]Dracula's Guest\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1[enabled,,]",
+            "view_str": "2ab74e90fa06fea444c04ef58edbf4f5",
+            "bound_box": "90,1917,558,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "38",
+            "desc": "<button bound_box=90,1917,558,1920>Dracula's Guest\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1</button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                56
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 55,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "ce45d8616dc38a86e9e02765baf434c7",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    648,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "The Judge's House\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 21",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 55,
+            "temp_id": 56,
+            "size": "558*3",
+            "signature": "[class]android.view.View[resource_id]None[text]The Judge's House\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 21[enabled,,]",
+            "view_str": "14f7a928912c74a436434846f520f5fe",
+            "bound_box": "90,1917,648,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "39",
+            "desc": "<button bound_box=90,1917,648,1920>The Judge's House\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 21</button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                58
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 57,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "11a598a45bb12f730c8436b9133deac3",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    486,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "The Squaw\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 50",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 57,
+            "temp_id": 58,
+            "size": "396*3",
+            "signature": "[class]android.view.View[resource_id]None[text]The Squaw\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 50[enabled,,]",
+            "view_str": "4ff3e2964b7d6513635e790825574df6",
+            "bound_box": "90,1917,486,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "40",
+            "desc": "<button bound_box=90,1917,486,1920>The Squaw\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 50</button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                60
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 59,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "478abaa2a499d01d6207c67969deb3a6",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    963,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "The Secret Of The Growing Gold\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 70",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 59,
+            "temp_id": 60,
+            "size": "873*3",
+            "signature": "[class]android.view.View[resource_id]None[text]The Secret Of The Growing Gold\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 70[enabled,,]",
+            "view_str": "8b55ad6162cde2cb670a3fe1317a00cf",
+            "bound_box": "90,1917,963,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "41",
+            "desc": "<button bound_box=90,1917,963,1920>The Secret Of The Growing Gold\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 70</button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                62
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 61,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "e3f42cd068db31e5db4ee4b1ba7748ab",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    687,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "The Gipsy Prophecy\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 91",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 61,
+            "temp_id": 62,
+            "size": "597*3",
+            "signature": "[class]android.view.View[resource_id]None[text]The Gipsy Prophecy\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 91[enabled,,]",
+            "view_str": "2ef3967b94976ea5917a40506c9fbbb2",
+            "bound_box": "90,1917,687,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "42",
+            "desc": "<button bound_box=90,1917,687,1920>The Gipsy Prophecy\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 91</button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                64
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 63,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "dac020095f62e2c57abc2e077f909c27",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    930,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "The Coming Of Abel Behenna\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 107",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 63,
+            "temp_id": 64,
+            "size": "840*3",
+            "signature": "[class]android.view.View[resource_id]None[text]The Coming Of Abel Behenna\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 107[enabled,,]",
+            "view_str": "12711d288d6ef0d19e1dced6af62ba9d",
+            "bound_box": "90,1917,930,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "43",
+            "desc": "<button bound_box=90,1917,930,1920>The Coming Of Abel Behenna\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 107</button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                66
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 65,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6a86c72349399c617f4801a6039ce864",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    771,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "The Burial Of The Rats\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 136",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 65,
+            "temp_id": 66,
+            "size": "681*3",
+            "signature": "[class]android.view.View[resource_id]None[text]The Burial Of The Rats\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 136[enabled,,]",
+            "view_str": "45a52c5a792ee41adb1fab7b672b8473",
+            "bound_box": "90,1917,771,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "44",
+            "desc": "<button bound_box=90,1917,771,1920>The Burial Of The Rats\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 136</button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                68
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 67,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "06ce35d2f91e5cfdf9062c5fef3cb5c1",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    786,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "A Dream Of Red Hands\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 174",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 68,
+            "size": "696*3",
+            "signature": "[class]android.view.View[resource_id]None[text]A Dream Of Red Hands\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 174[enabled,,]",
+            "view_str": "0dc9cbe82f3b451b946fc091497c0a20",
+            "bound_box": "90,1917,786,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "45",
+            "desc": "<button bound_box=90,1917,786,1920>A Dream Of Red Hands\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 174</button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                70
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 69,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "02016db53aa3b9db1fbcbe43c71d854d",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    597,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Crooken Sands\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 190",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 69,
+            "temp_id": 70,
+            "size": "507*3",
+            "signature": "[class]android.view.View[resource_id]None[text]Crooken Sands\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 190[enabled,,]",
+            "view_str": "317cf4138649ee5493d7699208486154",
+            "bound_box": "90,1917,597,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "46",
+            "desc": "<button bound_box=90,1917,597,1920>Crooken Sands\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 190</button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 71,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "47",
+            "desc": "<p bound_box=90,1917,990,1920>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 72,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "48",
+            "desc": "<p bound_box=90,1917,990,1920>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 73,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "49",
+            "desc": "<p bound_box=90,1917,990,1920>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    90,
+                    1917
+                ],
+                [
+                    990,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 74,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "0825add3c1cbd74666796fe7d6dc8126",
+            "bound_box": "90,1917,990,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "50",
+            "desc": "<p bound_box=90,1917,990,1920>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    4410,
+                    1728
+                ],
+                [
+                    5490,
+                    1728
+                ]
+            ],
+            "resource_id": "checkWidth",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 75,
+            "size": "1080*0",
+            "signature": "[class]android.view.View[resource_id]checkWidth[text][enabled,,]",
+            "view_str": "7288fbbe3b8f91ad4a89ef9542612d33",
+            "bound_box": "4410,1728,5490,1728",
+            "content_free_signature": "[class]android.view.View[resource_id]checkWidth"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                77
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    5400,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 76,
+            "size": "-4320*1920",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "88b0692be275087bad6f29abb2e4214a",
+            "bound_box": "5400,0,1080,1920",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                78
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    5400,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.webkit.WebView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 77,
+            "size": "-4320*1920",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+            "view_str": "378be14ad4a1efe8b7aaa634bf475046",
+            "bound_box": "5400,0,1080,1920",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                79,
+                89
+            ],
+            "focused": true,
+            "bounds": [
+                [
+                    5400,
+                    0
+                ],
+                [
+                    7560,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Preface",
+            "class": "android.webkit.WebView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 77,
+            "temp_id": 78,
+            "size": "2160*1920",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]Preface[enabled,,]",
+            "view_str": "76c26b8d5324d0d9ff9b1474ec0aad33",
+            "bound_box": "5400,0,7560,1920",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "51",
+            "desc": "<scrollbar bound_box=5400,0,7560,1920>Preface</scrollbar>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 7,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                80,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    5490,
+                    570
+                ],
+                [
+                    6390,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 78,
+            "temp_id": 79,
+            "size": "900*1350",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "4292830906a4beddd7bd78d71b3b9fef",
+            "bound_box": "5490,570,6390,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                81,
+                82
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    5490,
+                    570
+                ],
+                [
+                    6390,
+                    618
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 79,
+            "temp_id": 80,
+            "size": "900*48",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "60791f2ec2857df6b2394511dfa9a2a5",
+            "bound_box": "5490,570,6390,618",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    5490,
+                    570
+                ],
+                [
+                    6390,
+                    618
+                ]
+            ],
+            "resource_id": "a21",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 80,
+            "temp_id": 81,
+            "size": "900*48",
+            "signature": "[class]android.view.View[resource_id]a21[text][enabled,,]",
+            "view_str": "161fcb109dc7a4896f84ff7adbb3c89b",
+            "bound_box": "5490,570,6390,618",
+            "content_free_signature": "[class]android.view.View[resource_id]a21"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    5847,
+                    564
+                ],
+                [
+                    6033,
+                    624
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Preface",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 80,
+            "temp_id": 82,
+            "size": "186*60",
+            "signature": "[class]android.view.View[resource_id]None[text]Preface[enabled,,]",
+            "view_str": "62bd456951b2569d21c7a86fb8354008",
+            "bound_box": "5847,564,6033,624",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "52",
+            "desc": "<p bound_box=5847,564,6033,624>Preface</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    5490,
+                    690
+                ],
+                [
+                    6390,
+                    1794
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "A few months before the lamented death of my husband\u2014I might say even as the shadow of death was over him\u2014he planned three series of short stories for publication, and the present volume is one of them. To his original list of stories in this book, I have added an hitherto unpublished episode from Dracula. It was originally excised owing to the length of the book, and may prove of interest to the many readers of what is considered my husband's most remarkable work. The other stories have already been published in English and American periodicals. Had my husband lived longer, he might have seen fit to revise this work, which is mainly from the earlier years of his strenuous life. But, as fate has entrusted to me the issuing of it, I consider it fitting and proper to let it go forth practically as it was left by him.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 79,
+            "temp_id": 83,
+            "size": "900*1104",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "9049fe8549190e36ccbf12d4b1fc5bd1",
+            "bound_box": "5490,690,6390,1794",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "53",
+            "desc": "<p bound_box=5490,690,6390,1794>A few months before the lamented death of my husba</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    5490,
+                    1812
+                ],
+                [
+                    6390,
+                    1860
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Florence Bram Stoker-",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 79,
+            "temp_id": 84,
+            "size": "900*48",
+            "signature": "[class]android.view.View[resource_id]None[text]Florence Bram Stoker-[enabled,,]",
+            "view_str": "69f0f6073032fb67948ba4ac738c4ab0",
+            "bound_box": "5490,1812,6390,1860",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "54",
+            "desc": "<p bound_box=5490,1812,6390,1860>Florence Bram Stoker-</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    5490,
+                    1899
+                ],
+                [
+                    6390,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 79,
+            "temp_id": 85,
+            "size": "900*21",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "e1abbba497adc88c87919327826e2231",
+            "bound_box": "5490,1899,6390,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "55",
+            "desc": "<p bound_box=5490,1899,6390,1920>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    5490,
+                    1917
+                ],
+                [
+                    6390,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 79,
+            "temp_id": 86,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "e1abbba497adc88c87919327826e2231",
+            "bound_box": "5490,1917,6390,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "56",
+            "desc": "<p bound_box=5490,1917,6390,1920>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    5490,
+                    1917
+                ],
+                [
+                    6390,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 79,
+            "temp_id": 87,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "e1abbba497adc88c87919327826e2231",
+            "bound_box": "5490,1917,6390,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "57",
+            "desc": "<p bound_box=5490,1917,6390,1920>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    5490,
+                    1917
+                ],
+                [
+                    6390,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u00a0",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 79,
+            "temp_id": 88,
+            "size": "900*3",
+            "signature": "[class]android.view.View[resource_id]None[text]\u00a0[enabled,,]",
+            "view_str": "e1abbba497adc88c87919327826e2231",
+            "bound_box": "5490,1917,6390,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "58",
+            "desc": "<p bound_box=5490,1917,6390,1920>\u00a0</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    6570,
+                    648
+                ],
+                [
+                    7650,
+                    648
+                ]
+            ],
+            "resource_id": "checkWidth",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 78,
+            "temp_id": 89,
+            "size": "1080*0",
+            "signature": "[class]android.view.View[resource_id]checkWidth[text][enabled,,]",
+            "view_str": "403cee9eb6aaebb3dab3d7d3e035e56f",
+            "bound_box": "6570,648,7650,648",
+            "content_free_signature": "[class]android.view.View[resource_id]checkWidth"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                91,
+                99
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    192
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/toolbar_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 90,
+            "size": "1080*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/toolbar_container[text]None[enabled,,]",
+            "view_str": "23256a39177ec490071c7bcba907211f",
+            "bound_box": "0,0,1080,192",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/toolbar_container"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                92,
+                93,
+                94,
+                95
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    168
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/toolbar",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 90,
+            "temp_id": 91,
+            "size": "1080*168",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.ebooks.ebookreader:id/toolbar[text]None[enabled,,]",
+            "view_str": "0238c1b84b6ad1ed02519a82460ca721",
+            "bound_box": "0,0,1080,168",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.ebooks.ebookreader:id/toolbar"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Navigate up",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    168,
+                    168
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 91,
+            "temp_id": 92,
+            "size": "168*168",
+            "signature": "[class]android.widget.ImageButton[resource_id]None[text]None[enabled,,]",
+            "view_str": "997d1690df11261e9acde21dc1863d77",
+            "bound_box": "0,0,168,168",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "59",
+            "desc": "<button alt='Navigate up' bound_box=0,0,168,168></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    216,
+                    12
+                ],
+                [
+                    624,
+                    93
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Dracula's Guest",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 91,
+            "temp_id": 93,
+            "size": "408*81",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]Dracula's Guest[enabled,,]",
+            "view_str": "dd0831ab46f0da031b95e715bd834347",
+            "bound_box": "216,12,624,93",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "60",
+            "desc": "<p bound_box=216,12,624,93>Dracula's Guest</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    216,
+                    93
+                ],
+                [
+                    478,
+                    156
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Bram Stoker",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 91,
+            "temp_id": 94,
+            "size": "262*63",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]Bram Stoker[enabled,,]",
+            "view_str": "c6032c45da6c9ad73d5218f415dad47b",
+            "bound_box": "216,93,478,156",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "61",
+            "desc": "<p bound_box=216,93,478,156>Bram Stoker</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                96,
+                97,
+                98
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    648,
+                    0
+                ],
+                [
+                    1080,
+                    168
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "androidx.appcompat.widget.LinearLayoutCompat",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 91,
+            "temp_id": 95,
+            "size": "432*168",
+            "signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]",
+            "view_str": "306b9e26388604ac11a333e408ecf35a",
+            "bound_box": "648,0,1080,168",
+            "content_free_signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Bookmarks",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    648,
+                    12
+                ],
+                [
+                    792,
+                    156
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/action_bookmark",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 95,
+            "temp_id": 96,
+            "size": "144*144",
+            "signature": "[class]android.widget.TextView[resource_id]com.ebooks.ebookreader:id/action_bookmark[text]None[enabled,,]",
+            "view_str": "de7b5f691a0cf876de6da3cba0ff1227",
+            "bound_box": "648,12,792,156",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.ebooks.ebookreader:id/action_bookmark",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "62",
+            "desc": "<button alt='Bookmarks' bound_box=648,12,792,156></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Notes",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    12
+                ],
+                [
+                    936,
+                    156
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/action_note",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 95,
+            "temp_id": 97,
+            "size": "144*144",
+            "signature": "[class]android.widget.TextView[resource_id]com.ebooks.ebookreader:id/action_note[text]None[enabled,,]",
+            "view_str": "291af44cc0711982aa587573b5e5d8d3",
+            "bound_box": "792,12,936,156",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.ebooks.ebookreader:id/action_note",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "63",
+            "desc": "<button alt='Notes' bound_box=792,12,936,156></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Highlights",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    12
+                ],
+                [
+                    1080,
+                    156
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/action_highlight",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 95,
+            "temp_id": 98,
+            "size": "144*144",
+            "signature": "[class]android.widget.TextView[resource_id]com.ebooks.ebookreader:id/action_highlight[text]None[enabled,,]",
+            "view_str": "ae8ce32db374a689bf4c2f480568cc1c",
+            "bound_box": "936,12,1080,156",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.ebooks.ebookreader:id/action_highlight",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "64",
+            "desc": "<button alt='Highlights' bound_box=936,12,1080,156></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    168
+                ],
+                [
+                    1080,
+                    192
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 90,
+            "temp_id": 99,
+            "size": "1080*24",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "7e639006b497329cc3b93c5e63a79a0f",
+            "bound_box": "0,168,1080,192",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    168
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/fragment_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 100,
+            "size": "1080*1752",
+            "signature": "[class]android.widget.FrameLayout[resource_id]com.ebooks.ebookreader:id/fragment_container[text]None[enabled,,]",
+            "view_str": "963ad3d50a1df96f6201f9cb23bd6e93",
+            "bound_box": "0,168,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.ebooks.ebookreader:id/fragment_container"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                102,
+                103,
+                111,
+                112
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1559
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/menu_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 101,
+            "size": "1080*361",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]com.ebooks.ebookreader:id/menu_container[text]None[enabled,,]",
+            "view_str": "d735cc1c92c1f44574c4fac30ef3dfeb",
+            "bound_box": "0,1559,1080,1920",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.ebooks.ebookreader:id/menu_container"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1559
+                ],
+                [
+                    1080,
+                    1583
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_toolbar_shadow",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 101,
+            "temp_id": 102,
+            "size": "1080*24",
+            "signature": "[class]android.view.View[resource_id]com.ebooks.ebookreader:id/slider_toolbar_shadow[text]None[enabled,,]",
+            "view_str": "b6a101402e5e721750151c6bc7fa84b3",
+            "bound_box": "0,1559,1080,1583",
+            "content_free_signature": "[class]android.view.View[resource_id]com.ebooks.ebookreader:id/slider_toolbar_shadow"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 7,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1583
+                ],
+                [
+                    1080,
+                    1727
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_toolbar_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 101,
+            "temp_id": 103,
+            "size": "1080*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/slider_toolbar_container[text]None[enabled,,]",
+            "view_str": "4c4f78e187e2ca5c470688298ddd8a1f",
+            "bound_box": "0,1583,1080,1727",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/slider_toolbar_container"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Lock Rotation",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1583
+                ],
+                [
+                    154,
+                    1727
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_toolbar_back",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 103,
+            "temp_id": 104,
+            "size": "154*144",
+            "signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_back[text]None[enabled,,]",
+            "view_str": "40540f403fd9616cccdab05218acc36d",
+            "bound_box": "0,1583,154,1727",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_back",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "65",
+            "desc": "<button alt='Lock Rotation' bound_box=0,1583,154,1727></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Lock Rotation",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    154,
+                    1583
+                ],
+                [
+                    308,
+                    1727
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_toolbar_rotation",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 103,
+            "temp_id": 105,
+            "size": "154*144",
+            "signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_rotation[text]None[enabled,,]",
+            "view_str": "a1ad4483b77ee99895e7249ae7c20e0c",
+            "bound_box": "154,1583,308,1727",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_rotation",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "66",
+            "desc": "<button alt='Lock Rotation' bound_box=154,1583,308,1727></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Contents",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    308,
+                    1583
+                ],
+                [
+                    462,
+                    1727
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_toolbar_contents",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 103,
+            "temp_id": 106,
+            "size": "154*144",
+            "signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_contents[text]None[enabled,,]",
+            "view_str": "5c2dd26bae608ddaca93c12311139ea5",
+            "bound_box": "308,1583,462,1727",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_contents",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "67",
+            "desc": "<button alt='Contents' bound_box=308,1583,462,1727></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Annotations",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    462,
+                    1583
+                ],
+                [
+                    616,
+                    1727
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_toolbar_annotations",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 103,
+            "temp_id": 107,
+            "size": "154*144",
+            "signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_annotations[text]None[enabled,,]",
+            "view_str": "549e7f7fdffbde87fea831fefb5a390a",
+            "bound_box": "462,1583,616,1727",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_annotations",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "68",
+            "desc": "<button alt='Annotations' bound_box=462,1583,616,1727></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Search",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    616,
+                    1583
+                ],
+                [
+                    770,
+                    1727
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_toolbar_search",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 103,
+            "temp_id": 108,
+            "size": "154*144",
+            "signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_search[text]None[enabled,,]",
+            "view_str": "d6026f8a43d09cb37c01fc6d53ec62f0",
+            "bound_box": "616,1583,770,1727",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_search",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "69",
+            "desc": "<button alt='Search' bound_box=616,1583,770,1727></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Settings",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    770,
+                    1583
+                ],
+                [
+                    925,
+                    1727
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_toolbar_settings",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 103,
+            "temp_id": 109,
+            "size": "155*144",
+            "signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_settings[text]None[enabled,,]",
+            "view_str": "9fc54c4ba2cdacaaaee269734efadb8a",
+            "bound_box": "770,1583,925,1727",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_settings",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "70",
+            "desc": "<button alt='Settings' bound_box=770,1583,925,1727></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Share",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    925,
+                    1583
+                ],
+                [
+                    1080,
+                    1727
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_toolbar_share",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 103,
+            "temp_id": 110,
+            "size": "155*144",
+            "signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_share[text]None[enabled,,]",
+            "view_str": "d2e236f150afdc2acbf27bcadf2220fa",
+            "bound_box": "925,1583,1080,1727",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.ebooks.ebookreader:id/slider_toolbar_share",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "71",
+            "desc": "<button alt='Share' bound_box=925,1583,1080,1727></button>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1703
+                ],
+                [
+                    1080,
+                    1727
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_progress_shadow",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 101,
+            "temp_id": 111,
+            "size": "1080*24",
+            "signature": "[class]android.view.View[resource_id]com.ebooks.ebookreader:id/slider_progress_shadow[text]None[enabled,,]",
+            "view_str": "7f92199ca64c266ef79e1e5378039926",
+            "bound_box": "0,1703,1080,1727",
+            "content_free_signature": "[class]android.view.View[resource_id]com.ebooks.ebookreader:id/slider_progress_shadow"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                113,
+                114
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1727
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_progress_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 101,
+            "temp_id": 112,
+            "size": "1080*193",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/slider_progress_container[text]None[enabled,,]",
+            "view_str": "5237a85f1d86816f719feef066302eb9",
+            "bound_box": "0,1727,1080,1920",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/slider_progress_container"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1775
+                ],
+                [
+                    1080,
+                    1863
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_progress",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.SeekBar",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 112,
+            "temp_id": 113,
+            "size": "1080*88",
+            "signature": "[class]android.widget.SeekBar[resource_id]com.ebooks.ebookreader:id/slider_progress[text]None[enabled,,]",
+            "view_str": "b7c067af71ab81be6b5c84a9047814e3",
+            "bound_box": "0,1775,1080,1863",
+            "content_free_signature": "[class]android.widget.SeekBar[resource_id]com.ebooks.ebookreader:id/slider_progress"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                115,
+                116
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1863
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_progress_text",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 112,
+            "temp_id": 114,
+            "size": "1080*57",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/slider_progress_text[text]None[enabled,,]",
+            "view_str": "66944a50788148239117ae1f53523a59",
+            "bound_box": "0,1863,1080,1920",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/slider_progress_text"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    355,
+                    1863
+                ],
+                [
+                    451,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_progress_percent",
+            "checked": false,
+            "text": "0%",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 114,
+            "temp_id": 115,
+            "size": "96*57",
+            "signature": "[class]android.widget.TextView[resource_id]com.ebooks.ebookreader:id/slider_progress_percent[text]0%[enabled,,]",
+            "view_str": "11ae76c7f7a28b3754f8314d08590254",
+            "bound_box": "355,1863,451,1920",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.ebooks.ebookreader:id/slider_progress_percent",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "72",
+            "desc": "<p bound_box=355,1863,451,1920>0%</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    451,
+                    1863
+                ],
+                [
+                    724,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/slider_progress_page",
+            "checked": false,
+            "text": "Page 1 of 275",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 114,
+            "temp_id": 116,
+            "size": "273*57",
+            "signature": "[class]android.widget.TextView[resource_id]com.ebooks.ebookreader:id/slider_progress_page[text]Page 1 of 275[enabled,,]",
+            "view_str": "0a25629734409ea80c55732c0c476698",
+            "bound_box": "451,1863,724,1920",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.ebooks.ebookreader:id/slider_progress_page",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "73",
+            "desc": "<p bound_box=451,1863,724,1920>Page 1 of 275</p>"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": false,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                118,
+                119
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1920
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/searchnav_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 117,
+            "size": "1080*0",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/searchnav_container[text]None[enabled,,]",
+            "view_str": "27edd3c9e012f08597ed988b9be2b342",
+            "bound_box": "0,1920,1080,1920",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.ebooks.ebookreader:id/searchnav_container"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1920
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 117,
+            "temp_id": 118,
+            "size": "1080*0",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "d03dbd86809e51bad8e8dd1d03befc26",
+            "bound_box": "0,1920,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": false,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                120,
+                121
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1944
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 117,
+            "temp_id": 119,
+            "size": "1080*-24",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "7d73cd2aa9d895703dac3438dad00a53",
+            "bound_box": "0,1944,1080,1920",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Find previous occurrence",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1944
+                ],
+                [
+                    540,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/search_prev",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 119,
+            "temp_id": 120,
+            "size": "540*-24",
+            "signature": "[class]android.widget.ImageButton[resource_id]com.ebooks.ebookreader:id/search_prev[text]None[enabled,,]",
+            "view_str": "72eef6e4aa2383c2ca28e7b3432ac2d2",
+            "bound_box": "0,1944,540,1920",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.ebooks.ebookreader:id/search_prev"
+        },
+        {
+            "package": "com.ebooks.ebookreader",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Find next occurrence",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1944
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.ebooks.ebookreader:id/search_next",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 119,
+            "temp_id": 121,
+            "size": "540*-24",
+            "signature": "[class]android.widget.ImageButton[resource_id]com.ebooks.ebookreader:id/search_next[text]None[enabled,,]",
+            "view_str": "7b4b4c9f5184d14fe0beed3bc3868cdf",
+            "bound_box": "540,1944,1080,1920",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.ebooks.ebookreader:id/search_next"
+        }
+    ]
+}

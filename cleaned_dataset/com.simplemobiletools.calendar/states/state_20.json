@@ -1,0 +1,226 @@
+{
+    "state_str": "08b900/1358cd",
+    "state_str_content_free": "dd1dd1/76ccf6",
+    "foreground_activity": "com.simplemobiletools.calendar/.activities.EventActivity",
+    "activity_stack": [
+        "com.simplemobiletools.calendar/.activities.EventActivity",
+        "com.simplemobiletools.calendar/.activities.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.simplemobiletools.calendar",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    683,
+                    952
+                ],
+                [
+                    804,
+                    1240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "121*288",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "54e448bb766f0c34c84109e4b735a494",
+            "bound_box": "683,952,804,1240",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.simplemobiletools.calendar",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    683,
+                    952
+                ],
+                [
+                    804,
+                    1240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "121*288",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "72c7da397aab3ce477d9fd214f511542",
+            "bound_box": "683,952,804,1240",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.simplemobiletools.calendar",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3,
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    683,
+                    952
+                ],
+                [
+                    804,
+                    1240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ListView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "121*288",
+            "signature": "[class]android.widget.ListView[resource_id]None[text]None[enabled,,]",
+            "view_str": "73bbdbe9e72ec777927dfa604e328c10",
+            "bound_box": "683,952,804,1240",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]None"
+        },
+        {
+            "package": "com.simplemobiletools.calendar",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    683,
+                    952
+                ],
+                [
+                    804,
+                    1096
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "AM",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "121*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]AM[enabled,,]",
+            "view_str": "5009ddaa903ca2a0394d9ced4fd39b4a",
+            "bound_box": "683,952,804,1096",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<checkbox bound_box=683,952,804,1096>AM</checkbox>"
+        },
+        {
+            "package": "com.simplemobiletools.calendar",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    683,
+                    1096
+                ],
+                [
+                    804,
+                    1240
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": true,
+            "text": "PM",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 4,
+            "size": "121*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]PM[enabled,checked,]",
+            "view_str": "6ae9ed2a6bd1cdbcd8ef2e96f19f154a",
+            "bound_box": "683,1096,804,1240",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "1",
+            "desc": "<checkbox bound_box=683,1096,804,1240>PM</checkbox>"
+        }
+    ]
+}

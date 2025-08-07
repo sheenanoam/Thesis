@@ -1,0 +1,414 @@
+{
+    "state_str": "5dfbbd/1ee284",
+    "state_str_content_free": "024a1a/2e0fb5",
+    "foreground_activity": "com.handmark.expressweather/com.oneweather.home.home.HomeUIActivity",
+    "activity_stack": [
+        "com.handmark.expressweather/com.oneweather.home.home.HomeUIActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.handmark.expressweather",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    739
+                ],
+                [
+                    954,
+                    993
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "954*254",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "767adf57ba0a5e87257c11faba587942",
+            "bound_box": "0,739,954,993",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.handmark.expressweather",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    739
+                ],
+                [
+                    954,
+                    993
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "954*254",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "94b77d39fba7003bb6ff9f83d3a6d8d7",
+            "bound_box": "0,739,954,993",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.handmark.expressweather",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3,
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    739
+                ],
+                [
+                    954,
+                    993
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "954*254",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "8e7ed83e4c7d01ae2599f3b3c5505f27",
+            "bound_box": "0,739,954,993",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.handmark.expressweather",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    755
+                ],
+                [
+                    954,
+                    971
+                ]
+            ],
+            "resource_id": "com.handmark.expressweather:id/scroller",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "954*216",
+            "signature": "[class]android.widget.ScrollView[resource_id]com.handmark.expressweather:id/scroller[text]None[enabled,,]",
+            "view_str": "6b6c46602497661b2cb84b84cf350c1e",
+            "bound_box": "0,755,954,971",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]com.handmark.expressweather:id/scroller"
+        },
+        {
+            "package": "com.handmark.expressweather",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    755
+                ],
+                [
+                    954,
+                    971
+                ]
+            ],
+            "resource_id": "com.handmark.expressweather:id/tracks",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "954*216",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.handmark.expressweather:id/tracks[text]None[enabled,,]",
+            "view_str": "acad31fd47480234f3150200be2013a1",
+            "bound_box": "0,755,954,971",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.handmark.expressweather:id/tracks"
+        },
+        {
+            "package": "com.handmark.expressweather",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    755
+                ],
+                [
+                    954,
+                    971
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "954*216",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "36dcb2b87c99ebc91db29f50390ec77d",
+            "bound_box": "0,755,954,971",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.handmark.expressweather",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    755
+                ],
+                [
+                    954,
+                    971
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "954*216",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "1579e93ce32ed3f01b1449d7473fd5db",
+            "bound_box": "0,755,954,971",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.handmark.expressweather",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    800
+                ],
+                [
+                    96,
+                    860
+                ]
+            ],
+            "resource_id": "com.handmark.expressweather:id/weatherIcon",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "60*60",
+            "signature": "[class]android.widget.ImageView[resource_id]com.handmark.expressweather:id/weatherIcon[text]None[enabled,,]",
+            "view_str": "ea2ae463310f96798dba174cdd7fe64e",
+            "bound_box": "36,800,96,860",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.handmark.expressweather:id/weatherIcon"
+        },
+        {
+            "package": "com.handmark.expressweather",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    114,
+                    755
+                ],
+                [
+                    954,
+                    971
+                ]
+            ],
+            "resource_id": "com.handmark.expressweather:id/message",
+            "checked": false,
+            "text": "Humidity is the amount of water vapor in the air. Humidity indicates the likelihood of precipitation, dew, or fog.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 8,
+            "size": "840*216",
+            "signature": "[class]android.widget.TextView[resource_id]com.handmark.expressweather:id/message[text]None[enabled,,]",
+            "view_str": "92d8d18b62b9ec2f35f40e9dc28aa5cf",
+            "bound_box": "114,755,954,971",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.handmark.expressweather:id/message",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=114,755,954,971>Humidity is the amount of water vapor in the air. </p>"
+        },
+        {
+            "package": "com.handmark.expressweather",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    464,
+                    971
+                ],
+                [
+                    505,
+                    993
+                ]
+            ],
+            "resource_id": "com.handmark.expressweather:id/arrow_down",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 9,
+            "size": "41*22",
+            "signature": "[class]android.widget.ImageView[resource_id]com.handmark.expressweather:id/arrow_down[text]None[enabled,,]",
+            "view_str": "0e845471ae8cb251a022a20be528a6cc",
+            "bound_box": "464,971,505,993",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.handmark.expressweather:id/arrow_down"
+        }
+    ]
+}

@@ -1,0 +1,5417 @@
+{
+    "state_str": "08b900/92d7d0",
+    "state_str_content_free": "dd1dd1/b5b5bd",
+    "foreground_activity": "com.settrade.streaming.trial/com.settrade.streaming.OpenACActivity",
+    "activity_stack": [
+        "com.settrade.streaming.trial/com.settrade.streaming.OpenACActivity",
+        "com.settrade.streaming.trial/com.settrade.streaming.LoginActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                132,
+                133
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c606f869a3b3501b2caff30aa728e6af",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "7c1a7eb87c9d9e89b1bfc4b46d34947e",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "13b94605662902609c8c693f8db4a440",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "828669e739dd46f1d863cbd68aabc323",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    198
+                ]
+            ],
+            "resource_id": "com.settrade.streaming.trial:id/openac_back_menu",
+            "checked": false,
+            "text": "Registration",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*126",
+            "signature": "[class]android.widget.TextView[resource_id]com.settrade.streaming.trial:id/openac_back_menu[text]Registration[enabled,,]",
+            "view_str": "dbd291e0da796f0ab117b6616f897535",
+            "bound_box": "0,72,1080,198",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.settrade.streaming.trial:id/openac_back_menu",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button bound_box=0,72,1080,198>Registration</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    198
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.webkit.WebView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 5,
+            "size": "1080*1578",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+            "view_str": "16fdfcddad846f5b1916365b2198f865",
+            "bound_box": "0,198,1080,1776",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7
+            ],
+            "focused": true,
+            "bounds": [
+                [
+                    0,
+                    198
+                ],
+                [
+                    1188,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e25\u0e31\u0e01 - TFEX : Thailand Futures Exchange",
+            "class": "android.webkit.WebView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1188*1578",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e25\u0e31\u0e01 - TFEX : Thailand Futures Exchange[enabled,,]",
+            "view_str": "2e7b90178b8fdf40d5fef66e28db9dbd",
+            "bound_box": "0,198,1188,1776",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<scrollbar bound_box=0,198,1188,1776>\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e25\u0e31\u0e01 - TFEX : Thailand Futures Exchange</scrollbar>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    198
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "__nuxt",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "1080*1578",
+            "signature": "[class]android.view.View[resource_id]__nuxt[text][enabled,,]",
+            "view_str": "c432401c458d2618ab55dd6a3cd73826",
+            "bound_box": "0,198,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]__nuxt"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 30,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9,
+                23,
+                31,
+                32,
+                33,
+                34,
+                35,
+                39,
+                47,
+                49,
+                50,
+                51,
+                52,
+                54,
+                55,
+                56,
+                57,
+                59,
+                60,
+                61,
+                62,
+                65,
+                117,
+                118,
+                121,
+                123,
+                124,
+                125,
+                127,
+                128
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    198
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "__layout",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "1080*1578",
+            "signature": "[class]android.view.View[resource_id]__layout[text][enabled,,]",
+            "view_str": "e46f9e07cd37b15c5e928d1bd4a47979",
+            "bound_box": "0,198,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]__layout"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10,
+                12,
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    198
+                ],
+                [
+                    1080,
+                    381
+                ]
+            ],
+            "resource_id": "sectionTop",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "1080*183",
+            "signature": "[class]android.view.View[resource_id]sectionTop[text][enabled,,]",
+            "view_str": "92be6361e9079ab8b0937cb2cbf1ba68",
+            "bound_box": "0,198,1080,381",
+            "content_free_signature": "[class]android.view.View[resource_id]sectionTop"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    234
+                ],
+                [
+                    498,
+                    258
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "450*24",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "7af23b7f7dff337fb091369738dec9e2",
+            "bound_box": "48,234,498,258",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    234
+                ],
+                [
+                    348,
+                    258
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "300*24",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "a7eba087faf4770c24aeb29f5ee76e6a",
+            "bound_box": "48,234,348,258",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    828,
+                    234
+                ],
+                [
+                    1008,
+                    258
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 12,
+            "size": "180*24",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "7af23b7f7dff337fb091369738dec9e2",
+            "bound_box": "828,234,1008,258",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<scrollbar bound_box=828,234,1008,258></scrollbar>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    828,
+                    234
+                ],
+                [
+                    1008,
+                    258
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "180*24",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "a7eba087faf4770c24aeb29f5ee76e6a",
+            "bound_box": "828,234,1008,258",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15,
+                17,
+                19,
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    297
+                ],
+                [
+                    1080,
+                    378
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 14,
+            "size": "1080*81",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "105b69c7296ebc3afcf8ab5aad0df0a4",
+            "bound_box": "0,297,1080,378",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    324
+                ],
+                [
+                    258,
+                    351
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "210*27",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "4c47e2f2e8c147323ca5ed52b1f764a8",
+            "bound_box": "48,324,258,351",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<scrollbar bound_box=48,324,258,351></scrollbar>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    324
+                ],
+                [
+                    258,
+                    351
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 16,
+            "size": "210*27",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "9372939f0ac32360aa6106257f884bc3",
+            "bound_box": "48,324,258,351",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                18
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    306,
+                    324
+                ],
+                [
+                    516,
+                    351
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 17,
+            "size": "210*27",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "4c47e2f2e8c147323ca5ed52b1f764a8",
+            "bound_box": "306,324,516,351",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<scrollbar bound_box=306,324,516,351></scrollbar>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    306,
+                    324
+                ],
+                [
+                    516,
+                    351
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 18,
+            "size": "210*27",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "9372939f0ac32360aa6106257f884bc3",
+            "bound_box": "306,324,516,351",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                20
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    564,
+                    324
+                ],
+                [
+                    774,
+                    351
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 19,
+            "size": "210*27",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "4c47e2f2e8c147323ca5ed52b1f764a8",
+            "bound_box": "564,324,774,351",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<scrollbar bound_box=564,324,774,351></scrollbar>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    564,
+                    324
+                ],
+                [
+                    774,
+                    351
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 20,
+            "size": "210*27",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "9372939f0ac32360aa6106257f884bc3",
+            "bound_box": "564,324,774,351",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                22
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    822,
+                    324
+                ],
+                [
+                    1032,
+                    351
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 21,
+            "size": "210*27",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "4c47e2f2e8c147323ca5ed52b1f764a8",
+            "bound_box": "822,324,1032,351",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<scrollbar bound_box=822,324,1032,351></scrollbar>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    822,
+                    324
+                ],
+                [
+                    1032,
+                    351
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 21,
+            "temp_id": 22,
+            "size": "210*27",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "9372939f0ac32360aa6106257f884bc3",
+            "bound_box": "822,324,1032,351",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                24
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    381
+                ],
+                [
+                    1080,
+                    537
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 23,
+            "size": "1080*156",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "2756b0b376a50a631fbb774b5774ab62",
+            "bound_box": "0,381,1080,537",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                25,
+                26,
+                27,
+                29,
+                30
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    381
+                ],
+                [
+                    1080,
+                    537
+                ]
+            ],
+            "resource_id": "appNavBar",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 23,
+            "temp_id": 24,
+            "size": "1080*156",
+            "signature": "[class]android.view.View[resource_id]appNavBar[text][enabled,,]",
+            "view_str": "19f9c3fd4107a39dc99568647b865e42",
+            "bound_box": "0,381,1080,537",
+            "content_free_signature": "[class]android.view.View[resource_id]appNavBar"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    408
+                ],
+                [
+                    123,
+                    510
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Toggle navigation",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 24,
+            "temp_id": 25,
+            "size": "99*102",
+            "signature": "[class]android.widget.Button[resource_id]None[text]Toggle navigation[enabled,,]",
+            "view_str": "b6125d33e224a9a4483eb8938786a9e6",
+            "bound_box": "24,408,123,510",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<button bound_box=24,408,123,510>Toggle navigation</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    159,
+                    423
+                ],
+                [
+                    450,
+                    495
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "TFEX",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 24,
+            "temp_id": 26,
+            "size": "291*72",
+            "signature": "[class]android.view.View[resource_id]None[text]TFEX[enabled,,]",
+            "view_str": "f48f3ce558a914861ac96582ad73b134",
+            "bound_box": "159,423,450,495",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<button bound_box=159,423,450,495>TFEX</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                28
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    633,
+                    417
+                ],
+                [
+                    768,
+                    501
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 24,
+            "temp_id": 27,
+            "size": "135*84",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "5fb36f7266f369fc725e483d7dfb23d5",
+            "bound_box": "633,417,768,501",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    633,
+                    417
+                ],
+                [
+                    768,
+                    501
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Menu shortcut",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 28,
+            "size": "135*84",
+            "signature": "[class]android.widget.Button[resource_id]None[text]Menu shortcut[enabled,,]",
+            "view_str": "78c0316269d21085dd3681e602ba1837",
+            "bound_box": "633,417,768,501",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<button bound_box=633,417,768,501>Menu shortcut</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    768,
+                    417
+                ],
+                [
+                    906,
+                    501
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Login SET Member",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 24,
+            "temp_id": 29,
+            "size": "138*84",
+            "signature": "[class]android.view.View[resource_id]None[text]Login SET Member[enabled,,]",
+            "view_str": "080c255257014e6cd5d929009f804a33",
+            "bound_box": "768,417,906,501",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<button bound_box=768,417,906,501>Login SET Member</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    957,
+                    408
+                ],
+                [
+                    1056,
+                    510
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Site Search",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 24,
+            "temp_id": 30,
+            "size": "99*102",
+            "signature": "[class]android.widget.Button[resource_id]None[text]Site Search[enabled,,]",
+            "view_str": "7becb753bad46bcc0c06743633bd2443",
+            "bound_box": "957,408,1056,510",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<button bound_box=957,408,1056,510>Site Search</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    447,
+                    537
+                ],
+                [
+                    633,
+                    609
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Thailand",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 31,
+            "size": "186*72",
+            "signature": "[class]android.view.View[resource_id]None[text]Thailand[enabled,,]",
+            "view_str": "1922fca0ca3adfbca4e47aa98949c88c",
+            "bound_box": "447,537,633,609",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "12",
+            "desc": "<p bound_box=447,537,633,609>Thailand</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    348,
+                    609
+                ],
+                [
+                    732,
+                    681
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Futures Exchange",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 32,
+            "size": "384*72",
+            "signature": "[class]android.view.View[resource_id]None[text]Futures Exchange[enabled,,]",
+            "view_str": "40e07d60f9715b90960db01ddbc9cbc8",
+            "bound_box": "348,609,732,681",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "13",
+            "desc": "<p bound_box=348,609,732,681>Futures Exchange</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    159,
+                    681
+                ],
+                [
+                    921,
+                    735
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e1c\u0e25\u0e15\u0e2d\u0e1a\u0e41\u0e17\u0e19\u0e41\u0e25\u0e30\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 33,
+            "size": "762*54",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e1c\u0e25\u0e15\u0e2d\u0e1a\u0e41\u0e17\u0e19\u0e41\u0e25\u0e30\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07[enabled,,]",
+            "view_str": "4c57604f0bb0399e709d87b55bc0b662",
+            "bound_box": "159,681,921,735",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "14",
+            "desc": "<p bound_box=159,681,921,735>\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e1c\u0e25\u0e15\u0e2d\u0e1a\u0e41\u0e17\u0e19\u0e41\u0e25\u0e30\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    177,
+                    732
+                ],
+                [
+                    903,
+                    789
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e25\u0e07\u0e17\u0e38\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2a\u0e20\u0e32\u0e27\u0e30\u0e15\u0e25\u0e32\u0e14 \u0e14\u0e49\u0e27\u0e22\u0e2d\u0e19\u0e38\u0e1e\u0e31\u0e19\u0e18\u0e4c",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 34,
+            "size": "726*57",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e25\u0e07\u0e17\u0e38\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2a\u0e20\u0e32\u0e27\u0e30\u0e15\u0e25\u0e32\u0e14 \u0e14\u0e49\u0e27\u0e22\u0e2d\u0e19\u0e38\u0e1e\u0e31\u0e19\u0e18\u0e4c[enabled,,]",
+            "view_str": "b4ee5d127f0eddfd698712f647a33005",
+            "bound_box": "177,732,903,789",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "15",
+            "desc": "<p bound_box=177,732,903,789>\u0e25\u0e07\u0e17\u0e38\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2a\u0e20\u0e32\u0e27\u0e30\u0e15\u0e25\u0e32\u0e14 \u0e14\u0e49\u0e27\u0e22\u0e2d\u0e19\u0e38\u0e1e\u0e31\u0e19\u0e18\u0e4c</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                36
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    192,
+                    834
+                ],
+                [
+                    888,
+                    957
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 35,
+            "size": "696*123",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "9fc92532512712f679b058a3ecc0de92",
+            "bound_box": "192,834,888,957",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                37,
+                38
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    192,
+                    834
+                ],
+                [
+                    888,
+                    957
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 35,
+            "temp_id": 36,
+            "size": "696*123",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "16bb2f8adab86297cc0fa8ed72831651",
+            "bound_box": "192,834,888,957",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    231,
+                    870
+                ],
+                [
+                    282,
+                    921
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 36,
+            "temp_id": 37,
+            "size": "51*51",
+            "signature": "[class]android.widget.Image[resource_id]None[text][enabled,,]",
+            "view_str": "40f376dbf14babeaa0471727c1df7398",
+            "bound_box": "231,870,282,921",
+            "content_free_signature": "[class]android.widget.Image[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    303,
+                    864
+                ],
+                [
+                    849,
+                    924
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e37\u0e48\u0e2d\u0e22\u0e48\u0e2d\u0e2a\u0e31\u0e0d\u0e0d\u0e32, \u0e02\u0e48\u0e32\u0e27, \u0e40\u0e19\u0e37\u0e49\u0e2d\u0e2b\u0e32",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 36,
+            "temp_id": 38,
+            "size": "546*60",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e37\u0e48\u0e2d\u0e22\u0e48\u0e2d\u0e2a\u0e31\u0e0d\u0e0d\u0e32, \u0e02\u0e48\u0e32\u0e27, \u0e40\u0e19\u0e37\u0e49\u0e2d\u0e2b\u0e32[enabled,,]",
+            "view_str": "f69a9863080900714de42f3929bae9cc",
+            "bound_box": "303,864,849,924",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "16",
+            "desc": "<p bound_box=303,864,849,924>\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e37\u0e48\u0e2d\u0e22\u0e48\u0e2d\u0e2a\u0e31\u0e0d\u0e0d\u0e32, \u0e02\u0e48\u0e32\u0e27, \u0e40\u0e19\u0e37\u0e49\u0e2d\u0e2b\u0e32</p>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                40
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    954
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 39,
+            "size": "1080*822",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "9fc92532512712f679b058a3ecc0de92",
+            "bound_box": "0,954,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                41
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    954
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 39,
+            "temp_id": 40,
+            "size": "1080*822",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "66e43c9a77fe2f3e7de8b8d7080f6cf0",
+            "bound_box": "0,954,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                42
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    954
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "bannerv2pa4d17kb",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 40,
+            "temp_id": 41,
+            "size": "1080*822",
+            "signature": "[class]android.view.View[resource_id]bannerv2pa4d17kb[text][enabled,,]",
+            "view_str": "8ec82b4aeb88a942acab1350f2b5b670",
+            "bound_box": "0,954,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]bannerv2pa4d17kb"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                43,
+                44,
+                45,
+                46
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    954
+                ],
+                [
+                    1080,
+                    1245
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 41,
+            "temp_id": 42,
+            "size": "1080*291",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "95d6b11548762c975a7b276a1062e64a",
+            "bound_box": "0,954,1080,1245",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    954
+                ],
+                [
+                    1080,
+                    1029
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e01\u0e32\u0e23\u0e02\u0e22\u0e32\u0e22\u0e40\u0e27\u0e25\u0e32\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e43\u0e19 TFEX \u0e20\u0e32\u0e04\u0e1a\u0e48\u0e32\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e47\u0e27\u0e02\u0e36\u0e49\u0e19 30 \u0e19\u0e32\u0e17\u0e35",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 42,
+            "temp_id": 43,
+            "size": "1080*75",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "414586acf23a5734ef66d331719b2f63",
+            "bound_box": "0,954,1080,1029",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "17",
+            "desc": "<button bound_box=0,954,1080,1029>\u0e01\u0e32\u0e23\u0e02\u0e22\u0e32\u0e22\u0e40\u0e27\u0e25\u0e32\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e43\u0e19 TFEX \u0e20\u0e32\u0e04\u0e1a\u0e48\u0e32\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e47\u0e27\u0e02\u0e36\u0e49\u0e19 30 \u0e19\u0e32</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1026
+                ],
+                [
+                    1080,
+                    1101
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e01\u0e32\u0e23\u0e02\u0e22\u0e32\u0e22\u0e40\u0e27\u0e25\u0e32\u0e40\u0e17\u0e23\u0e14\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 Currency Futures \u0e41\u0e25\u0e30 Precious Metal Futures",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 42,
+            "temp_id": 44,
+            "size": "1080*75",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "414586acf23a5734ef66d331719b2f63",
+            "bound_box": "0,1026,1080,1101",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "18",
+            "desc": "<button bound_box=0,1026,1080,1101>\u0e01\u0e32\u0e23\u0e02\u0e22\u0e32\u0e22\u0e40\u0e27\u0e25\u0e32\u0e40\u0e17\u0e23\u0e14\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 Currency Futures \u0e41\u0e25\u0e30 Preciou</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1098
+                ],
+                [
+                    1080,
+                    1173
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e40\u0e17\u0e04\u0e19\u0e34\u0e04\u0e17\u0e33\u0e01\u0e33\u0e44\u0e23\u0e43\u0e19\u0e0a\u0e48\u0e27\u0e07\u0e15\u0e25\u0e32\u0e14\u0e1c\u0e31\u0e19\u0e1c\u0e27\u0e19\u0e14\u0e49\u0e27\u0e22 SET50 & Stock Futures",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 42,
+            "temp_id": 45,
+            "size": "1080*75",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "414586acf23a5734ef66d331719b2f63",
+            "bound_box": "0,1098,1080,1173",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "19",
+            "desc": "<button bound_box=0,1098,1080,1173>\u0e40\u0e17\u0e04\u0e19\u0e34\u0e04\u0e17\u0e33\u0e01\u0e33\u0e44\u0e23\u0e43\u0e19\u0e0a\u0e48\u0e27\u0e07\u0e15\u0e25\u0e32\u0e14\u0e1c\u0e31\u0e19\u0e1c\u0e27\u0e19\u0e14\u0e49\u0e27\u0e22 SET50 & Stock Fut</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1170
+                ],
+                [
+                    1080,
+                    1245
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e40\u0e23\u0e35\u0e22\u0e19\u0e40\u0e17\u0e23\u0e14 Options",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 42,
+            "temp_id": 46,
+            "size": "1080*75",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e40\u0e23\u0e35\u0e22\u0e19\u0e40\u0e17\u0e23\u0e14 Options[enabled,,]",
+            "view_str": "8300ab5b70451e7b8d7e9f90f4f407ac",
+            "bound_box": "0,1170,1080,1245",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "20",
+            "desc": "<button bound_box=0,1170,1080,1245>\u0e40\u0e23\u0e35\u0e22\u0e19\u0e40\u0e17\u0e23\u0e14 Options</button>"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                48
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    120,
+                    1929
+                ],
+                [
+                    120,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 47,
+            "size": "0*-153",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "966ddd9f9326808aad3bc6c483c77a39",
+            "bound_box": "120,1929,120,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    120,
+                    1929
+                ],
+                [
+                    120,
+                    1776
+                ]
+            ],
+            "resource_id": "img-otibrj79",
+            "checked": false,
+            "text": "",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 47,
+            "temp_id": 48,
+            "size": "0*-153",
+            "signature": "[class]android.widget.Image[resource_id]img-otibrj79[text][enabled,,]",
+            "view_str": "38fae3a00bada9a2a8662347c347e250",
+            "bound_box": "120,1929,120,1776",
+            "content_free_signature": "[class]android.widget.Image[resource_id]img-otibrj79"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    1929
+                ],
+                [
+                    348,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e19\u0e31\u0e01\u0e25\u0e07\u0e17\u0e38\u0e19\u0e17\u0e31\u0e48\u0e27\u0e44\u0e1b",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 49,
+            "size": "288*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e19\u0e31\u0e01\u0e25\u0e07\u0e17\u0e38\u0e19\u0e17\u0e31\u0e48\u0e27\u0e44\u0e1b[enabled,,]",
+            "view_str": "3c8b43f02503e7c5a5b15565b89bb8e2",
+            "bound_box": "60,1929,348,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    1929
+                ],
+                [
+                    348,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Investors",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 50,
+            "size": "288*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Investors[enabled,,]",
+            "view_str": "187a58d72a7d6586d648d4f056c41b9f",
+            "bound_box": "60,1929,348,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    345,
+                    1929
+                ],
+                [
+                    1428,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "link",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 51,
+            "size": "1083*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]link[enabled,,]",
+            "view_str": "8b743f93c58740e2e330ff4a9906b786",
+            "bound_box": "345,1929,1428,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                53
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    762,
+                    1929
+                ],
+                [
+                    762,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 52,
+            "size": "0*-153",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "418f9c0b3a9fd4e8a7dd24133319fed7",
+            "bound_box": "762,1929,762,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    762,
+                    1929
+                ],
+                [
+                    762,
+                    1776
+                ]
+            ],
+            "resource_id": "img-7puss6f1",
+            "checked": false,
+            "text": "",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 53,
+            "size": "0*-153",
+            "signature": "[class]android.widget.Image[resource_id]img-7puss6f1[text][enabled,,]",
+            "view_str": "78831651e35e610765d9ab02b99afde7",
+            "bound_box": "762,1929,762,1776",
+            "content_free_signature": "[class]android.widget.Image[resource_id]img-7puss6f1"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    381,
+                    1929
+                ],
+                [
+                    729,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e19\u0e31\u0e01\u0e25\u0e07\u0e17\u0e38\u0e19\u0e2a\u0e16\u0e32\u0e1a\u0e31\u0e19",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 54,
+            "size": "348*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e19\u0e31\u0e01\u0e25\u0e07\u0e17\u0e38\u0e19\u0e2a\u0e16\u0e32\u0e1a\u0e31\u0e19[enabled,,]",
+            "view_str": "52d9c9d2c33552c4edc11dbafb90c76d",
+            "bound_box": "381,1929,729,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    381,
+                    1929
+                ],
+                [
+                    729,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Institutional Investors",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 55,
+            "size": "348*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Institutional Investors[enabled,,]",
+            "view_str": "3615db99539c80eb99992210a525b068",
+            "bound_box": "381,1929,729,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    726,
+                    1929
+                ],
+                [
+                    1809,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "link",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 56,
+            "size": "1083*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]link[enabled,,]",
+            "view_str": "8b743f93c58740e2e330ff4a9906b786",
+            "bound_box": "726,1929,1809,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                58
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    1185,
+                    1929
+                ],
+                [
+                    1188,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 57,
+            "size": "3*-153",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "b2792d3670745600aa72ce9cbbf48448",
+            "bound_box": "1185,1929,1188,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1185,
+                    1929
+                ],
+                [
+                    1188,
+                    1776
+                ]
+            ],
+            "resource_id": "img-tffdypkz",
+            "checked": false,
+            "text": "",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 57,
+            "temp_id": 58,
+            "size": "3*-153",
+            "signature": "[class]android.widget.Image[resource_id]img-tffdypkz[text][enabled,,]",
+            "view_str": "4768fc850d3029adb63058b19ebb5302",
+            "bound_box": "1185,1929,1188,1776",
+            "content_free_signature": "[class]android.widget.Image[resource_id]img-tffdypkz"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    762,
+                    1929
+                ],
+                [
+                    1176,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e19\u0e31\u0e01\u0e25\u0e07\u0e17\u0e38\u0e19\u0e15\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 59,
+            "size": "414*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e19\u0e31\u0e01\u0e25\u0e07\u0e17\u0e38\u0e19\u0e15\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28[enabled,,]",
+            "view_str": "df6506d17ec30880f55d5446727d12c6",
+            "bound_box": "762,1929,1176,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    762,
+                    1929
+                ],
+                [
+                    1176,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Foreign Investors",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 60,
+            "size": "414*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Foreign Investors[enabled,,]",
+            "view_str": "589313835c53177771cf9aee61ed5972",
+            "bound_box": "762,1929,1176,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1173,
+                    1929
+                ],
+                [
+                    2256,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "link",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 61,
+            "size": "1083*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]link[enabled,,]",
+            "view_str": "8b743f93c58740e2e330ff4a9906b786",
+            "bound_box": "1173,1929,2256,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                63,
+                64
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    966,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.widget.TabWidget",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 62,
+            "size": "930*-153",
+            "signature": "[class]android.widget.TabWidget[resource_id]None[text][enabled,,]",
+            "view_str": "0297fce58bf9d2aa062963cf04f9790f",
+            "bound_box": "36,1929,966,1776",
+            "content_free_signature": "[class]android.widget.TabWidget[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    483,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e20\u0e32\u0e1e\u0e23\u0e27\u0e21\u0e15\u0e25\u0e32\u0e14",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": true,
+            "long_clickable": false,
+            "parent": 62,
+            "temp_id": 63,
+            "size": "447*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e20\u0e32\u0e1e\u0e23\u0e27\u0e21\u0e15\u0e25\u0e32\u0e14[enabled,,selected]",
+            "view_str": "e5314f63e34c59fbd506432a81dc8e6d",
+            "bound_box": "36,1929,483,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    1929
+                ],
+                [
+                    966,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Investor Types",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 62,
+            "temp_id": 64,
+            "size": "486*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Investor Types[enabled,,]",
+            "view_str": "03c447140360051783fcccfcf5e40ee0",
+            "bound_box": "480,1929,966,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                66,
+                67,
+                114,
+                115,
+                116
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "tabMarketSummary",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 65,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]tabMarketSummary[text][enabled,,]",
+            "view_str": "07b61c728a0b36f9d139b52c419c90de",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]tabMarketSummary"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e25\u0e48\u0e32\u0e0a\u0e49\u0e32 15 \u0e19\u0e32\u0e17\u0e35 \u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 11 \u0e1e.\u0e04. 2567 00:13:09",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 65,
+            "temp_id": 66,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "140ced7b85fe43313c79d9e7ab6af051",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                68,
+                69,
+                70,
+                71
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 65,
+            "temp_id": 67,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "455ab482552a7cf6b328574e46f087d4",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    792,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13 (\u0e2a\u0e31\u0e0d\u0e0d\u0e32)",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 68,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13 (\u0e2a\u0e31\u0e0d\u0e0d\u0e32)[enabled,,]",
+            "view_str": "c03786351a7d41801026dfdd2a41b627",
+            "bound_box": "540,1929,792,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e04\u0e07\u0e04\u0e49\u0e32\u0e07",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 69,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e04\u0e07\u0e04\u0e49\u0e32\u0e07[enabled,,]",
+            "view_str": "ac2a8e592233cba4fe1bbb22b10908c9",
+            "bound_box": "792,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1041,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "* Day Session: OI as of the Night Session of previous day. Night Session: OI as of the Afternoon Session of current day.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 70,
+            "size": "3*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "7dd09b4b9b44c76ccf4104cdedd90158",
+            "bound_box": "1041,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 9,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                72,
+                73,
+                74,
+                75,
+                76,
+                110,
+                111,
+                112,
+                113
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "accordion-derivative-pr",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 71,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]accordion-derivative-pr[text][enabled,,]",
+            "view_str": "23dfdbcaf472122556167db85630dad6",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]accordion-derivative-pr"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1929
+                ],
+                [
+                    108,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "btn-collapse-level-1",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 72,
+            "size": "12*-153",
+            "signature": "[class]android.widget.Button[resource_id]None[text]btn-collapse-level-1[enabled,,]",
+            "view_str": "f5ff34fc727ea24a31b89a7de8bd178c",
+            "bound_box": "96,1929,108,1776",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    1929
+                ],
+                [
+                    459,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Total Futures",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 73,
+            "size": "351*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Total Futures[enabled,,]",
+            "view_str": "5c84f11ad4928ad9ed4263f97990667d",
+            "bound_box": "108,1929,459,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    774,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "42,272",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 74,
+            "size": "234*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]42,272[enabled,,]",
+            "view_str": "dd4f5addc870f6f3c5cb7f347e21e835",
+            "bound_box": "540,1929,774,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    774,
+                    1929
+                ],
+                [
+                    1008,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "2,713,501",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 75,
+            "size": "234*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]2,713,501[enabled,,]",
+            "view_str": "f7c63bbc2d7f00a66cc57c95ea8d2552",
+            "bound_box": "774,1929,1008,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 7,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                77,
+                82,
+                86,
+                91,
+                96,
+                101,
+                105
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "collapse-level-1-0",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 76,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]collapse-level-1-0[text][enabled,,]",
+            "view_str": "862b1aff76b314d856e61223e97d93dc",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]collapse-level-1-0"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                78,
+                79,
+                80,
+                81
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "collapse-level-2-0-group",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 77,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]collapse-level-2-0-group[text][enabled,,]",
+            "view_str": "9389a0f114dc8023ef956a1461c7697b",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]collapse-level-2-0-group"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    1929
+                ],
+                [
+                    72,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "btn-collapse-level-2",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 77,
+            "temp_id": 78,
+            "size": "12*-153",
+            "signature": "[class]android.widget.Button[resource_id]None[text]btn-collapse-level-2[enabled,,]",
+            "view_str": "ddc7b1a7179dadcc6d5839887bd69e39",
+            "bound_box": "60,1929,72,1776",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    1929
+                ],
+                [
+                    399,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Equity Index",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 77,
+            "temp_id": 79,
+            "size": "327*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Equity Index[enabled,,]",
+            "view_str": "23b8e8058c3845701d42311acf899df2",
+            "bound_box": "72,1929,399,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    792,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "-",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 77,
+            "temp_id": 80,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]-[enabled,,]",
+            "view_str": "6f01bed364cd254d34dbfb1b2f486b8f",
+            "bound_box": "540,1929,792,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "615,311",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 77,
+            "temp_id": 81,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]615,311[enabled,,]",
+            "view_str": "8a48fc2b4f91cb3713a8c899d132a5fa",
+            "bound_box": "792,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                83,
+                84,
+                85
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "collapse-level-2-1-group",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 82,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]collapse-level-2-1-group[text][enabled,,]",
+            "view_str": "ae5697916ac00520e666e32e84d42c1d",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]collapse-level-2-1-group"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    540,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Single Stock",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 82,
+            "temp_id": 83,
+            "size": "504*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Single Stock[enabled,,]",
+            "view_str": "de1c526bccac9b7b3aed960d5292a27b",
+            "bound_box": "36,1929,540,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    792,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "-",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 82,
+            "temp_id": 84,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]-[enabled,,]",
+            "view_str": "c75e660098ca577a041377f50879ca88",
+            "bound_box": "540,1929,792,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "1,874,662",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 82,
+            "temp_id": 85,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]1,874,662[enabled,,]",
+            "view_str": "25c4cd2e3ca3bdf22d878579d343ee8a",
+            "bound_box": "792,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                87,
+                88,
+                89,
+                90
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "collapse-level-2-2-group",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 86,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]collapse-level-2-2-group[text][enabled,,]",
+            "view_str": "f1a5cd5ee3b889fc90d03ef5aa1989f6",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]collapse-level-2-2-group"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    1929
+                ],
+                [
+                    72,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "btn-collapse-level-2",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 86,
+            "temp_id": 87,
+            "size": "12*-153",
+            "signature": "[class]android.widget.Button[resource_id]None[text]btn-collapse-level-2[enabled,,]",
+            "view_str": "fd448f295fdf5975a244a902c6f98e25",
+            "bound_box": "60,1929,72,1776",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    1929
+                ],
+                [
+                    477,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Precious Metal",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 86,
+            "temp_id": 88,
+            "size": "405*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Precious Metal[enabled,,]",
+            "view_str": "8bd9c6891138a582e360390238a4d1fd",
+            "bound_box": "72,1929,477,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    792,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "27,529",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 86,
+            "temp_id": 89,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]27,529[enabled,,]",
+            "view_str": "5d03f2305558316abea9ddb0d5f130bd",
+            "bound_box": "540,1929,792,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "90,162",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 86,
+            "temp_id": 90,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]90,162[enabled,,]",
+            "view_str": "221dfbf292224ec8f2024c95d2d8e8a7",
+            "bound_box": "792,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                92,
+                93,
+                94,
+                95
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "collapse-level-2-3-group",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 91,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]collapse-level-2-3-group[text][enabled,,]",
+            "view_str": "0258d55adf6ef19256433fc9b8318d37",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]collapse-level-2-3-group"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    1929
+                ],
+                [
+                    72,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "btn-collapse-level-2",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 91,
+            "temp_id": 92,
+            "size": "12*-153",
+            "signature": "[class]android.widget.Button[resource_id]None[text]btn-collapse-level-2[enabled,,]",
+            "view_str": "07e174e8e5f000c7b20e651b96b77ab4",
+            "bound_box": "60,1929,72,1776",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    1929
+                ],
+                [
+                    477,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Deferred Precious Metal",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 91,
+            "temp_id": 93,
+            "size": "405*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Deferred Precious Metal[enabled,,]",
+            "view_str": "85fc5bcd5e42c4ba55656aacb0005295",
+            "bound_box": "72,1929,477,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    792,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "200",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 91,
+            "temp_id": 94,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]200[enabled,,]",
+            "view_str": "9aa069f2526a492703f0f0a2f9d5425d",
+            "bound_box": "540,1929,792,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "6",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 91,
+            "temp_id": 95,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]6[enabled,,]",
+            "view_str": "81d2073b01f510d4238815247be0e349",
+            "bound_box": "792,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                97,
+                98,
+                99,
+                100
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "collapse-level-2-4-group",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 96,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]collapse-level-2-4-group[text][enabled,,]",
+            "view_str": "9d68f48f2884e857709483c4718fde24",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]collapse-level-2-4-group"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    1929
+                ],
+                [
+                    72,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "btn-collapse-level-2",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 96,
+            "temp_id": 97,
+            "size": "12*-153",
+            "signature": "[class]android.widget.Button[resource_id]None[text]btn-collapse-level-2[enabled,,]",
+            "view_str": "473a819a195dfb8e48a51d6f76022c1a",
+            "bound_box": "60,1929,72,1776",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    1929
+                ],
+                [
+                    315,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Currency",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 96,
+            "temp_id": 98,
+            "size": "243*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Currency[enabled,,]",
+            "view_str": "5015a05ade4e0a01e2bfd460c82dd9f0",
+            "bound_box": "72,1929,315,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    792,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "14,543",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 96,
+            "temp_id": 99,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]14,543[enabled,,]",
+            "view_str": "ae360d1798d95bd8b4b195636d3e61d3",
+            "bound_box": "540,1929,792,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "133,055",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 96,
+            "temp_id": 100,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]133,055[enabled,,]",
+            "view_str": "05231ae359f1984ab7752c16585885b3",
+            "bound_box": "792,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                102,
+                103,
+                104
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "collapse-level-2-5-group",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 101,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]collapse-level-2-5-group[text][enabled,,]",
+            "view_str": "a4e0232d34828d1df434a14cf0f05469",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]collapse-level-2-5-group"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    540,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Interest Rate",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 101,
+            "temp_id": 102,
+            "size": "504*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Interest Rate[enabled,,]",
+            "view_str": "5920bd23e77412b3be950d86adf3e9f2",
+            "bound_box": "36,1929,540,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    792,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "-",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 101,
+            "temp_id": 103,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]-[enabled,,]",
+            "view_str": "ab9876b66685917ca12376e9a52a9eba",
+            "bound_box": "540,1929,792,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "-",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 101,
+            "temp_id": 104,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]-[enabled,,]",
+            "view_str": "ab9876b66685917ca12376e9a52a9eba",
+            "bound_box": "792,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                106,
+                107,
+                108,
+                109
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "collapse-level-2-6-group",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 105,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]collapse-level-2-6-group[text][enabled,,]",
+            "view_str": "4477e43b22ab3b07eec69eeb90637811",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]collapse-level-2-6-group"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    1929
+                ],
+                [
+                    72,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "btn-collapse-level-2",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 105,
+            "temp_id": 106,
+            "size": "12*-153",
+            "signature": "[class]android.widget.Button[resource_id]None[text]btn-collapse-level-2[enabled,,]",
+            "view_str": "09ea2982ae3e82004b00dbed5e719b66",
+            "bound_box": "60,1929,72,1776",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    1929
+                ],
+                [
+                    369,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Agriculture",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 105,
+            "temp_id": 107,
+            "size": "297*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Agriculture[enabled,,]",
+            "view_str": "2fc32afe4b91860a3854769f071da35f",
+            "bound_box": "72,1929,369,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    792,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "-",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 105,
+            "temp_id": 108,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]-[enabled,,]",
+            "view_str": "82f387f206dd05f3006a8050bb0bac61",
+            "bound_box": "540,1929,792,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "305",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 105,
+            "temp_id": 109,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]305[enabled,,]",
+            "view_str": "660c747279b89ff4056f42af3022721b",
+            "bound_box": "792,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1929
+                ],
+                [
+                    108,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "btn-collapse-level-1",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 110,
+            "size": "12*-153",
+            "signature": "[class]android.widget.Button[resource_id]None[text]btn-collapse-level-1[enabled,,]",
+            "view_str": "f5ff34fc727ea24a31b89a7de8bd178c",
+            "bound_box": "96,1929,108,1776",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    1929
+                ],
+                [
+                    465,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Total Options",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 111,
+            "size": "357*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Total Options[enabled,,]",
+            "view_str": "7ac6902e61253274cc3bb21811554272",
+            "bound_box": "108,1929,465,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    774,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "-",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 112,
+            "size": "234*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]-[enabled,,]",
+            "view_str": "8f85c04d77c810aa60686a673715408e",
+            "bound_box": "540,1929,774,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    774,
+                    1929
+                ],
+                [
+                    1008,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "94,883",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 113,
+            "size": "234*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]94,883[enabled,,]",
+            "view_str": "1370f5ea8ffdbdccf3a2281b368a1317",
+            "bound_box": "774,1929,1008,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    540,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Total Market",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 65,
+            "temp_id": 114,
+            "size": "504*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]Total Market[enabled,,]",
+            "view_str": "22647f680495369c86eb7bee5db97307",
+            "bound_box": "36,1929,540,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1929
+                ],
+                [
+                    792,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "42,272",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 65,
+            "temp_id": 115,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]42,272[enabled,,]",
+            "view_str": "1e327b1370ee1cd9083dc5d6c6ac8524",
+            "bound_box": "540,1929,792,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "2,808,384",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 65,
+            "temp_id": 116,
+            "size": "252*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]2,808,384[enabled,,]",
+            "view_str": "49625508cb309be45168f1b01a8ae3e9",
+            "bound_box": "792,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e01\u0e32\u0e23\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e27\u0e31\u0e19",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 117,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e01\u0e32\u0e23\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e27\u0e31\u0e19[enabled,,]",
+            "view_str": "d2f3ebdc0dcb66c37c7be47b28dff084",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                119
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    624,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "SET50 Index Futures",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 118,
+            "size": "588*-153",
+            "signature": "[class]android.widget.Button[resource_id]None[text]SET50 Index Futures[enabled,,]",
+            "view_str": "d6a00ae3703dd6c0768ea3579ed001c6",
+            "bound_box": "36,1929,624,1776",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                120
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    624,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 118,
+            "temp_id": 119,
+            "size": "588*-153",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "f95675e01dfddd2a384cfccf1355340c",
+            "bound_box": "36,1929,624,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    1929
+                ],
+                [
+                    522,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "SET50 Index Futures",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 119,
+            "temp_id": 120,
+            "size": "447*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]SET50 Index Futures[enabled,,]",
+            "view_str": "d8f34564b13fee6841bf74ff8875e4a1",
+            "bound_box": "75,1929,522,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                122
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    294,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 121,
+            "size": "258*-153",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "06e907e84e3e8d0b1132e07dff769e09",
+            "bound_box": "36,1929,294,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    294,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "SET50 Index Futures",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 121,
+            "temp_id": 122,
+            "size": "258*-153",
+            "signature": "[class]android.widget.Image[resource_id]None[text]SET50 Index Futures[enabled,,]",
+            "view_str": "70bcd9a447d77a4e7e665c9a595f5189",
+            "bound_box": "36,1929,294,1776",
+            "content_free_signature": "[class]android.widget.Image[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    342,
+                    1929
+                ],
+                [
+                    783,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "SET50 Index Futures",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 123,
+            "size": "441*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]SET50 Index Futures[enabled,,]",
+            "view_str": "50bad64440c8c00bb8f0bd9fd04e59d6",
+            "bound_box": "342,1929,783,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    342,
+                    1929
+                ],
+                [
+                    996,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e1f\u0e34\u0e27\u0e40\u0e08\u0e2d\u0e23\u0e4c\u0e2a \u0e17\u0e35\u0e48\u0e2d\u0e49\u0e32\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e31\u0e1a\u0e14\u0e31\u0e0a\u0e19\u0e35 SET50",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 124,
+            "size": "654*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e1f\u0e34\u0e27\u0e40\u0e08\u0e2d\u0e23\u0e4c\u0e2a \u0e17\u0e35\u0e48\u0e2d\u0e49\u0e32\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e31\u0e1a\u0e14\u0e31\u0e0a\u0e19\u0e35 SET50[enabled,,]",
+            "view_str": "dbec2b1d357f72bd828b9d7cf0579f48",
+            "bound_box": "342,1929,996,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                126
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    342,
+                    1929
+                ],
+                [
+                    654,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 125,
+            "size": "312*-153",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "61834f719a47ccd25a5949481e885e53",
+            "bound_box": "342,1929,654,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    342,
+                    1929
+                ],
+                [
+                    606,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e25\u0e31\u0e01\u0e29\u0e13\u0e30\u0e2a\u0e31\u0e0d\u0e0d\u0e32",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 125,
+            "temp_id": 126,
+            "size": "264*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e25\u0e31\u0e01\u0e29\u0e13\u0e30\u0e2a\u0e31\u0e0d\u0e0d\u0e32[enabled,,]",
+            "view_str": "4b24bea4d9812796c88262a0ab77d6b6",
+            "bound_box": "342,1929,606,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    675,
+                    1929
+                ],
+                [
+                    888,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e2d\u0e49\u0e32\u0e07\u0e2d\u0e34\u0e07",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 127,
+            "size": "213*-153",
+            "signature": "[class]android.view.View[resource_id]None[text]\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e2d\u0e49\u0e32\u0e07\u0e2d\u0e34\u0e07[enabled,,]",
+            "view_str": "5d3319e42753169f889dd620bbf5373b",
+            "bound_box": "675,1929,888,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                129
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    36,
+                    1929
+                ],
+                [
+                    1044,
+                    1776
+                ]
+            ],
+            "resource_id": "quote-collapse-parent",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 128,
+            "size": "1008*-153",
+            "signature": "[class]android.view.View[resource_id]quote-collapse-parent[text][enabled,,]",
+            "view_str": "e6cc83e6b9d4fbdea49ccf7e84f58597",
+            "bound_box": "36,1929,1044,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]quote-collapse-parent"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                130
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    39,
+                    1929
+                ],
+                [
+                    1041,
+                    1776
+                ]
+            ],
+            "resource_id": "quote-collapse-parent-heading-quote-item0",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 128,
+            "temp_id": 129,
+            "size": "1002*-153",
+            "signature": "[class]android.view.View[resource_id]quote-collapse-parent-heading-quote-item0[text][enabled,,]",
+            "view_str": "f8f707470d16356f6e884653c6ebc448",
+            "bound_box": "39,1929,1041,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]quote-collapse-parent-heading-quote-item0"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                131
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    39,
+                    1929
+                ],
+                [
+                    1041,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "btn-quote",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 129,
+            "temp_id": 130,
+            "size": "1002*-153",
+            "signature": "[class]android.widget.Button[resource_id]None[text]btn-quote[enabled,,]",
+            "view_str": "ae72318566a724b10676598be4c37361",
+            "bound_box": "39,1929,1041,1776",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": false,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    111,
+                    1929
+                ],
+                [
+                    171,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "btn-quote",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 130,
+            "temp_id": 131,
+            "size": "60*-153",
+            "signature": "[class]android.widget.Button[resource_id]None[text]btn-quote[,,]",
+            "view_str": "6009e69cd14d9184cc53f9ae6effb200",
+            "bound_box": "111,1929,171,1776",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 132,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "0e6cbc782e5959f5d7a4016436f1d2f3",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "com.settrade.streaming.trial",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 133,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "208f8e5912a4b0ba3753be8d51b3e8bb",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

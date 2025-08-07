@@ -1,0 +1,756 @@
+{
+    "state_str": "b52257/94cf7e",
+    "state_str_content_free": "024a1a/3b6a98",
+    "foreground_activity": "com.fasterthanmonkeys.iscore/.Roster",
+    "activity_stack": [
+        "com.fasterthanmonkeys.iscore/.Roster",
+        "com.fasterthanmonkeys.iscore/.TeamInfo",
+        "com.fasterthanmonkeys.iscore/.TeamManager",
+        "com.fasterthanmonkeys.iscore/.Baseball"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                16,
+                17
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    2340
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*2340",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "48874c36fb0183ccf174159ae18af525",
+            "bound_box": "0,0,1080,2340",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    2196
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*2196",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "99d30e914deb6c3add841f6e3dee5112",
+            "bound_box": "0,0,1080,2196",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    2196
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*2124",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "303a484db1343f5b3af2f588c4bbcfdd",
+            "bound_box": "0,72,1080,2196",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                10,
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    2196
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*2124",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "33fb50c5ef1b9a0848e8ddb0e7d4d514",
+            "bound_box": "0,72,1080,2196",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5,
+                7,
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    201
+                ]
+            ],
+            "resource_id": "com.fasterthanmonkeys.iscore:id/navbar",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*129",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]com.fasterthanmonkeys.iscore:id/navbar[text]None[enabled,,]",
+            "view_str": "e95f1423883038097cd8296e6cd16a5b",
+            "bound_box": "0,72,1080,201",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.fasterthanmonkeys.iscore:id/navbar"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    169,
+                    201
+                ]
+            ],
+            "resource_id": "com.fasterthanmonkeys.iscore:id/header_home_button_layout",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "169*129",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.fasterthanmonkeys.iscore:id/header_home_button_layout[text]None[enabled,,]",
+            "view_str": "3f1c3f830dfe04fc7b2a6fa18678210d",
+            "bound_box": "0,72,169,201",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.fasterthanmonkeys.iscore:id/header_home_button_layout"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    6,
+                    82
+                ],
+                [
+                    163,
+                    190
+                ]
+            ],
+            "resource_id": "com.fasterthanmonkeys.iscore:id/leftbutton",
+            "checked": false,
+            "text": "Done",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "157*108",
+            "signature": "[class]android.widget.Button[resource_id]com.fasterthanmonkeys.iscore:id/leftbutton[text]Done[enabled,,]",
+            "view_str": "fb675f2bf83cc3dcd4927595816ca8fe",
+            "bound_box": "6,82,163,190",
+            "content_free_signature": "[class]android.widget.Button[resource_id]com.fasterthanmonkeys.iscore:id/leftbutton",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button bound_box=6,82,163,190>Done</button>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    369,
+                    96
+                ],
+                [
+                    711,
+                    177
+                ]
+            ],
+            "resource_id": "com.fasterthanmonkeys.iscore:id/navbar_title",
+            "checked": false,
+            "text": "Team Roster",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 7,
+            "size": "342*81",
+            "signature": "[class]android.widget.TextView[resource_id]com.fasterthanmonkeys.iscore:id/navbar_title[text]Team Roster[enabled,,]",
+            "view_str": "a7056f95ac8edcb2262e3907fe76783b",
+            "bound_box": "369,96,711,177",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.fasterthanmonkeys.iscore:id/navbar_title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<p bound_box=369,96,711,177>Team Roster</p>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    933,
+                    72
+                ],
+                [
+                    1080,
+                    201
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 8,
+            "size": "147*129",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "37d695175de73b97644e701d56b685a4",
+            "bound_box": "933,72,1080,201",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    939,
+                    82
+                ],
+                [
+                    1074,
+                    190
+                ]
+            ],
+            "resource_id": "com.fasterthanmonkeys.iscore:id/rightbutton",
+            "checked": false,
+            "text": "Add",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "135*108",
+            "signature": "[class]android.widget.Button[resource_id]com.fasterthanmonkeys.iscore:id/rightbutton[text]Add[enabled,,]",
+            "view_str": "6765be6b40dd43c7f48fdea31c4d0bed",
+            "bound_box": "939,82,1074,190",
+            "content_free_signature": "[class]android.widget.Button[resource_id]com.fasterthanmonkeys.iscore:id/rightbutton",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=939,82,1074,190>Add</button>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    201
+                ],
+                [
+                    1080,
+                    2070
+                ]
+            ],
+            "resource_id": "android:id/empty",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 10,
+            "size": "1080*1869",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/empty[text]None[enabled,,]",
+            "view_str": "4e7d2ae4edc5d7377e2424baea24ea94",
+            "bound_box": "0,201,1080,2070",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/empty"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12,
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    1768
+                ],
+                [
+                    1062,
+                    2052
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "1044*284",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "956d68f9b73728656cc353809cfd1642",
+            "bound_box": "18,1768,1062,2052",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    42,
+                    1792
+                ],
+                [
+                    222,
+                    1975
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "180*183",
+            "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+            "view_str": "b7adaa2b253dab33bdf88d83495f432a",
+            "bound_box": "42,1792,222,1975",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    240,
+                    1792
+                ],
+                [
+                    1038,
+                    2028
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Touch the Add button to add a new player to the roster or use the Quick Roster button below to quickly generate a generic team.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 13,
+            "size": "798*236",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]None[enabled,,]",
+            "view_str": "9be589a0aa9276ca06963ec9a7b6946e",
+            "bound_box": "240,1792,1038,2028",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<p bound_box=240,1792,1038,2028>Touch the Add button to add a new player to the ro</p>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    2070
+                ],
+                [
+                    1080,
+                    2196
+                ]
+            ],
+            "resource_id": "com.fasterthanmonkeys.iscore:id/quickRosterBar",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 14,
+            "size": "1080*126",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.fasterthanmonkeys.iscore:id/quickRosterBar[text]None[enabled,,]",
+            "view_str": "6dff9419d39df6fffed147dc88becc3f",
+            "bound_box": "0,2070,1080,2196",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.fasterthanmonkeys.iscore:id/quickRosterBar"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    361,
+                    2076
+                ],
+                [
+                    718,
+                    2196
+                ]
+            ],
+            "resource_id": "com.fasterthanmonkeys.iscore:id/quickRosterButton",
+            "checked": false,
+            "text": "Quick Roster",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "357*120",
+            "signature": "[class]android.widget.Button[resource_id]com.fasterthanmonkeys.iscore:id/quickRosterButton[text]Quick Roster[enabled,,]",
+            "view_str": "7286109e32503b3f4672fb287f0ae4fb",
+            "bound_box": "361,2076,718,2196",
+            "content_free_signature": "[class]android.widget.Button[resource_id]com.fasterthanmonkeys.iscore:id/quickRosterButton",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<button bound_box=361,2076,718,2196>Quick Roster</button>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 16,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "cc761daeb2eeac79bdd5cf9ec96fb3c0",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    2196
+                ],
+                [
+                    1080,
+                    2340
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 17,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "8392d5c5c8ce69746387821142531516",
+            "bound_box": "0,2196,1080,2340",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

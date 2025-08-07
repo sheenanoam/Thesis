@@ -1,0 +1,273 @@
+{
+    "state_str": "08b900/0f08fa",
+    "state_str_content_free": "dd1dd1/cb06a3",
+    "foreground_activity": "com.tudorspan.recipekeeper/crc6494081064acdf378e.RecipeListPage",
+    "activity_stack": [
+        "com.tudorspan.recipekeeper/crc6494081064acdf378e.RecipeListPage",
+        "com.tudorspan.recipekeeper/crc6494081064acdf378e.CoursePage",
+        "com.tudorspan.recipekeeper/crc6494081064acdf378e.HomePage"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.tudorspan.recipekeeper",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    613,
+                    288
+                ],
+                [
+                    949,
+                    720
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "336*432",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "d69739e438983bfdd22ad204de0ded7b",
+            "bound_box": "613,288,949,720",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.tudorspan.recipekeeper",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    613,
+                    288
+                ],
+                [
+                    949,
+                    720
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "336*432",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "48dad064d9665b25784c4b6dd25228d3",
+            "bound_box": "613,288,949,720",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.tudorspan.recipekeeper",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3,
+                4,
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    613,
+                    288
+                ],
+                [
+                    949,
+                    720
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ListView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "336*432",
+            "signature": "[class]android.widget.ListView[resource_id]None[text]None[enabled,,]",
+            "view_str": "0356ffe24a90030fd4a63651f6501bc7",
+            "bound_box": "613,288,949,720",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]None"
+        },
+        {
+            "package": "com.tudorspan.recipekeeper",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    613,
+                    288
+                ],
+                [
+                    949,
+                    432
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Size: Small",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "336*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Size: Small[enabled,,]",
+            "view_str": "d083c5f565f0ef858d2e060ecdd64163",
+            "bound_box": "613,288,949,432",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<checkbox bound_box=613,288,949,432>Size: Small</checkbox>"
+        },
+        {
+            "package": "com.tudorspan.recipekeeper",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    613,
+                    432
+                ],
+                [
+                    949,
+                    576
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": true,
+            "text": "Size: Medium",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 4,
+            "size": "336*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Size: Medium[enabled,checked,]",
+            "view_str": "39f19e5d9e5d087df24ec5588d40a57e",
+            "bound_box": "613,432,949,576",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "1",
+            "desc": "<checkbox bound_box=613,432,949,576>Size: Medium</checkbox>"
+        },
+        {
+            "package": "com.tudorspan.recipekeeper",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    613,
+                    576
+                ],
+                [
+                    949,
+                    720
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Size: Large",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 5,
+            "size": "336*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Size: Large[enabled,,]",
+            "view_str": "6f7d0239f894d6390b2c1590b64f5a67",
+            "bound_box": "613,576,949,720",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<checkbox bound_box=613,576,949,720>Size: Large</checkbox>"
+        }
+    ]
+}

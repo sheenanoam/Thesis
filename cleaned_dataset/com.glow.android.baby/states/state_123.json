@@ -1,0 +1,364 @@
+{
+    "state_str": "0141cc/a00604",
+    "state_str_content_free": "024a1a/f532c2",
+    "foreground_activity": "com.glow.android.baby/.ui.landing.CreateBabyActivity",
+    "activity_stack": [
+        "com.glow.android.baby/.ui.landing.CreateBabyActivity",
+        "com.glow.android.baby/.ui.landing.WelcomeActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.glow.android.baby",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    216
+                ],
+                [
+                    936,
+                    981
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "876*765",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "977afa69c60502fd9c37597cd9a7c440",
+            "bound_box": "60,216,936,981",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.glow.android.baby",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    216
+                ],
+                [
+                    936,
+                    981
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "876*765",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "e01fe157e6d8444f758e3034b8953f55",
+            "bound_box": "60,216,936,981",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.glow.android.baby",
+            "visible": true,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    216
+                ],
+                [
+                    936,
+                    981
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ListView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "876*765",
+            "signature": "[class]android.widget.ListView[resource_id]None[text]None[enabled,,]",
+            "view_str": "04152bd959f264191b0c83eef4b7403f",
+            "bound_box": "60,216,936,981",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]None"
+        },
+        {
+            "package": "com.glow.android.baby",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    216
+                ],
+                [
+                    936,
+                    369
+                ]
+            ],
+            "resource_id": null,
+            "checked": true,
+            "text": "Mother",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "876*153",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]None[text]Mother[enabled,checked,]",
+            "view_str": "02baaa01f63428ee62b6ae6a0fa2cd9d",
+            "bound_box": "60,216,936,369",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]None",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "0",
+            "desc": "<checkbox bound_box=60,216,936,369>Mother</checkbox>"
+        },
+        {
+            "package": "com.glow.android.baby",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    369
+                ],
+                [
+                    936,
+                    522
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Father",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 4,
+            "size": "876*153",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]None[text]Father[enabled,,]",
+            "view_str": "1ddb16447c9a8caaf976bc9b899ac24b",
+            "bound_box": "60,369,936,522",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]None",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<checkbox bound_box=60,369,936,522>Father</checkbox>"
+        },
+        {
+            "package": "com.glow.android.baby",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    522
+                ],
+                [
+                    936,
+                    675
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Family Member",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 5,
+            "size": "876*153",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]None[text]Family Member[enabled,,]",
+            "view_str": "d7b4bcf9c85639504f8c1c9517d53682",
+            "bound_box": "60,522,936,675",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]None",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<checkbox bound_box=60,522,936,675>Family Member</checkbox>"
+        },
+        {
+            "package": "com.glow.android.baby",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    675
+                ],
+                [
+                    936,
+                    828
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Nanny/Babysitter",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 6,
+            "size": "876*153",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]None[text]Nanny/Babysitter[enabled,,]",
+            "view_str": "4340170d540ae41dc1b757ac329c50a5",
+            "bound_box": "60,675,936,828",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]None",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<checkbox bound_box=60,675,936,828>Nanny/Babysitter</checkbox>"
+        },
+        {
+            "package": "com.glow.android.baby",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    828
+                ],
+                [
+                    936,
+                    981
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Other",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 7,
+            "size": "876*153",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]None[text]Other[enabled,,]",
+            "view_str": "58e6ae411ac2a5f8a0a4ed2e6125c1e0",
+            "bound_box": "60,828,936,981",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]None",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<checkbox bound_box=60,828,936,981>Other</checkbox>"
+        }
+    ]
+}

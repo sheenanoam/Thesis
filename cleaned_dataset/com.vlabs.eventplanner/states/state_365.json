@@ -1,0 +1,225 @@
+{
+    "state_str": "08b900/8508bb",
+    "state_str_content_free": "dd1dd1/1b431d",
+    "foreground_activity": "com.vlabs.eventplanner/.appBase.view.ManageEventActivity",
+    "activity_stack": [
+        "com.vlabs.eventplanner/.appBase.view.ManageEventActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.vlabs.eventplanner",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    668,
+                    952
+                ],
+                [
+                    789,
+                    1240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "121*288",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c7a060c848636d772e5036c302ac916e",
+            "bound_box": "668,952,789,1240",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.vlabs.eventplanner",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    668,
+                    952
+                ],
+                [
+                    789,
+                    1240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "121*288",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "069953da0a77a4c0dfe29dc83e47ff54",
+            "bound_box": "668,952,789,1240",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.vlabs.eventplanner",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3,
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    668,
+                    952
+                ],
+                [
+                    789,
+                    1240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ListView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "121*288",
+            "signature": "[class]android.widget.ListView[resource_id]None[text]None[enabled,,]",
+            "view_str": "929a2d3cab5b8471d6a3ea403ebc3359",
+            "bound_box": "668,952,789,1240",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]None"
+        },
+        {
+            "package": "com.vlabs.eventplanner",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    668,
+                    952
+                ],
+                [
+                    789,
+                    1096
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": true,
+            "text": "AM",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "121*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]AM[enabled,checked,]",
+            "view_str": "9703867d0c7e55054f8fe6051b4816f9",
+            "bound_box": "668,952,789,1096",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "0",
+            "desc": "<checkbox bound_box=668,952,789,1096>AM</checkbox>"
+        },
+        {
+            "package": "com.vlabs.eventplanner",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    668,
+                    1096
+                ],
+                [
+                    789,
+                    1240
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "PM",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 4,
+            "size": "121*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]PM[enabled,,]",
+            "view_str": "95b4c8d8bb8a7b32a0bfd0fa2fd7fc23",
+            "bound_box": "668,1096,789,1240",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<checkbox bound_box=668,1096,789,1240>PM</checkbox>"
+        }
+    ]
+}

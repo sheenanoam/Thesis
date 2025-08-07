@@ -1,0 +1,501 @@
+{
+    "state_str": "08b900/452d3c",
+    "state_str_content_free": "dd1dd1/8cf9b2",
+    "foreground_activity": "com.rocks.music.videoplayer/com.rocks.music.ytube.YTubeDataActivity",
+    "activity_stack": [
+        "com.rocks.music.videoplayer/com.rocks.music.ytube.YTubeDataActivity",
+        "com.rocks.music.videoplayer/com.rocks.music.hamburger.BaseActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    27,
+                    667
+                ],
+                [
+                    1053,
+                    1180
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1026*513",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "30ed7562b6edd476190abacdf1c925cc",
+            "bound_box": "27,667,1053,1180",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    715
+                ],
+                [
+                    1005,
+                    1132
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "930*417",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "fc165cfb533402709ce3ac76588cb7c1",
+            "bound_box": "75,715,1005,1132",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    715
+                ],
+                [
+                    1005,
+                    1132
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "930*417",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "e5dbf4492ab2cbb51b88384a24324e7b",
+            "bound_box": "75,715,1005,1132",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    715
+                ],
+                [
+                    1005,
+                    1132
+                ]
+            ],
+            "resource_id": "android:id/parentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "930*417",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel[text]None[enabled,,]",
+            "view_str": "cd131749068b4e96b0e25fa342e4e213",
+            "bound_box": "75,715,1005,1132",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    715
+                ],
+                [
+                    1005,
+                    964
+                ]
+            ],
+            "resource_id": "android:id/contentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "930*249",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/contentPanel[text]None[enabled,,]",
+            "view_str": "4c4cfc287ead939f16d57ffd7e6f8180",
+            "bound_box": "75,715,1005,964",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/contentPanel"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    715
+                ],
+                [
+                    1005,
+                    964
+                ]
+            ],
+            "resource_id": "android:id/scrollView",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "930*249",
+            "signature": "[class]android.widget.ScrollView[resource_id]android:id/scrollView[text]None[enabled,,]",
+            "view_str": "2c6382503c396abb373f4999f985f40c",
+            "bound_box": "75,715,1005,964",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]android:id/scrollView"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    715
+                ],
+                [
+                    1005,
+                    964
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "930*249",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "3abc38eb78ef2397ce9585c28c962d66",
+            "bound_box": "75,715,1005,964",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    715
+                ],
+                [
+                    1005,
+                    769
+                ]
+            ],
+            "resource_id": "android:id/textSpacerNoTitle",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "930*54",
+            "signature": "[class]android.view.View[resource_id]android:id/textSpacerNoTitle[text]None[enabled,,]",
+            "view_str": "d406eeaa06b54b8442b5dcec99a2dec4",
+            "bound_box": "75,715,1005,769",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/textSpacerNoTitle"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    769
+                ],
+                [
+                    1005,
+                    964
+                ]
+            ],
+            "resource_id": "android:id/message",
+            "checked": false,
+            "text": "Video player won't run without Google Play services, which are not supported by your device.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 8,
+            "size": "930*195",
+            "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]None[enabled,,]",
+            "view_str": "fec271d16eacd87429b0f8dee2e1afbc",
+            "bound_box": "75,769,1005,964",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=75,769,1005,964>Video player won't run without Google Play service</p>"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    964
+                ],
+                [
+                    1005,
+                    1132
+                ]
+            ],
+            "resource_id": "android:id/buttonPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 9,
+            "size": "930*168",
+            "signature": "[class]android.widget.ScrollView[resource_id]android:id/buttonPanel[text]None[enabled,,]",
+            "view_str": "706bf364d759c7c92c5f9445238d65b0",
+            "bound_box": "75,964,1005,1132",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]android:id/buttonPanel"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    964
+                ],
+                [
+                    1005,
+                    1132
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "930*168",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "3fe78f559b0dd4900750a6448885e3a5",
+            "bound_box": "75,964,1005,1132",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    777,
+                    976
+                ],
+                [
+                    969,
+                    1120
+                ]
+            ],
+            "resource_id": "android:id/button1",
+            "checked": false,
+            "text": "OK",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "192*144",
+            "signature": "[class]android.widget.Button[resource_id]android:id/button1[text]OK[enabled,,]",
+            "view_str": "0667a53435c847cc32eb16de1ab1963b",
+            "bound_box": "777,976,969,1120",
+            "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button1",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=777,976,969,1120>OK</button>"
+        }
+    ]
+}

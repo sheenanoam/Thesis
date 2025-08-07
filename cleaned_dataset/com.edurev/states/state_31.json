@@ -1,0 +1,502 @@
+{
+    "state_str": "08b900/c9d4d4",
+    "state_str_content_free": "dd1dd1/6ee331",
+    "foreground_activity": "com.edurev/.activity.ForgotPasswordActivity",
+    "activity_stack": [
+        "com.edurev/.activity.ForgotPasswordActivity",
+        "com.edurev/.activity.LoginActivity",
+        "com.edurev/.activity.SliderActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    27,
+                    639
+                ],
+                [
+                    1053,
+                    1136
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1026*497",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "8e89b740fb4475f19164119b25907885",
+            "bound_box": "27,639,1053,1136",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    687
+                ],
+                [
+                    1005,
+                    1088
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "930*401",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "1818c4f3feec19c9cdfafcd341e817ec",
+            "bound_box": "75,687,1005,1088",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    687
+                ],
+                [
+                    1005,
+                    1088
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "930*401",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "35b1b19c150831687738a2aef871e614",
+            "bound_box": "75,687,1005,1088",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    687
+                ],
+                [
+                    1005,
+                    1088
+                ]
+            ],
+            "resource_id": "android:id/parentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "930*401",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel[text]None[enabled,,]",
+            "view_str": "41a4d56e733c4e8dff1dbc7b6eb6ec76",
+            "bound_box": "75,687,1005,1088",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    687
+                ],
+                [
+                    1005,
+                    920
+                ]
+            ],
+            "resource_id": "android:id/contentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "930*233",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/contentPanel[text]None[enabled,,]",
+            "view_str": "3b6502eaed88fca052021686f9cdcbef",
+            "bound_box": "75,687,1005,920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/contentPanel"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    687
+                ],
+                [
+                    1005,
+                    920
+                ]
+            ],
+            "resource_id": "android:id/scrollView",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "930*233",
+            "signature": "[class]android.widget.ScrollView[resource_id]android:id/scrollView[text]None[enabled,,]",
+            "view_str": "20f209e35743bd1bd1e505fe283d2e2e",
+            "bound_box": "75,687,1005,920",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]android:id/scrollView"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    687
+                ],
+                [
+                    1005,
+                    920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "930*233",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "300e00747ab91764563584cd54812a79",
+            "bound_box": "75,687,1005,920",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    687
+                ],
+                [
+                    1005,
+                    741
+                ]
+            ],
+            "resource_id": "android:id/textSpacerNoTitle",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "930*54",
+            "signature": "[class]android.view.View[resource_id]android:id/textSpacerNoTitle[text]None[enabled,,]",
+            "view_str": "c754a00e32931908083cf06edad4054f",
+            "bound_box": "75,687,1005,741",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/textSpacerNoTitle"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    741
+                ],
+                [
+                    1005,
+                    920
+                ]
+            ],
+            "resource_id": "android:id/message",
+            "checked": false,
+            "text": "EduRev won't run without Google Play services, which are not supported by your device.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 8,
+            "size": "930*179",
+            "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]None[enabled,,]",
+            "view_str": "b713e321f6ca79577414d5816868d064",
+            "bound_box": "75,741,1005,920",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=75,741,1005,920>EduRev won't run without Google Play services, whi</p>"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    920
+                ],
+                [
+                    1005,
+                    1088
+                ]
+            ],
+            "resource_id": "android:id/buttonPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 9,
+            "size": "930*168",
+            "signature": "[class]android.widget.ScrollView[resource_id]android:id/buttonPanel[text]None[enabled,,]",
+            "view_str": "c04b055e1a797d36b39018e57e1f39bc",
+            "bound_box": "75,920,1005,1088",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]android:id/buttonPanel"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    920
+                ],
+                [
+                    1005,
+                    1088
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "930*168",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "45df7bd63625bb4af4b7e213775172c7",
+            "bound_box": "75,920,1005,1088",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.edurev",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    450,
+                    932
+                ],
+                [
+                    969,
+                    1076
+                ]
+            ],
+            "resource_id": "android:id/button1",
+            "checked": false,
+            "text": "\u200e\u200f\u200e\u200e\u200e\u200e\u200e\u200f\u200e\u200f\u200f\u200f\u200e\u200e\u200e\u200e\u200e\u200e\u200f\u200e\u200e\u200f\u200e\u200e\u200e\u200e\u200f\u200f\u200f\u200f\u200f\u200f\u200e\u200f\u200e\u200e\u200f\u200e\u200e\u200f\u200e\u200f\u200f\u200f\u200e\u200e\u200f\u200f\u200f\u200e\u200e\u200f\u200e\u200f\u200f\u200f\u200e\u200f\u200e\u200e\u200e\u200f\u200e\u200f\u200e\u200e\u200f\u200e\u200e\u200f\u200f\u200e\u200e\u200f\u200e\u200e\u200f\u200e\u200f\u200f\u200f\u200f\u200e\u200f\u200f\u200e\u200f\u200e\u200e\u200e\u200f\u200e\u200f\u200f\u200f\u200eOK\u200e\u200f\u200e\u200e\u200f\u200e",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "519*144",
+            "signature": "[class]android.widget.Button[resource_id]android:id/button1[text]None[enabled,,]",
+            "view_str": "d2d891264d7f78c9f18a4a452690ad68",
+            "bound_box": "450,932,969,1076",
+            "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button1",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=450,932,969,1076>\u200e\u200f\u200e\u200e\u200e\u200e\u200e\u200f\u200e\u200f\u200f\u200f\u200e\u200e\u200e\u200e\u200e\u200e\u200f\u200e\u200e\u200f\u200e\u200e\u200e\u200e\u200f\u200f\u200f\u200f\u200f\u200f\u200e\u200f\u200e\u200e\u200f\u200e\u200e\u200f\u200e\u200f\u200f\u200f\u200e\u200e\u200f\u200f\u200f\u200e</button>"
+        }
+    ]
+}

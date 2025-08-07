@@ -1,0 +1,952 @@
+{
+    "state_str": "14325e/012bc0",
+    "state_str_content_free": "024a1a/8cbe57",
+    "foreground_activity": "com.khulke.app/.useronboarding.ui.LoginActivity",
+    "activity_stack": [
+        "com.khulke.app/.useronboarding.ui.LoginActivity",
+        "com.khulke.app/.dashboard.DashboardActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                20,
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "b74faa8d391766da5e9f30e62a086787",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c3a4f6d0fa83b927a94365d3ade61275",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "b81cb94474bac471ce94e383ac0fe360",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.khulke.app:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "cd5276c0d292a453d773a7f72260bc17",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.khulke.app:id/action_bar_root"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "e9d7e758b05bccaaa7a33d0adac28975",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+            "view_str": "f6411910db5b47431374a78893761973",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]None"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 11,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                16,
+                17,
+                18,
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1704",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "942ad0056d6891ec84b2ca87541cef31",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": "\u0938\u092d\u0940",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    439,
+                    132
+                ],
+                [
+                    641,
+                    359
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/imageView",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "202*227",
+            "signature": "[class]android.widget.ImageView[resource_id]com.khulke.app:id/imageView[text]None[enabled,,]",
+            "view_str": "7a848001d609b223a156badbec27858f",
+            "bound_box": "439,132,641,359",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.khulke.app:id/imageView",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p alt='\u0938\u092d\u0940' bound_box=439,132,641,359></p>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    720,
+                    185
+                ],
+                [
+                    1032,
+                    306
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/language",
+            "checked": false,
+            "text": "\u0939\u093f\u0902\u0926\u0940",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 8,
+            "size": "312*121",
+            "signature": "[class]android.widget.Button[resource_id]com.khulke.app:id/language[text]\u0939\u093f\u0902\u0926\u0940[enabled,,]",
+            "view_str": "2c3561962ecb2df1ce17e0a7719cef66",
+            "bound_box": "720,185,1032,306",
+            "content_free_signature": "[class]android.widget.Button[resource_id]com.khulke.app:id/language",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=720,185,1032,306>\u0939\u093f\u0902\u0926\u0940</button>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    359
+                ],
+                [
+                    1080,
+                    515
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/lbl_name",
+            "checked": false,
+            "text": "\u0932\u0949\u0917 \u0907\u0928 \u0915\u0930\u0947\u0902",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 9,
+            "size": "1026*156",
+            "signature": "[class]android.widget.TextView[resource_id]com.khulke.app:id/lbl_name[text]\u0932\u0949\u0917 \u0907\u0928 \u0915\u0930\u0947\u0902[enabled,,]",
+            "view_str": "2b8d7b9123ffe37fc575ce27bd425f20",
+            "bound_box": "54,359,1080,515",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.khulke.app:id/lbl_name",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<p bound_box=54,359,1080,515>\u0932\u0949\u0917 \u0907\u0928 \u0915\u0930\u0947\u0902</p>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    587
+                ],
+                [
+                    1026,
+                    655
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/txt_enter_email_or_mobile",
+            "checked": false,
+            "text": "\u0908\u092e\u0947\u0932 / \u092e\u094b\u092c\u093e\u0907\u0932 / \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e \u0928\u093e\u092e \u0926\u0930\u094d\u091c \u0915\u0930\u0947\u0902",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 10,
+            "size": "972*68",
+            "signature": "[class]android.widget.TextView[resource_id]com.khulke.app:id/txt_enter_email_or_mobile[text]\u0908\u092e\u0947\u0932 / \u092e\u094b\u092c\u093e\u0907\u0932 / \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e \u0928\u093e\u092e \u0926\u0930\u094d\u091c \u0915\u0930\u0947\u0902[enabled,,]",
+            "view_str": "c52c2c079a0bec7f6a3b31860cef842a",
+            "bound_box": "54,587,1026,655",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.khulke.app:id/txt_enter_email_or_mobile",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<p bound_box=54,587,1026,655>\u0908\u092e\u0947\u0932 / \u092e\u094b\u092c\u093e\u0907\u0932 / \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e \u0928\u093e\u092e \u0926\u0930\u094d\u091c \u0915\u0930\u0947\u0902</p>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    709
+                ],
+                [
+                    1026,
+                    859
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/et_phone_or_email",
+            "checked": false,
+            "text": "ex: 9251267662 / abcd@example.com",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 6,
+            "temp_id": 11,
+            "size": "972*150",
+            "signature": "[class]android.widget.EditText[resource_id]com.khulke.app:id/et_phone_or_email[text]ex: 9251267662 / abcd@example.com[enabled,,]",
+            "view_str": "afdcf24a043194dec93b0b497887d588",
+            "bound_box": "54,709,1026,859",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]com.khulke.app:id/et_phone_or_email",
+            "allowed_actions": [
+                "touch",
+                "set_text",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<input bound_box=54,709,1026,859>ex: 9251267662 / abcd4example.com</input>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    895
+                ],
+                [
+                    383,
+                    963
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/txt_login",
+            "checked": false,
+            "text": "\u0915\u0947 \u0938\u093e\u0925 \u0932\u0949\u0917\u093f\u0928 \u0915\u0930\u0947\u0902",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 12,
+            "size": "329*68",
+            "signature": "[class]android.widget.TextView[resource_id]com.khulke.app:id/txt_login[text]\u0915\u0947 \u0938\u093e\u0925 \u0932\u0949\u0917\u093f\u0928 \u0915\u0930\u0947\u0902[enabled,,]",
+            "view_str": "0bc3bae3102e247a9fc5bb2e6ede49f4",
+            "bound_box": "54,895,383,963",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.khulke.app:id/txt_login",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<p bound_box=54,895,383,963>\u0915\u0947 \u0938\u093e\u0925 \u0932\u0949\u0917\u093f\u0928 \u0915\u0930\u0947\u0902</p>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14,
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    1017
+                ],
+                [
+                    1026,
+                    1075
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/rdo_grp_type",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RadioGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 13,
+            "size": "972*58",
+            "signature": "[class]android.widget.RadioGroup[resource_id]com.khulke.app:id/rdo_grp_type[text]None[enabled,,]",
+            "view_str": "e9ecd992f6e7ce02f9b45bba0b5b12dd",
+            "bound_box": "54,1017,1026,1075",
+            "content_free_signature": "[class]android.widget.RadioGroup[resource_id]com.khulke.app:id/rdo_grp_type"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    1017
+                ],
+                [
+                    537,
+                    1075
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/rdo_otp",
+            "checked": true,
+            "text": "\u0913\u091f\u0940\u092a\u0940",
+            "class": "android.widget.RadioButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "483*58",
+            "signature": "[class]android.widget.RadioButton[resource_id]com.khulke.app:id/rdo_otp[text]\u0913\u091f\u0940\u092a\u0940[enabled,checked,]",
+            "view_str": "ddf86244ef3e405d867b77a0ae6c69a3",
+            "bound_box": "54,1017,537,1075",
+            "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.khulke.app:id/rdo_otp",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "6",
+            "desc": "<checkbox bound_box=54,1017,537,1075>\u0913\u091f\u0940\u092a\u0940</checkbox>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    543,
+                    1017
+                ],
+                [
+                    1026,
+                    1075
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/rdo_password",
+            "checked": false,
+            "text": "\u092a\u093e\u0938\u0935\u0930\u094d\u0921",
+            "class": "android.widget.RadioButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 15,
+            "size": "483*58",
+            "signature": "[class]android.widget.RadioButton[resource_id]com.khulke.app:id/rdo_password[text]\u092a\u093e\u0938\u0935\u0930\u094d\u0921[enabled,,]",
+            "view_str": "201e9fd2f87f56be7c3d06118e1f2400",
+            "bound_box": "543,1017,1026,1075",
+            "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.khulke.app:id/rdo_password",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<checkbox bound_box=543,1017,1026,1075>\u092a\u093e\u0938\u0935\u0930\u094d\u0921</checkbox>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": false,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    1219
+                ],
+                [
+                    1008,
+                    1363
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/btn_login",
+            "checked": false,
+            "text": "\u091c\u093e\u0930\u0940 \u0930\u0916\u0947\u0902",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 16,
+            "size": "936*144",
+            "signature": "[class]android.widget.Button[resource_id]com.khulke.app:id/btn_login[text]\u091c\u093e\u0930\u0940 \u0930\u0916\u0947\u0902[,,]",
+            "view_str": "4c5c31dfbcb695b897b2ddf28f7eef32",
+            "bound_box": "72,1219,1008,1363",
+            "content_free_signature": "[class]android.widget.Button[resource_id]com.khulke.app:id/btn_login",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<button bound_box=72,1219,1008,1363>\u091c\u093e\u0930\u0940 \u0930\u0916\u0947\u0902</button>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    1453
+                ],
+                [
+                    1026,
+                    1532
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/txt_create_acc",
+            "checked": false,
+            "text": "\u0928\u092f\u093e \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e? \u0916\u093e\u0924\u093e \u092c\u0928\u093e\u090f\u0902",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 6,
+            "temp_id": 17,
+            "size": "972*79",
+            "signature": "[class]android.widget.TextView[resource_id]com.khulke.app:id/txt_create_acc[text]\u0928\u092f\u093e \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e? \u0916\u093e\u0924\u093e \u092c\u0928\u093e\u090f\u0902[enabled,,]",
+            "view_str": "8547d1e558ce72a7979c6b300d7b3e15",
+            "bound_box": "54,1453,1026,1532",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.khulke.app:id/txt_create_acc",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<button bound_box=54,1453,1026,1532>\u0928\u092f\u093e \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e? \u0916\u093e\u0924\u093e \u092c\u0928\u093e\u090f\u0902</button>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1536
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 18,
+            "size": "1080*240",
+            "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+            "view_str": "e65970f8880f5a8b68d692a026c52c79",
+            "bound_box": "0,1536,1080,1776",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    1604
+                ],
+                [
+                    1026,
+                    1657
+                ]
+            ],
+            "resource_id": "com.khulke.app:id/txt_privacy_policy",
+            "checked": false,
+            "text": "\u0917\u094b\u092a\u0928\u0940\u092f\u0924\u093e \u0928\u0940\u0924\u093f & \u0938\u0947\u0935\u093e \u0915\u0940 \u0936\u0930\u094d\u0924\u0947\u0902\u0964",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 6,
+            "temp_id": 19,
+            "size": "972*53",
+            "signature": "[class]android.widget.TextView[resource_id]com.khulke.app:id/txt_privacy_policy[text]\u0917\u094b\u092a\u0928\u0940\u092f\u0924\u093e \u0928\u0940\u0924\u093f & \u0938\u0947\u0935\u093e \u0915\u0940 \u0936\u0930\u094d\u0924\u0947\u0902\u0964[enabled,,]",
+            "view_str": "1cb09001013ff8d3e4e47d00405a1af2",
+            "bound_box": "54,1604,1026,1657",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.khulke.app:id/txt_privacy_policy",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<button bound_box=54,1604,1026,1657>\u0917\u094b\u092a\u0928\u0940\u092f\u0924\u093e \u0928\u0940\u0924\u093f & \u0938\u0947\u0935\u093e \u0915\u0940 \u0936\u0930\u094d\u0924\u0947\u0902\u0964</button>"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 20,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "304af21b003ed321d19270c8077d1345",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "com.khulke.app",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 21,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "5144a011023ac62459adb9cee8c7d6a4",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

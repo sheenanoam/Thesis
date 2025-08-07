@@ -1,0 +1,363 @@
+{
+    "state_str": "08b900/697e9f",
+    "state_str_content_free": "dd1dd1/d81a17",
+    "foreground_activity": "co.bytemark.tgt/co.bytemark.buy_tickets.BuyTicketsActivity",
+    "activity_stack": [
+        "co.bytemark.tgt/co.bytemark.buy_tickets.BuyTicketsActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "co.bytemark.tgt",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    539
+                ],
+                [
+                    780,
+                    1259
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "672*720",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "d26e9dcffa90e29173aaafa7516e3236",
+            "bound_box": "108,539,780,1259",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "co.bytemark.tgt",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    539
+                ],
+                [
+                    780,
+                    1259
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "672*720",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "d593bf67a58a1ca65d0552b75556dc07",
+            "bound_box": "108,539,780,1259",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "co.bytemark.tgt",
+            "visible": true,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    539
+                ],
+                [
+                    780,
+                    1259
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ListView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "672*720",
+            "signature": "[class]android.widget.ListView[resource_id]None[text]None[enabled,,]",
+            "view_str": "57b5381030320a93db8cbc3a07da831a",
+            "bound_box": "108,539,780,1259",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]None"
+        },
+        {
+            "package": "co.bytemark.tgt",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    539
+                ],
+                [
+                    780,
+                    683
+                ]
+            ],
+            "resource_id": "co.bytemark.tgt:id/ctv_spinner",
+            "checked": true,
+            "text": "Bus",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "672*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]co.bytemark.tgt:id/ctv_spinner[text]Bus[enabled,checked,]",
+            "view_str": "daa4e8e2efa520cac07ae183f1212670",
+            "bound_box": "108,539,780,683",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]co.bytemark.tgt:id/ctv_spinner",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "0",
+            "desc": "<checkbox bound_box=108,539,780,683>Bus</checkbox>"
+        },
+        {
+            "package": "co.bytemark.tgt",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    683
+                ],
+                [
+                    780,
+                    827
+                ]
+            ],
+            "resource_id": "co.bytemark.tgt:id/ctv_spinner",
+            "checked": false,
+            "text": "Kitsap Fast Ferry",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 4,
+            "size": "672*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]co.bytemark.tgt:id/ctv_spinner[text]Kitsap Fast Ferry[enabled,,]",
+            "view_str": "14dfead87b45f003a3877b52b91bc0a8",
+            "bound_box": "108,683,780,827",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]co.bytemark.tgt:id/ctv_spinner",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<checkbox bound_box=108,683,780,827>Kitsap Fast Ferry</checkbox>"
+        },
+        {
+            "package": "co.bytemark.tgt",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    827
+                ],
+                [
+                    780,
+                    971
+                ]
+            ],
+            "resource_id": "co.bytemark.tgt:id/ctv_spinner",
+            "checked": false,
+            "text": "Streetcar",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 5,
+            "size": "672*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]co.bytemark.tgt:id/ctv_spinner[text]Streetcar[enabled,,]",
+            "view_str": "3bfc4a46fcf4fed32420e09ed409a1b2",
+            "bound_box": "108,827,780,971",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]co.bytemark.tgt:id/ctv_spinner",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<checkbox bound_box=108,827,780,971>Streetcar</checkbox>"
+        },
+        {
+            "package": "co.bytemark.tgt",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    971
+                ],
+                [
+                    780,
+                    1115
+                ]
+            ],
+            "resource_id": "co.bytemark.tgt:id/ctv_spinner",
+            "checked": false,
+            "text": "Train",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 6,
+            "size": "672*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]co.bytemark.tgt:id/ctv_spinner[text]Train[enabled,,]",
+            "view_str": "e30a693f1bf26611ec1c737e743e9b79",
+            "bound_box": "108,971,780,1115",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]co.bytemark.tgt:id/ctv_spinner",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<checkbox bound_box=108,971,780,1115>Train</checkbox>"
+        },
+        {
+            "package": "co.bytemark.tgt",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    1115
+                ],
+                [
+                    780,
+                    1259
+                ]
+            ],
+            "resource_id": "co.bytemark.tgt:id/ctv_spinner",
+            "checked": false,
+            "text": "Water Taxi",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 7,
+            "size": "672*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]co.bytemark.tgt:id/ctv_spinner[text]Water Taxi[enabled,,]",
+            "view_str": "a7c5f71ad11b89a38a82694105ce9e1a",
+            "bound_box": "108,1115,780,1259",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]co.bytemark.tgt:id/ctv_spinner",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<checkbox bound_box=108,1115,780,1259>Water Taxi</checkbox>"
+        }
+    ]
+}

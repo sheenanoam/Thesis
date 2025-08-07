@@ -1,0 +1,3622 @@
+{
+    "state_str": "08b900/50e714",
+    "state_str_content_free": "dd1dd1/620be4",
+    "foreground_activity": "com.mezhevikin.converter/.activities.ConverterActivity",
+    "activity_stack": [
+        "com.mezhevikin.converter/.activities.ConverterActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                86,
+                87
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "9fc3c62cb8238e9ab76dd597ff11ea6a",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "953a25860bfd720936a43889dc589232",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "7caabb50f7bc292e92ceadf79b59d8b9",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 9,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                9,
+                10,
+                15,
+                28,
+                41,
+                54,
+                67,
+                80
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "4ee1f4576873bd9a6a55a96cb4982801",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5,
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    345
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/firstCurrency",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*273",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/firstCurrency[text]None[enabled,,]",
+            "view_str": "4eea480c845a5a8c41eef2e31ebf22a8",
+            "bound_box": "0,72,1080,345",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/firstCurrency"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6,
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    45,
+                    117
+                ],
+                [
+                    153,
+                    300
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "108*183",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "0a6ae27c437c08a7e4eacbdcc7cfbd5f",
+            "bound_box": "45,117,153,300",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    45,
+                    117
+                ],
+                [
+                    153,
+                    225
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/iconImageView",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "108*108",
+            "signature": "[class]android.widget.ImageView[resource_id]com.mezhevikin.converter:id/iconImageView[text]None[enabled,,]",
+            "view_str": "320aff95d59a7238cc9a4bed1b129015",
+            "bound_box": "45,117,153,225",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.mezhevikin.converter:id/iconImageView"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    240
+                ],
+                [
+                    144,
+                    300
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/codeTextView",
+            "checked": false,
+            "text": "CNY",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 7,
+            "size": "90*60",
+            "signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/codeTextView[text]CNY[enabled,,]",
+            "view_str": "75faa3cf028091619326a0b01d8fa1ef",
+            "bound_box": "54,240,144,300",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/codeTextView",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button bound_box=54,240,144,300>CNY</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    198,
+                    72
+                ],
+                [
+                    1035,
+                    345
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/valueTextView",
+            "checked": false,
+            "text": "128,757,869",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 8,
+            "size": "837*273",
+            "signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/valueTextView[text]128,757,869[enabled,,]",
+            "view_str": "31cdec85f6a7236b5b4a21c3175d3fa1",
+            "bound_box": "198,72,1035,345",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/valueTextView",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=198,72,1035,345>128,757,869</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    345
+                ],
+                [
+                    1080,
+                    347
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 9,
+            "size": "1080*2",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "a8c5bb88489a5cddf90b3b6f10d2bdc3",
+            "bound_box": "0,345,1080,347",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11,
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    347
+                ],
+                [
+                    1080,
+                    620
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/secondCurrency",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 3,
+            "temp_id": 10,
+            "size": "1080*273",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/secondCurrency[text]None[enabled,,]",
+            "view_str": "83c50fc216c8f6b490c18fc36e1c9b78",
+            "bound_box": "0,347,1080,620",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/secondCurrency"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12,
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    45,
+                    392
+                ],
+                [
+                    153,
+                    575
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "108*183",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "31ddb0b618c226a0b486175989b900b7",
+            "bound_box": "45,392,153,575",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    45,
+                    392
+                ],
+                [
+                    153,
+                    500
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/iconImageView",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "108*108",
+            "signature": "[class]android.widget.ImageView[resource_id]com.mezhevikin.converter:id/iconImageView[text]None[enabled,,]",
+            "view_str": "4649d634dd887730eb0fcf9206ea42ef",
+            "bound_box": "45,392,153,500",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.mezhevikin.converter:id/iconImageView"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    50,
+                    515
+                ],
+                [
+                    147,
+                    575
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/codeTextView",
+            "checked": false,
+            "text": "MXN",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 13,
+            "size": "97*60",
+            "signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/codeTextView[text]MXN[enabled,,]",
+            "view_str": "0ad677f3912e6fbfc0ff7dfe65723527",
+            "bound_box": "50,515,147,575",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/codeTextView",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=50,515,147,575>MXN</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    198,
+                    347
+                ],
+                [
+                    1035,
+                    620
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/valueTextView",
+            "checked": false,
+            "text": "324,605,924",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 14,
+            "size": "837*273",
+            "signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/valueTextView[text]324,605,924[enabled,,]",
+            "view_str": "2a1d0b522cf2628ab3d3e04a35447bde",
+            "bound_box": "198,347,1035,620",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/valueTextView",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button bound_box=198,347,1035,620>324,605,924</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                16,
+                19,
+                22,
+                25
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    620
+                ],
+                [
+                    1080,
+                    815
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 15,
+            "size": "1080*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "4eab635426070f084fd8ffa8afe7acff",
+            "bound_box": "0,620,1080,815",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    620
+                ],
+                [
+                    270,
+                    815
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/clearButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 16,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/clearButton[text]None[enabled,,]",
+            "view_str": "a863a73133f4e8afa14cb7413a44916c",
+            "bound_box": "0,620,270,815",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/clearButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                18
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    620
+                ],
+                [
+                    267,
+                    812
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "1b458f9ac8883fe247112119b6add117",
+            "bound_box": "0,620,267,812",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    100,
+                    652
+                ],
+                [
+                    166,
+                    780
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "C",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 18,
+            "size": "66*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]C[enabled,,]",
+            "view_str": "a7025fbf8347f88e90e133c95bff4824",
+            "bound_box": "100,652,166,780",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<button bound_box=100,652,166,780>C</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                20
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    620
+                ],
+                [
+                    540,
+                    815
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/backspaceButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 19,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/backspaceButton[text]None[enabled,,]",
+            "view_str": "6a589a43e3426bab82e9b78c8566f4e0",
+            "bound_box": "270,620,540,815",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/backspaceButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    620
+                ],
+                [
+                    537,
+                    812
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 20,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "40ef9657cff1b7ce15b04c37677c8404",
+            "bound_box": "270,620,537,812",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    349,
+                    662
+                ],
+                [
+                    457,
+                    770
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 20,
+            "temp_id": 21,
+            "size": "108*108",
+            "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+            "view_str": "6f128b20f5691c9c04394437617dc594",
+            "bound_box": "349,662,457,770",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                23
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    620
+                ],
+                [
+                    810,
+                    815
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/swapButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 22,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/swapButton[text]None[enabled,,]",
+            "view_str": "bfc3af2f495732e10e32e8a08245b33a",
+            "bound_box": "540,620,810,815",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/swapButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                24
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    620
+                ],
+                [
+                    807,
+                    812
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 22,
+            "temp_id": 23,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "33526326e4211b51ff5e0aaaf0909d90",
+            "bound_box": "540,620,807,812",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    619,
+                    662
+                ],
+                [
+                    727,
+                    770
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 23,
+            "temp_id": 24,
+            "size": "108*108",
+            "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+            "view_str": "cf7dabaa03b8282664e1fb9a3e9f44c0",
+            "bound_box": "619,662,727,770",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                26
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    620
+                ],
+                [
+                    1080,
+                    815
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/divideButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 25,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/divideButton[text]None[enabled,,]",
+            "view_str": "5287df20b958c65c16ba5010aa358dc6",
+            "bound_box": "810,620,1080,815",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/divideButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                27
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    620
+                ],
+                [
+                    1080,
+                    812
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 26,
+            "size": "270*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "dfce73375e915217c64bd27f117b9991",
+            "bound_box": "810,620,1080,812",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    891,
+                    662
+                ],
+                [
+                    999,
+                    770
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 26,
+            "temp_id": 27,
+            "size": "108*108",
+            "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+            "view_str": "37e14d0fa0dae876c4e54e25e9176320",
+            "bound_box": "891,662,999,770",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                29,
+                32,
+                35,
+                38
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    815
+                ],
+                [
+                    1080,
+                    1010
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 28,
+            "size": "1080*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "451fdd6364b4430ee8786a273ea00114",
+            "bound_box": "0,815,1080,1010",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                30
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    815
+                ],
+                [
+                    270,
+                    1010
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/sevenButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 29,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/sevenButton[text]None[enabled,,]",
+            "view_str": "9e3000f5aadffee9913a22ff5fd63d2f",
+            "bound_box": "0,815,270,1010",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/sevenButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                31
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    815
+                ],
+                [
+                    267,
+                    1007
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 29,
+            "temp_id": 30,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "51b33c98c67c3214a593eeecc50aa1df",
+            "bound_box": "0,815,267,1007",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    107,
+                    847
+                ],
+                [
+                    160,
+                    975
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "7",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 30,
+            "temp_id": 31,
+            "size": "53*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]7[enabled,,]",
+            "view_str": "f717393d39acaf9209c6b041d5284552",
+            "bound_box": "107,847,160,975",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<button bound_box=107,847,160,975>7</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                33
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    815
+                ],
+                [
+                    540,
+                    1010
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/eightButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 32,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/eightButton[text]None[enabled,,]",
+            "view_str": "691897ba727739386ad23a24a91f599f",
+            "bound_box": "270,815,540,1010",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/eightButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                34
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    815
+                ],
+                [
+                    537,
+                    1007
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 32,
+            "temp_id": 33,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "7adc9884b10d3d5591fbeb8e8a2f2fde",
+            "bound_box": "270,815,537,1007",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    374,
+                    847
+                ],
+                [
+                    432,
+                    975
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "8",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 34,
+            "size": "58*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]8[enabled,,]",
+            "view_str": "dab6e80573bfb9783ae862a48fa3d774",
+            "bound_box": "374,847,432,975",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<button bound_box=374,847,432,975>8</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                36
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    815
+                ],
+                [
+                    810,
+                    1010
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/nineButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 35,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/nineButton[text]None[enabled,,]",
+            "view_str": "a2146b155c5b67281db9a5cf53090417",
+            "bound_box": "540,815,810,1010",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/nineButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                37
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    815
+                ],
+                [
+                    807,
+                    1007
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 35,
+            "temp_id": 36,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "e5a947a73c55f0ce463f5f8fb539c82d",
+            "bound_box": "540,815,807,1007",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    645,
+                    847
+                ],
+                [
+                    702,
+                    975
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "9",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 36,
+            "temp_id": 37,
+            "size": "57*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]9[enabled,,]",
+            "view_str": "a65aa09ae00c97feabb3af215c4d6842",
+            "bound_box": "645,847,702,975",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<button bound_box=645,847,702,975>9</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                39
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    815
+                ],
+                [
+                    1080,
+                    1010
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/multiplyButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 38,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/multiplyButton[text]None[enabled,,]",
+            "view_str": "caab0d23963ec9933b3825a69a05e233",
+            "bound_box": "810,815,1080,1010",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/multiplyButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                40
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    815
+                ],
+                [
+                    1080,
+                    1007
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 38,
+            "temp_id": 39,
+            "size": "270*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "e39f229beecfa843ff9754ae7107f52e",
+            "bound_box": "810,815,1080,1007",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    891,
+                    857
+                ],
+                [
+                    999,
+                    965
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 39,
+            "temp_id": 40,
+            "size": "108*108",
+            "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+            "view_str": "c8aa7a6a2abfd8fe1c8cbfd147c6f05a",
+            "bound_box": "891,857,999,965",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                42,
+                45,
+                48,
+                51
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1010
+                ],
+                [
+                    1080,
+                    1205
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 41,
+            "size": "1080*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "355f01f7999d6cba481f7948e6041a24",
+            "bound_box": "0,1010,1080,1205",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                43
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1010
+                ],
+                [
+                    270,
+                    1205
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/fourButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 41,
+            "temp_id": 42,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/fourButton[text]None[enabled,,]",
+            "view_str": "4d7ff2abc7c43177f51cdc626ba15d5e",
+            "bound_box": "0,1010,270,1205",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/fourButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                44
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1010
+                ],
+                [
+                    267,
+                    1202
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 42,
+            "temp_id": 43,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "36cc7b85a4a522c181b55d6a0e3b547a",
+            "bound_box": "0,1010,267,1202",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    104,
+                    1042
+                ],
+                [
+                    162,
+                    1170
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "4",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 43,
+            "temp_id": 44,
+            "size": "58*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]4[enabled,,]",
+            "view_str": "0fa4410defe858cb01d113cd5c55c931",
+            "bound_box": "104,1042,162,1170",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<button bound_box=104,1042,162,1170>4</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                46
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    1010
+                ],
+                [
+                    540,
+                    1205
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/fiveButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 41,
+            "temp_id": 45,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/fiveButton[text]None[enabled,,]",
+            "view_str": "2844be1a9e46901a15f3aef3d50e2534",
+            "bound_box": "270,1010,540,1205",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/fiveButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                47
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    1010
+                ],
+                [
+                    537,
+                    1202
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 45,
+            "temp_id": 46,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "caadccadf32ad1c99c97116f1920b3b1",
+            "bound_box": "270,1010,537,1202",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    375,
+                    1042
+                ],
+                [
+                    431,
+                    1170
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "5",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 46,
+            "temp_id": 47,
+            "size": "56*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]5[enabled,,]",
+            "view_str": "66255cf72b20eb9e9219f40a22105e3b",
+            "bound_box": "375,1042,431,1170",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<button bound_box=375,1042,431,1170>5</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                49
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1010
+                ],
+                [
+                    810,
+                    1205
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/sixButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 41,
+            "temp_id": 48,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/sixButton[text]None[enabled,,]",
+            "view_str": "2940eb57a20771b39f0c7ccf74fa07a3",
+            "bound_box": "540,1010,810,1205",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/sixButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                50
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1010
+                ],
+                [
+                    807,
+                    1202
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 48,
+            "temp_id": 49,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "9ea4dc161af018d9d24ead5f3e53fdf5",
+            "bound_box": "540,1010,807,1202",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    645,
+                    1042
+                ],
+                [
+                    702,
+                    1170
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "6",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 49,
+            "temp_id": 50,
+            "size": "57*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]6[enabled,,]",
+            "view_str": "d95e4d15c350a69b614ddc1b75ae1d0a",
+            "bound_box": "645,1042,702,1170",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<button bound_box=645,1042,702,1170>6</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                52
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    1010
+                ],
+                [
+                    1080,
+                    1205
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/minusButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 41,
+            "temp_id": 51,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/minusButton[text]None[enabled,,]",
+            "view_str": "17ba063d66515871fcf92c548d00ef56",
+            "bound_box": "810,1010,1080,1205",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/minusButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                53
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    1010
+                ],
+                [
+                    1080,
+                    1202
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 51,
+            "temp_id": 52,
+            "size": "270*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "fa9c83c632a15ff1fa2e1e1cb086e66f",
+            "bound_box": "810,1010,1080,1202",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    891,
+                    1052
+                ],
+                [
+                    999,
+                    1160
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 53,
+            "size": "108*108",
+            "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+            "view_str": "eabc756e72b016c50c65fe7c0222bff7",
+            "bound_box": "891,1052,999,1160",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                55,
+                58,
+                61,
+                64
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1205
+                ],
+                [
+                    1080,
+                    1400
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 54,
+            "size": "1080*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "7ddc9be9e5551b414e4a296a5a140c50",
+            "bound_box": "0,1205,1080,1400",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                56
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1205
+                ],
+                [
+                    270,
+                    1400
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/oneButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 55,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/oneButton[text]None[enabled,,]",
+            "view_str": "b88a1d2f6a1619115934d9ee9f8b6e02",
+            "bound_box": "0,1205,270,1400",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/oneButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                57
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1205
+                ],
+                [
+                    267,
+                    1397
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 55,
+            "temp_id": 56,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "b3e20d909da96ae09d2f6314346b9555",
+            "bound_box": "0,1205,267,1397",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    112,
+                    1237
+                ],
+                [
+                    155,
+                    1365
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "1",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 56,
+            "temp_id": 57,
+            "size": "43*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]1[enabled,,]",
+            "view_str": "f51874f1354d4c5c814de30c2d4dd76a",
+            "bound_box": "112,1237,155,1365",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<button bound_box=112,1237,155,1365>1</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                59
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    1205
+                ],
+                [
+                    540,
+                    1400
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/twoButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 58,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/twoButton[text]None[enabled,,]",
+            "view_str": "5855f201b527b9ef96a181a4894145ad",
+            "bound_box": "270,1205,540,1400",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/twoButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                60
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    1205
+                ],
+                [
+                    537,
+                    1397
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 58,
+            "temp_id": 59,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "6eeb85d426c4961d164f98f2e07ca5f6",
+            "bound_box": "270,1205,537,1397",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    376,
+                    1237
+                ],
+                [
+                    430,
+                    1365
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "2",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 59,
+            "temp_id": 60,
+            "size": "54*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]2[enabled,,]",
+            "view_str": "f450bdd736d03e8169925ee67ca0faa2",
+            "bound_box": "376,1237,430,1365",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "12",
+            "desc": "<button bound_box=376,1237,430,1365>2</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                62
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1205
+                ],
+                [
+                    810,
+                    1400
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/threeButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 61,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/threeButton[text]None[enabled,,]",
+            "view_str": "28d987142a20c76690bc307890ed6705",
+            "bound_box": "540,1205,810,1400",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/threeButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                63
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1205
+                ],
+                [
+                    807,
+                    1397
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 61,
+            "temp_id": 62,
+            "size": "267*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "527319363f290ea4dd1a31e96cbb0c3f",
+            "bound_box": "540,1205,807,1397",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    645,
+                    1237
+                ],
+                [
+                    702,
+                    1365
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "3",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 62,
+            "temp_id": 63,
+            "size": "57*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]3[enabled,,]",
+            "view_str": "1fa6309c4a8da6d2ece22701d7bc90ef",
+            "bound_box": "645,1237,702,1365",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "13",
+            "desc": "<button bound_box=645,1237,702,1365>3</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                65
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    1205
+                ],
+                [
+                    1080,
+                    1400
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/plusButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 64,
+            "size": "270*195",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/plusButton[text]None[enabled,,]",
+            "view_str": "3ea852ec4057d5ec9f4b646acf71382d",
+            "bound_box": "810,1205,1080,1400",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/plusButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                66
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    1205
+                ],
+                [
+                    1080,
+                    1397
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 64,
+            "temp_id": 65,
+            "size": "270*192",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "1947652bc417c752cbd8b687106e20c1",
+            "bound_box": "810,1205,1080,1397",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    891,
+                    1247
+                ],
+                [
+                    999,
+                    1355
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 65,
+            "temp_id": 66,
+            "size": "108*108",
+            "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+            "view_str": "e43a2b845188f41798a972a22492c0b0",
+            "bound_box": "891,1247,999,1355",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                68,
+                71,
+                74,
+                77
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1400
+                ],
+                [
+                    1080,
+                    1596
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 67,
+            "size": "1080*196",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "ffaeb6d83e9a3650a0a318283b2c58ef",
+            "bound_box": "0,1400,1080,1596",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                69
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1400
+                ],
+                [
+                    270,
+                    1596
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/zeroButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 68,
+            "size": "270*196",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/zeroButton[text]None[enabled,,]",
+            "view_str": "66ac8bf16b0814a7f438bac2691de550",
+            "bound_box": "0,1400,270,1596",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/zeroButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                70
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1400
+                ],
+                [
+                    267,
+                    1593
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 68,
+            "temp_id": 69,
+            "size": "267*193",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c55317574032fa55f8477dca88d46aa8",
+            "bound_box": "0,1400,267,1593",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    104,
+                    1432
+                ],
+                [
+                    162,
+                    1560
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "0",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 69,
+            "temp_id": 70,
+            "size": "58*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]0[enabled,,]",
+            "view_str": "d50206f00a71bfc8c77eeebca454f1ea",
+            "bound_box": "104,1432,162,1560",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "14",
+            "desc": "<button bound_box=104,1432,162,1560>0</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                72
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    1400
+                ],
+                [
+                    540,
+                    1596
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/dotButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 71,
+            "size": "270*196",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/dotButton[text]None[enabled,,]",
+            "view_str": "78f46d1382f41ff59e876210794a30d7",
+            "bound_box": "270,1400,540,1596",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/dotButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                73
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    1400
+                ],
+                [
+                    537,
+                    1593
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 72,
+            "size": "267*193",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "5d121445703aae5e1abeb4f128d4ae42",
+            "bound_box": "270,1400,537,1593",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    391,
+                    1432
+                ],
+                [
+                    415,
+                    1560
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": ".",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 72,
+            "temp_id": 73,
+            "size": "24*128",
+            "signature": "[class]android.widget.TextView[resource_id]None[text].[enabled,,]",
+            "view_str": "7acf50815249b2b50b0e62f39fcb69ff",
+            "bound_box": "391,1432,415,1560",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "15",
+            "desc": "<button bound_box=391,1432,415,1560>.</button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                75
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1400
+                ],
+                [
+                    810,
+                    1596
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/percentButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 74,
+            "size": "270*196",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/percentButton[text]None[enabled,,]",
+            "view_str": "286414aa5df772e0152cd4bde1c90a7b",
+            "bound_box": "540,1400,810,1596",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/percentButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                76
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1400
+                ],
+                [
+                    807,
+                    1593
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 74,
+            "temp_id": 75,
+            "size": "267*193",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "05aa099930b8735b8f791700579ac92a",
+            "bound_box": "540,1400,807,1593",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    619,
+                    1442
+                ],
+                [
+                    727,
+                    1550
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 75,
+            "temp_id": 76,
+            "size": "108*108",
+            "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+            "view_str": "b9b437035e8c34c542c6eec75732c076",
+            "bound_box": "619,1442,727,1550",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                78
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    1400
+                ],
+                [
+                    1080,
+                    1596
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/equalButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 77,
+            "size": "270*196",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/equalButton[text]None[enabled,,]",
+            "view_str": "ec5ccaf991f79de382ed10c916473fbe",
+            "bound_box": "810,1400,1080,1596",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.mezhevikin.converter:id/equalButton"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                79
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    1400
+                ],
+                [
+                    1080,
+                    1593
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 77,
+            "temp_id": 78,
+            "size": "270*193",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "cd308fb74eb854dd40350eed5f56baff",
+            "bound_box": "810,1400,1080,1593",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    891,
+                    1442
+                ],
+                [
+                    999,
+                    1550
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 78,
+            "temp_id": 79,
+            "size": "108*108",
+            "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+            "view_str": "e2e495e105882ac5c4f5af7c56e62203",
+            "bound_box": "891,1442,999,1550",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                81,
+                82,
+                85
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1596
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 80,
+            "size": "1080*180",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c4bf70a7df20de832b09146526a929c6",
+            "bound_box": "0,1596,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "refresh",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1596
+                ],
+                [
+                    180,
+                    1776
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/refreshButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 80,
+            "temp_id": 81,
+            "size": "180*180",
+            "signature": "[class]android.widget.ImageButton[resource_id]com.mezhevikin.converter:id/refreshButton[text]None[enabled,,]",
+            "view_str": "3ec1a9dd3ae661a0f1374315b892b44f",
+            "bound_box": "0,1596,180,1776",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.mezhevikin.converter:id/refreshButton",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "16",
+            "desc": "<button alt='refresh' bound_box=0,1596,180,1776></button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                83,
+                84
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    180,
+                    1620
+                ],
+                [
+                    900,
+                    1752
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 80,
+            "temp_id": 82,
+            "size": "720*132",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "fbc066cb70d958cb2d292028cd01c819",
+            "bound_box": "180,1620,900,1752",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    180,
+                    1620
+                ],
+                [
+                    900,
+                    1680
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/dateView",
+            "checked": false,
+            "text": "6/27/24 7:49 AM",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 82,
+            "temp_id": 83,
+            "size": "720*60",
+            "signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/dateView[text]6/27/24 7:49 AM[enabled,,]",
+            "view_str": "b0e5a0292ff3dffdf5029132c097772a",
+            "bound_box": "180,1620,900,1680",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/dateView",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "17",
+            "desc": "<p bound_box=180,1620,900,1680>6/27/24 7:49 AM</p>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    180,
+                    1695
+                ],
+                [
+                    900,
+                    1752
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/rateView",
+            "checked": false,
+            "text": "1 CNY = 2.52 MXN",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 82,
+            "temp_id": 84,
+            "size": "720*57",
+            "signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/rateView[text]1 CNY = 2.52 MXN[enabled,,]",
+            "view_str": "f6551dc7ab803a8a77a35a74805e5a75",
+            "bound_box": "180,1695,900,1752",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.mezhevikin.converter:id/rateView",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "18",
+            "desc": "<p bound_box=180,1695,900,1752>1 CNY = 2.52 MXN</p>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "more",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    900,
+                    1596
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.mezhevikin.converter:id/moreButton",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 80,
+            "temp_id": 85,
+            "size": "180*180",
+            "signature": "[class]android.widget.ImageButton[resource_id]com.mezhevikin.converter:id/moreButton[text]None[enabled,,]",
+            "view_str": "f442bd1a2c14cbe8d44867144647c882",
+            "bound_box": "900,1596,1080,1776",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.mezhevikin.converter:id/moreButton",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "19",
+            "desc": "<button alt='more' bound_box=900,1596,1080,1776></button>"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 86,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "62ceb4276ad8751b4ef3b96e48cf03ae",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "com.mezhevikin.converter",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 87,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "63ca014f59583f88d7a80fd6de60d3e1",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

@@ -1,0 +1,3451 @@
+{
+    "state_str": "08b900/aa83a8",
+    "state_str_content_free": "dd1dd1/7cc022",
+    "foreground_activity": "org.wta/.MainActivity",
+    "activity_stack": [
+        "org.wta/.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                81,
+                82
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "499a94c10f0c283e0036cddc847ba7fa",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "bccc60b9c33aa2df143326c165263069",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "7f83ccdc5045c32c7ec7388eb68752e3",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]org.wta:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "769bf59e910be429351ce059d59cce49",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]org.wta:id/action_bar_root"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "02de20ebd418a26cfa0d4addc1ffc8cb",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/topLevel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/topLevel[text]None[enabled,,]",
+            "view_str": "cee3b9bab3c291f8e4391281fd06c9fd",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/topLevel"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                11,
+                59
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c9f6fd4ae15f8dd4d4817c4db4e42f33",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": "org.wta:id/app_bar",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "1080*168",
+            "signature": "[class]android.widget.LinearLayout[resource_id]org.wta:id/app_bar[text]None[enabled,,]",
+            "view_str": "3c9a8026c7554c41a3f00baaccd168a7",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]org.wta:id/app_bar"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9,
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": "org.wta:id/toolbar",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "1080*168",
+            "signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/toolbar[text]None[enabled,,]",
+            "view_str": "cb002ef8ff80a30a49746b9779bbcf26",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/toolbar"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    115
+                ],
+                [
+                    389,
+                    196
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Trip Reports",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "341*81",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]Trip Reports[enabled,,]",
+            "view_str": "3a6e175096d370be59d572177aadebe3",
+            "bound_box": "48,115,389,196",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=48,115,389,196>Trip Reports</p>"
+        },
+        {
+            "package": "org.wta",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "androidx.appcompat.widget.LinearLayoutCompat",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 10,
+            "size": "0*168",
+            "signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]",
+            "view_str": "29b5dbe75d4324aa3ad15a7e4d661bb7",
+            "bound_box": "1080,72,1080,240",
+            "content_free_signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/nav_host_fragment",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 11,
+            "size": "1080*1344",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/nav_host_fragment[text]None[enabled,,]",
+            "view_str": "74ff83fcb438556392589e0281c63108",
+            "bound_box": "0,240,1080,1584",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/nav_host_fragment"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/nav_host_fragment",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "1080*1344",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/nav_host_fragment[text]None[enabled,,]",
+            "view_str": "daf2009eef586d1788e369abcd989710",
+            "bound_box": "0,240,1080,1584",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/nav_host_fragment"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/most_recent_trip_report_fragment",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "1080*1344",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/most_recent_trip_report_fragment[text]None[enabled,,]",
+            "view_str": "243125a7e71cc9c248eacc7d1688e8ef",
+            "bound_box": "0,240,1080,1584",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/most_recent_trip_report_fragment"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15,
+                58
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/listContainer",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "1080*1344",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/listContainer[text]None[enabled,,]",
+            "view_str": "f0a4619bb3391ad19ec6c1fb4e47694a",
+            "bound_box": "0,240,1080,1584",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/listContainer"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/swipeRefreshLayout",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "1080*1344",
+            "signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/swipeRefreshLayout[text]None[enabled,,]",
+            "view_str": "6821930c78439b0a5f063fe7b1917e71",
+            "bound_box": "0,240,1080,1584",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/swipeRefreshLayout"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17,
+                19,
+                32,
+                45
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1584
+                ]
+            ],
+            "resource_id": "android:id/list",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ListView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 16,
+            "size": "1080*1344",
+            "signature": "[class]android.widget.ListView[resource_id]android:id/list[text]None[enabled,,]",
+            "view_str": "339b353a455226367d3eab01651fcfae",
+            "bound_box": "0,240,1080,1584",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]android:id/list",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<scrollbar bound_box=0,240,1080,1584></scrollbar>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                18
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    384
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "1080*144",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c247ccd5387998fee8fc72384d94c23f",
+            "bound_box": "0,240,1080,384",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    384
+                ]
+            ],
+            "resource_id": "org.wta:id/txtSection",
+            "checked": false,
+            "text": "Yesterday",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 18,
+            "size": "1080*144",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtSection[text]Yesterday[enabled,,]",
+            "view_str": "cb991ab7638dbf2cdc5db7bc19c4ca2c",
+            "bound_box": "0,240,1080,384",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtSection",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=0,240,1080,384>Yesterday</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                20,
+                25
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    384
+                ],
+                [
+                    1080,
+                    906
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 19,
+            "size": "1080*522",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "440d71413c699ce06e361a890346e64c",
+            "bound_box": "0,384,1080,906",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                21,
+                24
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    426
+                ],
+                [
+                    204,
+                    679
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 20,
+            "size": "180*253",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "684bea5f3188cf26ab92b5f66505108b",
+            "bound_box": "24,426,204,679",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                22,
+                23
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    426
+                ],
+                [
+                    204,
+                    618
+                ]
+            ],
+            "resource_id": "org.wta:id/topAuthorImgframe",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 20,
+            "temp_id": 21,
+            "size": "180*192",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/topAuthorImgframe[text]None[enabled,,]",
+            "view_str": "4d40a3aab18abd83d77929cecfc3a8dd",
+            "bound_box": "24,426,204,618",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/topAuthorImgframe"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    426
+                ],
+                [
+                    204,
+                    618
+                ]
+            ],
+            "resource_id": "org.wta:id/circle_crop_white",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 21,
+            "temp_id": 22,
+            "size": "180*192",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/circle_crop_white[text]None[enabled,,]",
+            "view_str": "edbadb79fee3203d84b1cf7fd00ed224",
+            "bound_box": "24,426,204,618",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/circle_crop_white"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    456
+                ],
+                [
+                    180,
+                    588
+                ]
+            ],
+            "resource_id": "org.wta:id/imgAuthor",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 21,
+            "temp_id": 23,
+            "size": "132*132",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgAuthor[text]None[enabled,,]",
+            "view_str": "f631419e375db09019f87ad12be06d6d",
+            "bound_box": "48,456,180,588",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgAuthor"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    618
+                ],
+                [
+                    204,
+                    679
+                ]
+            ],
+            "resource_id": "org.wta:id/txtAuthor",
+            "checked": false,
+            "text": "Chabochi",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 20,
+            "temp_id": 24,
+            "size": "180*61",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtAuthor[text]Chabochi[enabled,,]",
+            "view_str": "c42732c2a9733dca3b907c9723636fe4",
+            "bound_box": "24,618,204,679",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtAuthor",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button bound_box=24,618,204,679>Chabochi</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                26,
+                31
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    396
+                ],
+                [
+                    1056,
+                    888
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 25,
+            "size": "852*492",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "5db6294e525f24cf2c711ce316af0c95",
+            "bound_box": "204,396,1056,888",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                27,
+                30
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    420
+                ],
+                [
+                    1032,
+                    660
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 26,
+            "size": "774*240",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "99c3ae992fe563472bd97e6f3a0ea74f",
+            "bound_box": "258,420,1032,660",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                28,
+                29
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    420
+                ],
+                [
+                    792,
+                    534
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 26,
+            "temp_id": 27,
+            "size": "534*114",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "ca563f7371565f8dbf584aa945693f2e",
+            "bound_box": "258,420,792,534",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    420
+                ],
+                [
+                    792,
+                    469
+                ]
+            ],
+            "resource_id": "org.wta:id/txtDate",
+            "checked": false,
+            "text": "Jun 17, 2024",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 28,
+            "size": "534*49",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtDate[text]Jun 17, 2024[enabled,,]",
+            "view_str": "23bb83dee1a773fd77d9fcd319d99d8c",
+            "bound_box": "258,420,792,469",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtDate",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<button bound_box=258,420,792,469>Jun 17, 2024</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    469
+                ],
+                [
+                    792,
+                    534
+                ]
+            ],
+            "resource_id": "org.wta:id/txtTitle",
+            "checked": false,
+            "text": "Cape Horn",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 29,
+            "size": "534*65",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtTitle[text]Cape Horn[enabled,,]",
+            "view_str": "5686144fa2a281f0d3a4ee61b9b28414",
+            "bound_box": "258,469,792,534",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtTitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<button bound_box=258,469,792,534>Cape Horn</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": "Hike thumbnail",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    420
+                ],
+                [
+                    1032,
+                    660
+                ]
+            ],
+            "resource_id": "org.wta:id/imgThumbHike",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 26,
+            "temp_id": 30,
+            "size": "240*240",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgThumbHike[text]None[enabled,,]",
+            "view_str": "4591096db6cf20c7717ef70ccae70940",
+            "bound_box": "792,420,1032,660",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgThumbHike",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<button alt='Hike thumbnail' bound_box=792,420,1032,660></button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    660
+                ],
+                [
+                    1032,
+                    864
+                ]
+            ],
+            "resource_id": "org.wta:id/txtSubTitle",
+            "checked": false,
+            "text": "Heard a Mountain Lion growl about two miles into the hike. Near the tree line by the private property right before reaching the first paved road. Outside of that the hike was beautiful, very lush, ...",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 31,
+            "size": "774*204",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtSubTitle[text]None[enabled,,]",
+            "view_str": "b67f29722d8ebf47508121020fc2787b",
+            "bound_box": "258,660,1032,864",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtSubTitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<button bound_box=258,660,1032,864>Heard a Mountain Lion growl about two miles into t</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                33,
+                38
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    906
+                ],
+                [
+                    1080,
+                    1428
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 32,
+            "size": "1080*522",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "440d71413c699ce06e361a890346e64c",
+            "bound_box": "0,906,1080,1428",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                34,
+                37
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    948
+                ],
+                [
+                    204,
+                    1201
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 32,
+            "temp_id": 33,
+            "size": "180*253",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "b68f3c9a95ae59fb52a6ba9dfb1696c4",
+            "bound_box": "24,948,204,1201",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                35,
+                36
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    948
+                ],
+                [
+                    204,
+                    1140
+                ]
+            ],
+            "resource_id": "org.wta:id/topAuthorImgframe",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 34,
+            "size": "180*192",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/topAuthorImgframe[text]None[enabled,,]",
+            "view_str": "4d40a3aab18abd83d77929cecfc3a8dd",
+            "bound_box": "24,948,204,1140",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/topAuthorImgframe"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    948
+                ],
+                [
+                    204,
+                    1140
+                ]
+            ],
+            "resource_id": "org.wta:id/circle_crop_white",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 35,
+            "size": "180*192",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/circle_crop_white[text]None[enabled,,]",
+            "view_str": "edbadb79fee3203d84b1cf7fd00ed224",
+            "bound_box": "24,948,204,1140",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/circle_crop_white"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    978
+                ],
+                [
+                    180,
+                    1110
+                ]
+            ],
+            "resource_id": "org.wta:id/imgAuthor",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 36,
+            "size": "132*132",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgAuthor[text]None[enabled,,]",
+            "view_str": "f631419e375db09019f87ad12be06d6d",
+            "bound_box": "48,978,180,1110",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgAuthor"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    1140
+                ],
+                [
+                    204,
+                    1201
+                ]
+            ],
+            "resource_id": "org.wta:id/txtAuthor",
+            "checked": false,
+            "text": "BlueHairedOldLady",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 37,
+            "size": "180*61",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtAuthor[text]BlueHairedOldLady[enabled,,]",
+            "view_str": "7d261c9fdcd18d3658cc43f0a224a563",
+            "bound_box": "24,1140,204,1201",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtAuthor",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<button bound_box=24,1140,204,1201>BlueHairedOldLady</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                39,
+                44
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    918
+                ],
+                [
+                    1056,
+                    1410
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 32,
+            "temp_id": 38,
+            "size": "852*492",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "5db6294e525f24cf2c711ce316af0c95",
+            "bound_box": "204,918,1056,1410",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                40,
+                43
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    942
+                ],
+                [
+                    1032,
+                    1182
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 38,
+            "temp_id": 39,
+            "size": "774*240",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "99c3ae992fe563472bd97e6f3a0ea74f",
+            "bound_box": "258,942,1032,1182",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                41,
+                42
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    942
+                ],
+                [
+                    792,
+                    1113
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 39,
+            "temp_id": 40,
+            "size": "534*171",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "4f7b2b3648293e18e4184ca3d71e3dd2",
+            "bound_box": "258,942,792,1113",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    942
+                ],
+                [
+                    792,
+                    991
+                ]
+            ],
+            "resource_id": "org.wta:id/txtDate",
+            "checked": false,
+            "text": "Jun 17, 2024",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 40,
+            "temp_id": 41,
+            "size": "534*49",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtDate[text]Jun 17, 2024[enabled,,]",
+            "view_str": "23bb83dee1a773fd77d9fcd319d99d8c",
+            "bound_box": "258,942,792,991",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtDate",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<button bound_box=258,942,792,991>Jun 17, 2024</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    991
+                ],
+                [
+                    792,
+                    1113
+                ]
+            ],
+            "resource_id": "org.wta:id/txtTitle",
+            "checked": false,
+            "text": "Hoh River Trail to Five Mile Island",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 40,
+            "temp_id": 42,
+            "size": "534*122",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtTitle[text]Hoh River Trail to Five Mile Island[enabled,,]",
+            "view_str": "81964126be62d2c15bfc550b861eeebd",
+            "bound_box": "258,991,792,1113",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtTitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<button bound_box=258,991,792,1113>Hoh River Trail to Five Mile Island</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": "Hike thumbnail",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    942
+                ],
+                [
+                    1032,
+                    1182
+                ]
+            ],
+            "resource_id": "org.wta:id/imgThumbHike",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 39,
+            "temp_id": 43,
+            "size": "240*240",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgThumbHike[text]None[enabled,,]",
+            "view_str": "4591096db6cf20c7717ef70ccae70940",
+            "bound_box": "792,942,1032,1182",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgThumbHike",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<button alt='Hike thumbnail' bound_box=792,942,1032,1182></button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    1182
+                ],
+                [
+                    1032,
+                    1386
+                ]
+            ],
+            "resource_id": "org.wta:id/txtSubTitle",
+            "checked": false,
+            "text": "Magical trip despite the rain! We did get a downpour Saturday and Sunday but things were clearing up by Monday. Berries are almost ready! Trail is super muddy and slippery in places so poles were ...",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 38,
+            "temp_id": 44,
+            "size": "774*204",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtSubTitle[text]None[enabled,,]",
+            "view_str": "b67f29722d8ebf47508121020fc2787b",
+            "bound_box": "258,1182,1032,1386",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtSubTitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "12",
+            "desc": "<button bound_box=258,1182,1032,1386>Magical trip despite the rain! We did get a downpo</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                46,
+                51
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1428
+                ],
+                [
+                    1080,
+                    1584
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 45,
+            "size": "1080*156",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "440d71413c699ce06e361a890346e64c",
+            "bound_box": "0,1428,1080,1584",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                47,
+                50
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    1470
+                ],
+                [
+                    204,
+                    1584
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 45,
+            "temp_id": 46,
+            "size": "180*114",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "11c840b263da672edf6a575994227df0",
+            "bound_box": "24,1470,204,1584",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                48,
+                49
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    1470
+                ],
+                [
+                    204,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/topAuthorImgframe",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 46,
+            "temp_id": 47,
+            "size": "180*114",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/topAuthorImgframe[text]None[enabled,,]",
+            "view_str": "4d40a3aab18abd83d77929cecfc3a8dd",
+            "bound_box": "24,1470,204,1584",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/topAuthorImgframe"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    1470
+                ],
+                [
+                    204,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/circle_crop_white",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 47,
+            "temp_id": 48,
+            "size": "180*114",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/circle_crop_white[text]None[enabled,,]",
+            "view_str": "edbadb79fee3203d84b1cf7fd00ed224",
+            "bound_box": "24,1470,204,1584",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/circle_crop_white"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1500
+                ],
+                [
+                    180,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/imgAuthor",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 47,
+            "temp_id": 49,
+            "size": "132*84",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgAuthor[text]None[enabled,,]",
+            "view_str": "f631419e375db09019f87ad12be06d6d",
+            "bound_box": "48,1500,180,1584",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgAuthor"
+        },
+        {
+            "package": "org.wta",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    1662
+                ],
+                [
+                    204,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/txtAuthor",
+            "checked": false,
+            "text": "Jonolyhiker",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 46,
+            "temp_id": 50,
+            "size": "180*-78",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtAuthor[text]Jonolyhiker[enabled,,]",
+            "view_str": "87d222bc9c6729e478b39c805e47d567",
+            "bound_box": "24,1662,204,1584",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtAuthor"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                52,
+                57
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    204,
+                    1440
+                ],
+                [
+                    1056,
+                    1584
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 45,
+            "temp_id": 51,
+            "size": "852*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "5db6294e525f24cf2c711ce316af0c95",
+            "bound_box": "204,1440,1056,1584",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                53,
+                56
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    1464
+                ],
+                [
+                    1032,
+                    1584
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 51,
+            "temp_id": 52,
+            "size": "774*120",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "99c3ae992fe563472bd97e6f3a0ea74f",
+            "bound_box": "258,1464,1032,1584",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                54,
+                55
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    1464
+                ],
+                [
+                    792,
+                    1578
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 53,
+            "size": "534*114",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "80996f7348e177fd8cf69676b051b672",
+            "bound_box": "258,1464,792,1578",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    1464
+                ],
+                [
+                    792,
+                    1513
+                ]
+            ],
+            "resource_id": "org.wta:id/txtDate",
+            "checked": false,
+            "text": "Jun 17, 2024",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 53,
+            "temp_id": 54,
+            "size": "534*49",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtDate[text]Jun 17, 2024[enabled,,]",
+            "view_str": "23bb83dee1a773fd77d9fcd319d99d8c",
+            "bound_box": "258,1464,792,1513",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtDate",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "13",
+            "desc": "<button bound_box=258,1464,792,1513>Jun 17, 2024</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    1513
+                ],
+                [
+                    792,
+                    1578
+                ]
+            ],
+            "resource_id": "org.wta:id/txtTitle",
+            "checked": false,
+            "text": "Nooksack Cirque",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 53,
+            "temp_id": 55,
+            "size": "534*65",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtTitle[text]Nooksack Cirque[enabled,,]",
+            "view_str": "43a620fb6ab00ebd11e43691f6bdee77",
+            "bound_box": "258,1513,792,1578",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtTitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "14",
+            "desc": "<button bound_box=258,1513,792,1578>Nooksack Cirque</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": "Hike thumbnail",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    792,
+                    1464
+                ],
+                [
+                    1032,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/imgThumbHike",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 56,
+            "size": "240*120",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgThumbHike[text]None[enabled,,]",
+            "view_str": "4591096db6cf20c7717ef70ccae70940",
+            "bound_box": "792,1464,1032,1584",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/imgThumbHike",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "15",
+            "desc": "<button alt='Hike thumbnail' bound_box=792,1464,1032,1584></button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    1704
+                ],
+                [
+                    1032,
+                    1584
+                ]
+            ],
+            "resource_id": "org.wta:id/txtSubTitle",
+            "checked": false,
+            "text": "Hiked the first 2 miles of the Nooksack cirque Trail today. Good log bridge over Ruth Creek. From the trailhead go down to the river and go about 100 yards downstream and you\u2019ll find an excellent log ...",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 51,
+            "temp_id": 57,
+            "size": "774*-120",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtSubTitle[text]None[enabled,,]",
+            "view_str": "b67f29722d8ebf47508121020fc2787b",
+            "bound_box": "258,1704,1032,1584",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/txtSubTitle"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Filter",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    672,
+                    1392
+                ],
+                [
+                    1032,
+                    1536
+                ]
+            ],
+            "resource_id": "org.wta:id/fabFilter",
+            "checked": false,
+            "text": "FILTER",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 58,
+            "size": "360*144",
+            "signature": "[class]android.widget.Button[resource_id]org.wta:id/fabFilter[text]FILTER[enabled,,]",
+            "view_str": "306a7e1351cea4a394a0d66d2fcee630",
+            "bound_box": "672,1392,1032,1536",
+            "content_free_signature": "[class]android.widget.Button[resource_id]org.wta:id/fabFilter",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "16",
+            "desc": "<button alt='Filter' bound_box=672,1392,1032,1536>FILTER</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                60
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1584
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/bottom_nav",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 59,
+            "size": "1080*192",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/bottom_nav[text]None[enabled,,]",
+            "view_str": "23845e3ae06419a4295ae78434ef1e16",
+            "bound_box": "0,1584,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/bottom_nav"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                61,
+                66,
+                71,
+                76
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1584
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 59,
+            "temp_id": 60,
+            "size": "1080*192",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "5737c2ed67f3e8a644dbed1c7a551e09",
+            "bound_box": "0,1584,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Home",
+            "children": [
+                62,
+                64
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1584
+                ],
+                [
+                    270,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/fragment_home",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 60,
+            "temp_id": 61,
+            "size": "270*192",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/fragment_home[text]None[enabled,,]",
+            "view_str": "a83049c912f3369c53ea7f2b5ee8cdaa",
+            "bound_box": "0,1584,270,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/fragment_home",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "17",
+            "desc": "<button alt='Home' bound_box=0,1584,270,1776></button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                63
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    87,
+                    1608
+                ],
+                [
+                    183,
+                    1704
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_icon_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 61,
+            "temp_id": 62,
+            "size": "96*96",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/navigation_bar_item_icon_container[text]None[enabled,,]",
+            "view_str": "e65ef02b1788960b9f3ce9f3c77979e5",
+            "bound_box": "87,1608,183,1704",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/navigation_bar_item_icon_container"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    87,
+                    1608
+                ],
+                [
+                    183,
+                    1704
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_icon_view",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 62,
+            "temp_id": 63,
+            "size": "96*96",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/navigation_bar_item_icon_view[text]None[enabled,,]",
+            "view_str": "e3bd1c45a4b9c55486cb23206ab3f6f9",
+            "bound_box": "87,1608,183,1704",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/navigation_bar_item_icon_view"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                65
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    84,
+                    1707
+                ],
+                [
+                    186,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_labels_group",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 61,
+            "temp_id": 64,
+            "size": "102*69",
+            "signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/navigation_bar_item_labels_group[text]None[enabled,,]",
+            "view_str": "4b30046607b2602d2c86df9a60759524",
+            "bound_box": "84,1707,186,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/navigation_bar_item_labels_group"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    84,
+                    1707
+                ],
+                [
+                    186,
+                    1756
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_small_label_view",
+            "checked": false,
+            "text": "Home",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 64,
+            "temp_id": 65,
+            "size": "102*49",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/navigation_bar_item_small_label_view[text]Home[enabled,,]",
+            "view_str": "e14d5af4eef9bf0b08ef340e274b4b24",
+            "bound_box": "84,1707,186,1756",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/navigation_bar_item_small_label_view",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "18",
+            "desc": "<button bound_box=84,1707,186,1756>Home</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Trip Reports",
+            "children": [
+                67,
+                69
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    270,
+                    1584
+                ],
+                [
+                    540,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/fragment_new_trips",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": true,
+            "long_clickable": false,
+            "parent": 60,
+            "temp_id": 66,
+            "size": "270*192",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/fragment_new_trips[text]None[enabled,,selected]",
+            "view_str": "5520c1fbd2dd44b50749d56c2e48fbee",
+            "bound_box": "270,1584,540,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/fragment_new_trips",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "19",
+            "desc": "<p alt='Trip Reports' bound_box=270,1584,540,1776></p>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                68
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    357,
+                    1608
+                ],
+                [
+                    453,
+                    1704
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_icon_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": true,
+            "long_clickable": false,
+            "parent": 66,
+            "temp_id": 67,
+            "size": "96*96",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/navigation_bar_item_icon_container[text]None[enabled,,selected]",
+            "view_str": "ebcf231fc4da78bd2cc9620f03c9a312",
+            "bound_box": "357,1608,453,1704",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/navigation_bar_item_icon_container"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    357,
+                    1608
+                ],
+                [
+                    453,
+                    1704
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_icon_view",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": true,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 68,
+            "size": "96*96",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/navigation_bar_item_icon_view[text]None[enabled,,selected]",
+            "view_str": "926939d6c96758da275b203f50f2ae15",
+            "bound_box": "357,1608,453,1704",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/navigation_bar_item_icon_view"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                70
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    299,
+                    1707
+                ],
+                [
+                    511,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_labels_group",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": true,
+            "long_clickable": false,
+            "parent": 66,
+            "temp_id": 69,
+            "size": "212*69",
+            "signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/navigation_bar_item_labels_group[text]None[enabled,,selected]",
+            "view_str": "0413d5babc013c87ef2e99c486aeec91",
+            "bound_box": "299,1707,511,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/navigation_bar_item_labels_group"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    299,
+                    1707
+                ],
+                [
+                    511,
+                    1756
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_large_label_view",
+            "checked": false,
+            "text": "Trip Reports",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": true,
+            "long_clickable": false,
+            "parent": 69,
+            "temp_id": 70,
+            "size": "212*49",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/navigation_bar_item_large_label_view[text]Trip Reports[enabled,,selected]",
+            "view_str": "1fe6aead37666597967599734544a1bd",
+            "bound_box": "299,1707,511,1756",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/navigation_bar_item_large_label_view",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "20",
+            "desc": "<p bound_box=299,1707,511,1756>Trip Reports</p>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "My Backpack",
+            "children": [
+                72,
+                74
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1584
+                ],
+                [
+                    810,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/fragment_backpack",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 60,
+            "temp_id": 71,
+            "size": "270*192",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/fragment_backpack[text]None[enabled,,]",
+            "view_str": "e46f6b068be7614d4b3389512e46b6cc",
+            "bound_box": "540,1584,810,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/fragment_backpack",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "21",
+            "desc": "<button alt='My Backpack' bound_box=540,1584,810,1776></button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                73
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    627,
+                    1608
+                ],
+                [
+                    723,
+                    1704
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_icon_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 72,
+            "size": "96*96",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/navigation_bar_item_icon_container[text]None[enabled,,]",
+            "view_str": "ca107d3e8c9d1470989eb8b72d165508",
+            "bound_box": "627,1608,723,1704",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/navigation_bar_item_icon_container"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    627,
+                    1608
+                ],
+                [
+                    723,
+                    1704
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_icon_view",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 72,
+            "temp_id": 73,
+            "size": "96*96",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/navigation_bar_item_icon_view[text]None[enabled,,]",
+            "view_str": "72ab4cdb5a2e6939443c50273126f04d",
+            "bound_box": "627,1608,723,1704",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/navigation_bar_item_icon_view"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                75
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    561,
+                    1707
+                ],
+                [
+                    788,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_labels_group",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 71,
+            "temp_id": 74,
+            "size": "227*69",
+            "signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/navigation_bar_item_labels_group[text]None[enabled,,]",
+            "view_str": "2fd7190439954b174dd9dfaddee36407",
+            "bound_box": "561,1707,788,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/navigation_bar_item_labels_group"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    562,
+                    1707
+                ],
+                [
+                    786,
+                    1756
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_small_label_view",
+            "checked": false,
+            "text": "My Backpack",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 74,
+            "temp_id": 75,
+            "size": "224*49",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/navigation_bar_item_small_label_view[text]My Backpack[enabled,,]",
+            "view_str": "a5d8c0f0278c8d2dc0d7524f4ff84196",
+            "bound_box": "562,1707,786,1756",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/navigation_bar_item_small_label_view",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "22",
+            "desc": "<button bound_box=562,1707,786,1756>My Backpack</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "About WTA",
+            "children": [
+                77,
+                79
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    810,
+                    1584
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/fragment_about",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 60,
+            "temp_id": 76,
+            "size": "270*192",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/fragment_about[text]None[enabled,,]",
+            "view_str": "11e7603c583b04139bc4466a19b4b202",
+            "bound_box": "810,1584,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/fragment_about",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "23",
+            "desc": "<button alt='About WTA' bound_box=810,1584,1080,1776></button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                78
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    897,
+                    1608
+                ],
+                [
+                    993,
+                    1704
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_icon_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 77,
+            "size": "96*96",
+            "signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/navigation_bar_item_icon_container[text]None[enabled,,]",
+            "view_str": "314cdbc06310c977ad7f95b5c46712b8",
+            "bound_box": "897,1608,993,1704",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.wta:id/navigation_bar_item_icon_container"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    897,
+                    1608
+                ],
+                [
+                    993,
+                    1704
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_icon_view",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 77,
+            "temp_id": 78,
+            "size": "96*96",
+            "signature": "[class]android.widget.ImageView[resource_id]org.wta:id/navigation_bar_item_icon_view[text]None[enabled,,]",
+            "view_str": "df0919a52ecb0af67b4810e329b85ddd",
+            "bound_box": "897,1608,993,1704",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]org.wta:id/navigation_bar_item_icon_view"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                80
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    850,
+                    1707
+                ],
+                [
+                    1040,
+                    1776
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_labels_group",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 79,
+            "size": "190*69",
+            "signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/navigation_bar_item_labels_group[text]None[enabled,,]",
+            "view_str": "8fe60305e8e9efd6ae827da3d3394b12",
+            "bound_box": "850,1707,1040,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]org.wta:id/navigation_bar_item_labels_group"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    850,
+                    1707
+                ],
+                [
+                    1039,
+                    1756
+                ]
+            ],
+            "resource_id": "org.wta:id/navigation_bar_item_small_label_view",
+            "checked": false,
+            "text": "About WTA",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 79,
+            "temp_id": 80,
+            "size": "189*49",
+            "signature": "[class]android.widget.TextView[resource_id]org.wta:id/navigation_bar_item_small_label_view[text]About WTA[enabled,,]",
+            "view_str": "16b19deb6337282f08762c683a616991",
+            "bound_box": "850,1707,1039,1756",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]org.wta:id/navigation_bar_item_small_label_view",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "24",
+            "desc": "<button bound_box=850,1707,1039,1756>About WTA</button>"
+        },
+        {
+            "package": "org.wta",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 81,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "d66ef826957628c64b2604e2d2cb2377",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "org.wta",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 82,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "1c5817b6d3d0be8c9e5a12bcbcc31a09",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

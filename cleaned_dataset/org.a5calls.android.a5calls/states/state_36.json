@@ -1,0 +1,912 @@
+{
+    "state_str": "08b900/86f50b",
+    "state_str_content_free": "dd1dd1/05e19a",
+    "foreground_activity": "org.a5calls.android.a5calls/.controller.SettingsActivity",
+    "activity_stack": [
+        "org.a5calls.android.a5calls/.controller.SettingsActivity",
+        "org.a5calls.android.a5calls/.controller.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    60,
+                    208
+                ],
+                [
+                    1020,
+                    1639
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "960*1431",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "3d91849d1337b9308bc54662e6783ecd",
+            "bound_box": "60,208,1020,1639",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    256
+                ],
+                [
+                    972,
+                    1591
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "864*1335",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "45c2c2d316180d318e5e41a72579d952",
+            "bound_box": "108,256,972,1591",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    256
+                ],
+                [
+                    972,
+                    1591
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "864*1335",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "da6bd1a831f43fb3126e9e1dbd8274de",
+            "bound_box": "108,256,972,1591",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                8,
+                17
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    256
+                ],
+                [
+                    972,
+                    1591
+                ]
+            ],
+            "resource_id": "android:id/parentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "864*1335",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel[text]None[enabled,,]",
+            "view_str": "016ca88381c950699de2637a27bd9a48",
+            "bound_box": "108,256,972,1591",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5,
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    256
+                ],
+                [
+                    972,
+                    415
+                ]
+            ],
+            "resource_id": "android:id/topPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "864*159",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/topPanel[text]None[enabled,,]",
+            "view_str": "939ce45c3e0e2007adfb31cf6c7c40c3",
+            "bound_box": "108,256,972,415",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/topPanel"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    256
+                ],
+                [
+                    972,
+                    391
+                ]
+            ],
+            "resource_id": "android:id/title_template",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "864*135",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/title_template[text]None[enabled,,]",
+            "view_str": "19f4de706bfe615ec1fe87e4717add08",
+            "bound_box": "108,256,972,391",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/title_template"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    180,
+                    310
+                ],
+                [
+                    900,
+                    391
+                ]
+            ],
+            "resource_id": "android:id/alertTitle",
+            "checked": false,
+            "text": "Remind me on these days",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "720*81",
+            "signature": "[class]android.widget.TextView[resource_id]android:id/alertTitle[text]Remind me on these days[enabled,,]",
+            "view_str": "82adfb07871e0fd69c5643c318e98162",
+            "bound_box": "180,310,900,391",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/alertTitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=180,310,900,391>Remind me on these days</p>"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    391
+                ],
+                [
+                    972,
+                    415
+                ]
+            ],
+            "resource_id": "android:id/titleDividerNoCustom",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 7,
+            "size": "864*24",
+            "signature": "[class]android.view.View[resource_id]android:id/titleDividerNoCustom[text]None[enabled,,]",
+            "view_str": "c5ec387baebb0e09ee6f71744af0270e",
+            "bound_box": "108,391,972,415",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/titleDividerNoCustom"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    415
+                ],
+                [
+                    972,
+                    1423
+                ]
+            ],
+            "resource_id": "android:id/contentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 8,
+            "size": "864*1008",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/contentPanel[text]None[enabled,,]",
+            "view_str": "07e4799d091771cc40d4f3e48729331c",
+            "bound_box": "108,415,972,1423",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/contentPanel"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 7,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    415
+                ],
+                [
+                    972,
+                    1423
+                ]
+            ],
+            "resource_id": "android:id/select_dialog_listview",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ListView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "864*1008",
+            "signature": "[class]android.widget.ListView[resource_id]android:id/select_dialog_listview[text]None[enabled,,]",
+            "view_str": "9a53ebfbcd652b4d74b92d3698b347ba",
+            "bound_box": "108,415,972,1423",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]android:id/select_dialog_listview"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    415
+                ],
+                [
+                    972,
+                    559
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Monday",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "864*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Monday[enabled,,]",
+            "view_str": "5514711e281ca4127393d10cebecd0bb",
+            "bound_box": "108,415,972,559",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<checkbox bound_box=108,415,972,559>Monday</checkbox>"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    559
+                ],
+                [
+                    972,
+                    703
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Tuesday",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 11,
+            "size": "864*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Tuesday[enabled,,]",
+            "view_str": "99cb75b0f8d86a8fab86b1c763d70803",
+            "bound_box": "108,559,972,703",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<checkbox bound_box=108,559,972,703>Tuesday</checkbox>"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    703
+                ],
+                [
+                    972,
+                    847
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Wednesday",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 12,
+            "size": "864*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Wednesday[enabled,,]",
+            "view_str": "89f21208453879699747f29f6c1d3d26",
+            "bound_box": "108,703,972,847",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<checkbox bound_box=108,703,972,847>Wednesday</checkbox>"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    847
+                ],
+                [
+                    972,
+                    991
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Thursday",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 13,
+            "size": "864*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Thursday[enabled,,]",
+            "view_str": "0707dd8a53776e389a6c133c1c533925",
+            "bound_box": "108,847,972,991",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<checkbox bound_box=108,847,972,991>Thursday</checkbox>"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    991
+                ],
+                [
+                    972,
+                    1135
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": true,
+            "text": "Friday",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 14,
+            "size": "864*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Friday[enabled,checked,]",
+            "view_str": "0a4bf64eb98fb811f6d7f7967bd05f33",
+            "bound_box": "108,991,972,1135",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "5",
+            "desc": "<checkbox bound_box=108,991,972,1135>Friday</checkbox>"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    1135
+                ],
+                [
+                    972,
+                    1279
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Saturday",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 15,
+            "size": "864*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Saturday[enabled,,]",
+            "view_str": "7e1f3c4c5ac80d01c40fbe257e7a79f0",
+            "bound_box": "108,1135,972,1279",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<checkbox bound_box=108,1135,972,1279>Saturday</checkbox>"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    1279
+                ],
+                [
+                    972,
+                    1423
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": true,
+            "text": "Sunday",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 16,
+            "size": "864*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Sunday[enabled,checked,]",
+            "view_str": "682c80322902e90487a69f0d3acdcd60",
+            "bound_box": "108,1279,972,1423",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "7",
+            "desc": "<checkbox bound_box=108,1279,972,1423>Sunday</checkbox>"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                18
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    1423
+                ],
+                [
+                    972,
+                    1591
+                ]
+            ],
+            "resource_id": "android:id/buttonPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 17,
+            "size": "864*168",
+            "signature": "[class]android.widget.ScrollView[resource_id]android:id/buttonPanel[text]None[enabled,,]",
+            "view_str": "b36fa49d9feb3a2c46ae681f82399782",
+            "bound_box": "108,1423,972,1591",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]android:id/buttonPanel"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                19,
+                20
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    1423
+                ],
+                [
+                    972,
+                    1591
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 18,
+            "size": "864*168",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "7dd2ea2c5af9236cf64b1f8dbe4488d2",
+            "bound_box": "108,1423,972,1591",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    513,
+                    1435
+                ],
+                [
+                    744,
+                    1579
+                ]
+            ],
+            "resource_id": "android:id/button2",
+            "checked": false,
+            "text": "CANCEL",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 18,
+            "temp_id": 19,
+            "size": "231*144",
+            "signature": "[class]android.widget.Button[resource_id]android:id/button2[text]CANCEL[enabled,,]",
+            "view_str": "8137eadc49047086a794fca94e50b36c",
+            "bound_box": "513,1435,744,1579",
+            "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button2",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<button bound_box=513,1435,744,1579>CANCEL</button>"
+        },
+        {
+            "package": "org.a5calls.android.a5calls",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    744,
+                    1435
+                ],
+                [
+                    936,
+                    1579
+                ]
+            ],
+            "resource_id": "android:id/button1",
+            "checked": false,
+            "text": "OK",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 18,
+            "temp_id": 20,
+            "size": "192*144",
+            "signature": "[class]android.widget.Button[resource_id]android:id/button1[text]OK[enabled,,]",
+            "view_str": "77788e77adc4597031545041f8c2b548",
+            "bound_box": "744,1435,936,1579",
+            "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button1",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<button bound_box=744,1435,936,1579>OK</button>"
+        }
+    ]
+}

@@ -1,0 +1,4331 @@
+{
+    "state_str": "08b900/24dea8",
+    "state_str_content_free": "dd1dd1/552a0b",
+    "foreground_activity": "com.tradiny.app/.MainActivity",
+    "activity_stack": [
+        "com.tradiny.app/.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                102,
+                103
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "dfe4baf79004f1ddd468551c77f69a73",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "4bb7d6feb84b08c164dc69a8b71fbfc8",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "4af02a00e66e4067f1e6c57eab7e86d6",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.tradiny.app:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.tradiny.app:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "c170390025944f3bd57cff7410ce8d00",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.tradiny.app:id/action_bar_root"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "7f5f3328ead242b80230bc46d91cbf11",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.webkit.WebView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1704",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+            "view_str": "e98f931bf83b8023a03b122f2a92cb6a",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7
+            ],
+            "focused": true,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Ionic App",
+            "class": "android.webkit.WebView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1704",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]Ionic App[enabled,,]",
+            "view_str": "1fce3e30781a3a8885bf99f2cdf28003",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<scrollbar bound_box=0,72,1080,1776>Ionic App</scrollbar>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "0919d29a516ac2ce48ee0ea940afb626",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "0c2ba01b17e9321d842324011cf39d12",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "facad96eae2b130f2aaf39b325644c01",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11,
+                79
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "65a5268890bf54652703ea3b353643ac",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12,
+                25,
+                78
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1092
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "1080*1020",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "9417fbe6916da6fa7921f438f7719442",
+            "bound_box": "0,72,1080,1092",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13,
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "1080*168",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "5a582657e8ae7d69307a5a6390d646fe",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "1080*168",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "1b95e9fd583e36fa6f906e8e144f9587",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15,
+                20,
+                22
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 14,
+            "size": "1080*168",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "fabd1e024b486ca3baf94ecae05628a4",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                16,
+                18
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    12,
+                    84
+                ],
+                [
+                    276,
+                    228
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "264*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "ed760a63b6790652bbe36076b60d3869",
+            "bound_box": "12,84,276,228",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    12,
+                    84
+                ],
+                [
+                    156,
+                    228
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 16,
+            "size": "144*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "f29d3a7a37c930ba31d75468dc4c09ef",
+            "bound_box": "12,84,156,228",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    12,
+                    84
+                ],
+                [
+                    156,
+                    228
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "arrow back",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "144*144",
+            "signature": "[class]android.widget.Button[resource_id]None[text]arrow back[enabled,,]",
+            "view_str": "76b51089d48ce2dfd71d14c9aab5280f",
+            "bound_box": "12,84,156,228",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=12,84,156,228>arrow back</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    162,
+                    108
+                ],
+                [
+                    270,
+                    204
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 18,
+            "size": "108*96",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "b849eaa2d8627392573ed7e324ee6e59",
+            "bound_box": "162,108,270,204",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    162,
+                    108
+                ],
+                [
+                    270,
+                    204
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "star outline",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 18,
+            "temp_id": 19,
+            "size": "108*96",
+            "signature": "[class]android.widget.Button[resource_id]None[text]star outline[enabled,,]",
+            "view_str": "b17487402431ce61943af6c8e988c417",
+            "bound_box": "162,108,270,204",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=162,108,270,204>star outline</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    273,
+                    117
+                ],
+                [
+                    951,
+                    195
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 20,
+            "size": "678*78",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "8671fab4d15bb4a4bc71eed96f6aa859",
+            "bound_box": "273,117,951,195",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    333,
+                    117
+                ],
+                [
+                    891,
+                    195
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "ENR.de FXCM",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 20,
+            "temp_id": 21,
+            "size": "558*78",
+            "signature": "[class]android.view.View[resource_id]None[text]ENR.de FXCM[enabled,,]",
+            "view_str": "1379bb14bba36e5f0e6743fb64e1e288",
+            "bound_box": "333,117,891,195",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<p bound_box=333,117,891,195>ENR.de FXCM</p>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                23
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    948,
+                    108
+                ],
+                [
+                    1068,
+                    204
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 22,
+            "size": "120*96",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "15440f05a7ba2a3fee9ade17f27b9ede",
+            "bound_box": "948,108,1068,204",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": false,
+            "content_description": null,
+            "children": [
+                24
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    954,
+                    108
+                ],
+                [
+                    1062,
+                    204
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 22,
+            "temp_id": 23,
+            "size": "108*96",
+            "signature": "[class]android.view.View[resource_id]None[text][,,]",
+            "view_str": "94418a956f0933dc52644a668b2acff0",
+            "bound_box": "954,108,1062,204",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": false,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    954,
+                    108
+                ],
+                [
+                    1062,
+                    204
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "notifications",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 23,
+            "temp_id": 24,
+            "size": "108*96",
+            "signature": "[class]android.widget.Button[resource_id]None[text]notifications[,,]",
+            "view_str": "73a11db9fc4f8aa95002f789d61ca73d",
+            "bound_box": "954,108,1062,204",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<p bound_box=954,108,1062,204>notifications</p>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                26,
+                54
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1092
+                ]
+            ],
+            "resource_id": "chart1715367248302",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 25,
+            "size": "1080*852",
+            "signature": "[class]android.view.View[resource_id]chart1715367248302[text][enabled,,]",
+            "view_str": "d3ccb845724657b842ce7a5fdf3e17b4",
+            "bound_box": "0,240,1080,1092",
+            "content_free_signature": "[class]android.view.View[resource_id]chart1715367248302"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                27
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1092
+                ]
+            ],
+            "resource_id": "chart1715367248306",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 26,
+            "size": "1080*852",
+            "signature": "[class]android.view.View[resource_id]chart1715367248306[text][enabled,,]",
+            "view_str": "9962c48b1cc54b2d24de7386fb083d9c",
+            "bound_box": "0,240,1080,1092",
+            "content_free_signature": "[class]android.view.View[resource_id]chart1715367248306"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                28
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1092
+                ]
+            ],
+            "resource_id": "svg",
+            "checked": false,
+            "text": "",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 26,
+            "temp_id": 27,
+            "size": "1080*852",
+            "signature": "[class]android.widget.Image[resource_id]svg[text][enabled,,]",
+            "view_str": "e3849f7d29d1323628532ec1d1c070a4",
+            "bound_box": "0,240,1080,1092",
+            "content_free_signature": "[class]android.widget.Image[resource_id]svg"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 9,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                29,
+                30,
+                31,
+                32,
+                33,
+                50,
+                51,
+                52,
+                53
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    87,
+                    234
+                ],
+                [
+                    1080,
+                    1092
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 28,
+            "size": "993*858",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "c53103cdd06f4fe40bc783a556855617",
+            "bound_box": "87,234,1080,1092",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    174,
+                    1023
+                ],
+                [
+                    264,
+                    1059
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "15 Apr",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 29,
+            "size": "90*36",
+            "signature": "[class]android.view.View[resource_id]None[text]15 Apr[enabled,,]",
+            "view_str": "b68c1e2f51cabbee8f962ce9c8701d84",
+            "bound_box": "174,1023,264,1059",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<button bound_box=174,1023,264,1059>15 Apr</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    357,
+                    1023
+                ],
+                [
+                    474,
+                    1059
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "22th Apr",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 30,
+            "size": "117*36",
+            "signature": "[class]android.view.View[resource_id]None[text]22th Apr[enabled,,]",
+            "view_str": "47950a8bfcc8540dc8bffaefd3c5bba7",
+            "bound_box": "357,1023,474,1059",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<button bound_box=357,1023,474,1059>22th Apr</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    549,
+                    1023
+                ],
+                [
+                    666,
+                    1059
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "29th Apr",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 31,
+            "size": "117*36",
+            "signature": "[class]android.view.View[resource_id]None[text]29th Apr[enabled,,]",
+            "view_str": "a92dfb3a813f39ecb1ffa7531af77151",
+            "bound_box": "549,1023,666,1059",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<button bound_box=549,1023,666,1059>29th Apr</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    708,
+                    1023
+                ],
+                [
+                    819,
+                    1059
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "6th May",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 32,
+            "size": "111*36",
+            "signature": "[class]android.view.View[resource_id]None[text]6th May[enabled,,]",
+            "view_str": "4df06e07d5a63c7dbb64250beaea4b10",
+            "bound_box": "708,1023,819,1059",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<button bound_box=708,1023,819,1059>6th May</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 16,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    87,
+                    234
+                ],
+                [
+                    1080,
+                    1023
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 33,
+            "size": "993*789",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "a98f64036d101bc1ee612ff5f3413426",
+            "bound_box": "87,234,1080,1023",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    984,
+                    930
+                ],
+                [
+                    1020,
+                    969
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "16",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 34,
+            "size": "36*39",
+            "signature": "[class]android.view.View[resource_id]None[text]16[enabled,,]",
+            "view_str": "a1a8f6b741df8374fb34c562ed1ce318",
+            "bound_box": "984,930,1020,969",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<button bound_box=984,930,1020,969>16</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    984,
+                    849
+                ],
+                [
+                    1020,
+                    888
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "17",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 35,
+            "size": "36*39",
+            "signature": "[class]android.view.View[resource_id]None[text]17[enabled,,]",
+            "view_str": "5b32b837d299a8b0efb1e6cbd68f1769",
+            "bound_box": "984,849,1020,888",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<button bound_box=984,849,1020,888>17</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    984,
+                    768
+                ],
+                [
+                    1020,
+                    804
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "18",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 36,
+            "size": "36*36",
+            "signature": "[class]android.view.View[resource_id]None[text]18[enabled,,]",
+            "view_str": "19646c7d04b751eebf8fe85b1e1e0d32",
+            "bound_box": "984,768,1020,804",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<button bound_box=984,768,1020,804>18</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    984,
+                    687
+                ],
+                [
+                    1020,
+                    723
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "19",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 37,
+            "size": "36*36",
+            "signature": "[class]android.view.View[resource_id]None[text]19[enabled,,]",
+            "view_str": "2f25895bb8dec7b03b9b3aabc5c77d79",
+            "bound_box": "984,687,1020,723",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "12",
+            "desc": "<button bound_box=984,687,1020,723>19</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    984,
+                    603
+                ],
+                [
+                    1020,
+                    642
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "20",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 38,
+            "size": "36*39",
+            "signature": "[class]android.view.View[resource_id]None[text]20[enabled,,]",
+            "view_str": "8ede6848b7faaf58593ab380b530c6ab",
+            "bound_box": "984,603,1020,642",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "13",
+            "desc": "<button bound_box=984,603,1020,642>20</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    984,
+                    522
+                ],
+                [
+                    1020,
+                    561
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "21",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 39,
+            "size": "36*39",
+            "signature": "[class]android.view.View[resource_id]None[text]21[enabled,,]",
+            "view_str": "f47b4081f9c36807ff477b9578a38725",
+            "bound_box": "984,522,1020,561",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "14",
+            "desc": "<button bound_box=984,522,1020,561>21</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    984,
+                    441
+                ],
+                [
+                    1020,
+                    477
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "22",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 40,
+            "size": "36*36",
+            "signature": "[class]android.view.View[resource_id]None[text]22[enabled,,]",
+            "view_str": "5f904317d6e449b9b284bc98cc82671c",
+            "bound_box": "984,441,1020,477",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "15",
+            "desc": "<button bound_box=984,441,1020,477>22</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    984,
+                    357
+                ],
+                [
+                    1020,
+                    396
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "23",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 41,
+            "size": "36*39",
+            "signature": "[class]android.view.View[resource_id]None[text]23[enabled,,]",
+            "view_str": "dcbeb201f5f6dd632805d833e2f7d9a6",
+            "bound_box": "984,357,1020,396",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "16",
+            "desc": "<button bound_box=984,357,1020,396>23</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    984,
+                    276
+                ],
+                [
+                    1020,
+                    315
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "24",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 42,
+            "size": "36*39",
+            "signature": "[class]android.view.View[resource_id]None[text]24[enabled,,]",
+            "view_str": "51a7e6974f6824222452fdd7e24b5393",
+            "bound_box": "984,276,1020,315",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "17",
+            "desc": "<button bound_box=984,276,1020,315>24</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    120,
+                    984
+                ],
+                [
+                    180,
+                    1023
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "0.00",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 43,
+            "size": "60*39",
+            "signature": "[class]android.view.View[resource_id]None[text]0.00[enabled,,]",
+            "view_str": "f72c5128072f0c22ffe6aa2539b5b699",
+            "bound_box": "120,984,180,1023",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "18",
+            "desc": "<button bound_box=120,984,180,1023>0.00</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    120,
+                    933
+                ],
+                [
+                    195,
+                    969
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "1.00k",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 44,
+            "size": "75*36",
+            "signature": "[class]android.view.View[resource_id]None[text]1.00k[enabled,,]",
+            "view_str": "c1d8353b9408d3dda0e3507738f937b2",
+            "bound_box": "120,933,195,969",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "19",
+            "desc": "<button bound_box=120,933,195,969>1.00k</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    120,
+                    879
+                ],
+                [
+                    195,
+                    915
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "2.00k",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 45,
+            "size": "75*36",
+            "signature": "[class]android.view.View[resource_id]None[text]2.00k[enabled,,]",
+            "view_str": "8ea89df56c7980cf2f6c5794fc1a7ad7",
+            "bound_box": "120,879,195,915",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "20",
+            "desc": "<button bound_box=120,879,195,915>2.00k</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    120,
+                    825
+                ],
+                [
+                    195,
+                    864
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "3.00k",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 46,
+            "size": "75*39",
+            "signature": "[class]android.view.View[resource_id]None[text]3.00k[enabled,,]",
+            "view_str": "cafa437499e52b20992ef5a6637d7205",
+            "bound_box": "120,825,195,864",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "21",
+            "desc": "<button bound_box=120,825,195,864>3.00k</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    120,
+                    771
+                ],
+                [
+                    195,
+                    810
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "4.00k",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 47,
+            "size": "75*39",
+            "signature": "[class]android.view.View[resource_id]None[text]4.00k[enabled,,]",
+            "view_str": "0ae427b83af13e63536c56a065d1cd9e",
+            "bound_box": "120,771,195,810",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "22",
+            "desc": "<button bound_box=120,771,195,810>4.00k</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    366,
+                    234
+                ],
+                [
+                    1080,
+                    1023
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 48,
+            "size": "714*789",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "70fdd7a192db3d6bc71302dd359ff97d",
+            "bound_box": "366,234,1080,1023",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    984,
+                    258
+                ],
+                [
+                    1020,
+                    297
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "24",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 49,
+            "size": "36*39",
+            "signature": "[class]android.view.View[resource_id]None[text]24[enabled,,]",
+            "view_str": "51a7e6974f6824222452fdd7e24b5393",
+            "bound_box": "984,258,1020,297",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "23",
+            "desc": "<button bound_box=984,258,1020,297>24</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    957,
+                    240
+                ],
+                [
+                    1080,
+                    1002
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 50,
+            "size": "123*762",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6e7c1fcf48e0917a13ff7c9460f25670",
+            "bound_box": "957,240,1080,1002",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    93,
+                    1002
+                ],
+                [
+                    960,
+                    1092
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 51,
+            "size": "867*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6e7c1fcf48e0917a13ff7c9460f25670",
+            "bound_box": "93,1002,960,1092",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    93,
+                    240
+                ],
+                [
+                    960,
+                    1002
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 52,
+            "size": "867*762",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6e7c1fcf48e0917a13ff7c9460f25670",
+            "bound_box": "93,240,960,1002",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    366,
+                    234
+                ],
+                [
+                    1080,
+                    1092
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 53,
+            "size": "714*858",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6e7c1fcf48e0917a13ff7c9460f25670",
+            "bound_box": "366,234,1080,1092",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 8,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                55,
+                58,
+                60,
+                63,
+                66,
+                69,
+                72,
+                75
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    90,
+                    1092
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 54,
+            "size": "90*852",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "8ef6f500ee288126ffea7ba22a183e9c",
+            "bound_box": "0,240,90,1092",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                56
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    306
+                ],
+                [
+                    90,
+                    396
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 55,
+            "size": "90*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "09a9323d3e5017de6d4f0b3528846218",
+            "bound_box": "0,306,90,396",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                57
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    3,
+                    309
+                ],
+                [
+                    87,
+                    399
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 55,
+            "temp_id": 56,
+            "size": "84*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "5e6d4e1394c2bfc4e99bad957a709c42",
+            "bound_box": "3,309,87,399",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    12,
+                    318
+                ],
+                [
+                    81,
+                    387
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "expand",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 56,
+            "temp_id": 57,
+            "size": "69*69",
+            "signature": "[class]android.widget.Image[resource_id]None[text]expand[enabled,,]",
+            "view_str": "aa832202af2370932dc3215f5ee84f75",
+            "bound_box": "12,318,81,387",
+            "content_free_signature": "[class]android.widget.Image[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "24",
+            "desc": "<button bound_box=12,318,81,387>expand</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                59
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    396
+                ],
+                [
+                    90,
+                    486
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 58,
+            "size": "90*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6f9e624ce305fcd3217876797a24cb5a",
+            "bound_box": "0,396,90,486",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    3,
+                    399
+                ],
+                [
+                    93,
+                    471
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Abc",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 58,
+            "temp_id": 59,
+            "size": "90*72",
+            "signature": "[class]android.view.View[resource_id]None[text]Abc[enabled,,]",
+            "view_str": "7a5188c6eb7c04e598793cc8c8dd7f4f",
+            "bound_box": "3,399,93,471",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "25",
+            "desc": "<button bound_box=3,399,93,471>Abc</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                61
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    486
+                ],
+                [
+                    90,
+                    576
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 60,
+            "size": "90*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "09a9323d3e5017de6d4f0b3528846218",
+            "bound_box": "0,486,90,576",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                62
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    3,
+                    489
+                ],
+                [
+                    87,
+                    579
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 60,
+            "temp_id": 61,
+            "size": "84*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "3e34378a4413db0a6e04a1242db873cb",
+            "bound_box": "3,489,87,579",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    12,
+                    498
+                ],
+                [
+                    81,
+                    567
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "brush",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 61,
+            "temp_id": 62,
+            "size": "69*69",
+            "signature": "[class]android.widget.Image[resource_id]None[text]brush[enabled,,]",
+            "view_str": "1a45abdec8096d67062ce783924523e1",
+            "bound_box": "12,498,81,567",
+            "content_free_signature": "[class]android.widget.Image[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "26",
+            "desc": "<button bound_box=12,498,81,567>brush</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                64
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    576
+                ],
+                [
+                    90,
+                    666
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 63,
+            "size": "90*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "09a9323d3e5017de6d4f0b3528846218",
+            "bound_box": "0,576,90,666",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                65
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    3,
+                    579
+                ],
+                [
+                    87,
+                    675
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 63,
+            "temp_id": 64,
+            "size": "84*96",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "08a28da5e776e25aeefcb1fd5eb13983",
+            "bound_box": "3,579,87,675",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    12,
+                    588
+                ],
+                [
+                    87,
+                    663
+                ]
+            ],
+            "resource_id": "Layer_1",
+            "checked": false,
+            "text": "",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 64,
+            "temp_id": 65,
+            "size": "75*75",
+            "signature": "[class]android.widget.Image[resource_id]Layer_1[text][enabled,,]",
+            "view_str": "7f7fa50f213e14332f4f2b832608a135",
+            "bound_box": "12,588,87,663",
+            "content_free_signature": "[class]android.widget.Image[resource_id]Layer_1"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                67
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    666
+                ],
+                [
+                    90,
+                    756
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 66,
+            "size": "90*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "09a9323d3e5017de6d4f0b3528846218",
+            "bound_box": "0,666,90,756",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                68
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    3,
+                    669
+                ],
+                [
+                    93,
+                    741
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 66,
+            "temp_id": 67,
+            "size": "90*72",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "5c89cc328ecdd7d8c9b0da50d950e12c",
+            "bound_box": "3,669,93,741",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    12,
+                    684
+                ],
+                [
+                    84,
+                    729
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 68,
+            "size": "72*45",
+            "signature": "[class]android.widget.Image[resource_id]None[text][enabled,,]",
+            "view_str": "9ed159a6b147ea443713ecabd54c0493",
+            "bound_box": "12,684,84,729",
+            "content_free_signature": "[class]android.widget.Image[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                70
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    756
+                ],
+                [
+                    90,
+                    846
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 69,
+            "size": "90*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "09a9323d3e5017de6d4f0b3528846218",
+            "bound_box": "0,756,90,846",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                71
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    3,
+                    759
+                ],
+                [
+                    87,
+                    861
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 69,
+            "temp_id": 70,
+            "size": "84*102",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "9479bcb73bf6fc8c7512890987dc72bb",
+            "bound_box": "3,759,87,861",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    3,
+                    759
+                ],
+                [
+                    93,
+                    849
+                ]
+            ],
+            "resource_id": "Layer_1",
+            "checked": false,
+            "text": "RULER",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 70,
+            "temp_id": 71,
+            "size": "90*90",
+            "signature": "[class]android.widget.Image[resource_id]Layer_1[text]RULER[enabled,,]",
+            "view_str": "eb8e1d5fc064b35344e94e0dbd3c8051",
+            "bound_box": "3,759,93,849",
+            "content_free_signature": "[class]android.widget.Image[resource_id]Layer_1",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "27",
+            "desc": "<button bound_box=3,759,93,849>RULER</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                73
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    846
+                ],
+                [
+                    90,
+                    936
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 72,
+            "size": "90*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "09a9323d3e5017de6d4f0b3528846218",
+            "bound_box": "0,846,90,936",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                74
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    3,
+                    849
+                ],
+                [
+                    87,
+                    936
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 72,
+            "temp_id": 73,
+            "size": "84*87",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "5c89cc328ecdd7d8c9b0da50d950e12c",
+            "bound_box": "3,849,87,936",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    12,
+                    864
+                ],
+                [
+                    72,
+                    924
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 73,
+            "temp_id": 74,
+            "size": "60*60",
+            "signature": "[class]android.widget.Image[resource_id]None[text][enabled,,]",
+            "view_str": "9ed159a6b147ea443713ecabd54c0493",
+            "bound_box": "12,864,72,924",
+            "content_free_signature": "[class]android.widget.Image[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                76
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    936
+                ],
+                [
+                    90,
+                    1026
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 54,
+            "temp_id": 75,
+            "size": "90*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "09a9323d3e5017de6d4f0b3528846218",
+            "bound_box": "0,936,90,1026",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                77
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    936
+                ],
+                [
+                    81,
+                    1026
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 75,
+            "temp_id": 76,
+            "size": "72*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "ed33398554b3272d4affe941d1eddbe4",
+            "bound_box": "9,936,81,1026",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    945
+                ],
+                [
+                    81,
+                    1014
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "more",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 77,
+            "size": "72*69",
+            "signature": "[class]android.widget.Image[resource_id]None[text]more[enabled,,]",
+            "view_str": "2d6683f67258357fac866315b181d5f0",
+            "bound_box": "9,945,81,1014",
+            "content_free_signature": "[class]android.widget.Image[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "28",
+            "desc": "<button bound_box=9,945,81,1014>more</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1092
+                ],
+                [
+                    1080,
+                    1107
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 78,
+            "size": "1080*15",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "a1974fc302971ec8c6aa3cafd5e59f81",
+            "bound_box": "0,1092,1080,1107",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                80
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1092
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 79,
+            "size": "1080*684",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "1d104d92afdae62fa1f21d46eeb697c5",
+            "bound_box": "0,1092,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                81,
+                89,
+                90
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1092
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 79,
+            "temp_id": 80,
+            "size": "1080*684",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "c9af04be96e2ad4df23f4b25347942a7",
+            "bound_box": "0,1092,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                82
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1092
+                ],
+                [
+                    1080,
+                    1248
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 80,
+            "temp_id": 81,
+            "size": "1080*156",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "7a087f11fae06ab11c692fcbd020e87e",
+            "bound_box": "0,1092,1080,1248",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                83,
+                84
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1092
+                ],
+                [
+                    540,
+                    1248
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 81,
+            "temp_id": 82,
+            "size": "540*156",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "b51c2ae6be682f83d965b8b68805c2e2",
+            "bound_box": "0,1092,540,1248",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1107
+                ],
+                [
+                    264,
+                    1248
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Chart",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 82,
+            "temp_id": 83,
+            "size": "264*141",
+            "signature": "[class]android.view.View[resource_id]None[text]Chart[enabled,,]",
+            "view_str": "3e8dfa851dce3a7b68c2c2361383a730",
+            "bound_box": "0,1107,264,1248",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "29",
+            "desc": "<button bound_box=0,1107,264,1248>Chart</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                85
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    261,
+                    1107
+                ],
+                [
+                    525,
+                    1248
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 82,
+            "temp_id": 84,
+            "size": "264*141",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "2d8ca3008628abfd3a9f9393462ac49b",
+            "bound_box": "261,1107,525,1248",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                86,
+                87,
+                88
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    261,
+                    1107
+                ],
+                [
+                    465,
+                    1248
+                ]
+            ],
+            "resource_id": "interval1715367248302",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 84,
+            "temp_id": 85,
+            "size": "204*141",
+            "signature": "[class]android.view.View[resource_id]interval1715367248302[text][enabled,,]",
+            "view_str": "bf2e915be4b4ae6a5d696b96a1731795",
+            "bound_box": "261,1107,465,1248",
+            "content_free_signature": "[class]android.view.View[resource_id]interval1715367248302"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    309,
+                    1137
+                ],
+                [
+                    408,
+                    1215
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "1h",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 85,
+            "temp_id": 86,
+            "size": "99*78",
+            "signature": "[class]android.view.View[resource_id]None[text]1h[enabled,,]",
+            "view_str": "1b4b19d870197056ce26a9958fe9c4c5",
+            "bound_box": "309,1137,408,1215",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "30",
+            "desc": "<button bound_box=309,1137,408,1215>1h</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    423,
+                    1167
+                ],
+                [
+                    453,
+                    1182
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 85,
+            "temp_id": 87,
+            "size": "30*15",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "1933e7b5af888e97e14821d9b840e2a6",
+            "bound_box": "423,1167,453,1182",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    261,
+                    1107
+                ],
+                [
+                    465,
+                    1248
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 85,
+            "temp_id": 88,
+            "size": "204*141",
+            "signature": "[class]android.widget.Button[resource_id]None[text][enabled,,]",
+            "view_str": "ce59d46690aea67f1e231cb070fb9f87",
+            "bound_box": "261,1107,465,1248",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1248
+                ],
+                [
+                    1080,
+                    1263
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 80,
+            "temp_id": 89,
+            "size": "1080*15",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "1b95e9fd583e36fa6f906e8e144f9587",
+            "bound_box": "0,1248,1080,1263",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                91
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1263
+                ],
+                [
+                    1080,
+                    1407
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 80,
+            "temp_id": 90,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "7a087f11fae06ab11c692fcbd020e87e",
+            "bound_box": "0,1263,1080,1407",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                92,
+                101
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1263
+                ],
+                [
+                    1080,
+                    1407
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 90,
+            "temp_id": 91,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "ed760a63b6790652bbe36076b60d3869",
+            "bound_box": "0,1263,1080,1407",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                93
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1263
+                ],
+                [
+                    1080,
+                    1407
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 91,
+            "temp_id": 92,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "ac5f6dd5a133f5bd0e142d6b03f07317",
+            "bound_box": "0,1263,1080,1407",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                94,
+                100
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1263
+                ],
+                [
+                    1080,
+                    1407
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 92,
+            "temp_id": 93,
+            "size": "1032*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "9a19b6b474121759d3720a03452e860c",
+            "bound_box": "48,1263,1080,1407",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                95
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1263
+                ],
+                [
+                    1032,
+                    1404
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 93,
+            "temp_id": 94,
+            "size": "984*141",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "37f1911c75abd53e931c166c5dd2423f",
+            "bound_box": "48,1263,1032,1404",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                96,
+                97,
+                98,
+                99
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1308
+                ],
+                [
+                    1032,
+                    1359
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 94,
+            "temp_id": 95,
+            "size": "984*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "46d5008b39147c309882ba330d92c93c",
+            "bound_box": "48,1308,1032,1359",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1308
+                ],
+                [
+                    189,
+                    1359
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Sign up",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 95,
+            "temp_id": 96,
+            "size": "141*51",
+            "signature": "[class]android.view.View[resource_id]None[text]Sign up[enabled,,]",
+            "view_str": "6ba679dde1ce10aab9a0d6d900fdcc90",
+            "bound_box": "48,1308,189,1359",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "31",
+            "desc": "<button bound_box=48,1308,189,1359>Sign up</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    186,
+                    1308
+                ],
+                [
+                    249,
+                    1359
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": " or ",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 95,
+            "temp_id": 97,
+            "size": "63*51",
+            "signature": "[class]android.view.View[resource_id]None[text] or [enabled,,]",
+            "view_str": "9fb7f217b0687b53771e669d20e160ee",
+            "bound_box": "186,1308,249,1359",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "32",
+            "desc": "<button bound_box=186,1308,249,1359> or </button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    246,
+                    1308
+                ],
+                [
+                    354,
+                    1359
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "log in",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 95,
+            "temp_id": 98,
+            "size": "108*51",
+            "signature": "[class]android.view.View[resource_id]None[text]log in[enabled,,]",
+            "view_str": "7ec26da2df189ec9a02c077445912cf6",
+            "bound_box": "246,1308,354,1359",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "33",
+            "desc": "<button bound_box=246,1308,354,1359>log in</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    351,
+                    1308
+                ],
+                [
+                    912,
+                    1359
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": " to enable analysis and alerts.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 95,
+            "temp_id": 99,
+            "size": "561*51",
+            "signature": "[class]android.view.View[resource_id]None[text] to enable analysis and alerts.[enabled,,]",
+            "view_str": "8b4d2790d99d822a82d02e19317c30a4",
+            "bound_box": "351,1308,912,1359",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "34",
+            "desc": "<button bound_box=351,1308,912,1359> to enable analysis and alerts.</button>"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1404
+                ],
+                [
+                    1080,
+                    1404
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 93,
+            "temp_id": 100,
+            "size": "1032*0",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "79308601a77df94e3e58361f8477eb28",
+            "bound_box": "48,1404,1080,1404",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1404
+                ],
+                [
+                    1080,
+                    1407
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 91,
+            "temp_id": 101,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "ee6fa674407c880403779435db09b17a",
+            "bound_box": "0,1404,1080,1407",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 102,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "7c95477d197922c0f21add58cf5adcee",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "com.tradiny.app",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 103,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "0f1abc35314ea4449a8f4a7d75028f90",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

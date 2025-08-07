@@ -1,0 +1,646 @@
+{
+    "state_str": "08b900/1c0bbe",
+    "state_str_content_free": "dd1dd1/70b3bf",
+    "foreground_activity": "org.wta/.MainActivity",
+    "activity_stack": [
+        "org.wta/.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    300
+                ],
+                [
+                    982,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "579*1476",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "75a2daab433cc8e0f2f63db4225b0d00",
+            "bound_box": "403,300,982,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    300
+                ],
+                [
+                    982,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "579*1476",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "0a64b25d78769850ec7e82ec60ed3f58",
+            "bound_box": "403,300,982,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": false,
+            "child_count": 11,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    300
+                ],
+                [
+                    982,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ListView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "579*1476",
+            "signature": "[class]android.widget.ListView[resource_id]None[text]None[enabled,,]",
+            "view_str": "d60f066a8b7b9bc5dc4dc469056e3a72",
+            "bound_box": "403,300,982,1776",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<scrollbar bound_box=403,300,982,1776></scrollbar>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    300
+                ],
+                [
+                    982,
+                    336
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Central Cascades",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "579*36",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Central Cascades[enabled,,]",
+            "view_str": "3e8bde76a313ada5a14049f8f0c9e9e2",
+            "bound_box": "403,300,982,336",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<checkbox bound_box=403,300,982,336>Central Cascades</checkbox>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    336
+                ],
+                [
+                    982,
+                    480
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Central Washington",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 4,
+            "size": "579*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Central Washington[enabled,,]",
+            "view_str": "5f4bc7822024b0591b6d8991854ac3c3",
+            "bound_box": "403,336,982,480",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<checkbox bound_box=403,336,982,480>Central Washington</checkbox>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    480
+                ],
+                [
+                    982,
+                    624
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Eastern Washington",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 5,
+            "size": "579*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Eastern Washington[enabled,,]",
+            "view_str": "38d33f5d9e01a7598c29b02c9ff82b0c",
+            "bound_box": "403,480,982,624",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<checkbox bound_box=403,480,982,624>Eastern Washington</checkbox>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    624
+                ],
+                [
+                    982,
+                    768
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Issaquah Alps",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 6,
+            "size": "579*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Issaquah Alps[enabled,,]",
+            "view_str": "c4d1da8a42eada33e262ed76c66501b4",
+            "bound_box": "403,624,982,768",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<checkbox bound_box=403,624,982,768>Issaquah Alps</checkbox>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    768
+                ],
+                [
+                    982,
+                    912
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Mount Rainier Area",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 7,
+            "size": "579*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Mount Rainier Area[enabled,,]",
+            "view_str": "0bd393ce2a1c74f7f2bd4681e486047c",
+            "bound_box": "403,768,982,912",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<checkbox bound_box=403,768,982,912>Mount Rainier Area</checkbox>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    912
+                ],
+                [
+                    982,
+                    1056
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "North Cascades",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 8,
+            "size": "579*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]North Cascades[enabled,,]",
+            "view_str": "e24f70c192a9c830d60a3a2325f96dcc",
+            "bound_box": "403,912,982,1056",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<checkbox bound_box=403,912,982,1056>North Cascades</checkbox>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    1056
+                ],
+                [
+                    982,
+                    1200
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Olympic Peninsula",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 9,
+            "size": "579*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Olympic Peninsula[enabled,,]",
+            "view_str": "c392e50fb4b358a302b9f2a8b5f72d57",
+            "bound_box": "403,1056,982,1200",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<checkbox bound_box=403,1056,982,1200>Olympic Peninsula</checkbox>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    1200
+                ],
+                [
+                    982,
+                    1344
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Puget Sound and Islands",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 10,
+            "size": "579*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Puget Sound and Islands[enabled,,]",
+            "view_str": "1a7783329eb068b3676833c77c3f427a",
+            "bound_box": "403,1200,982,1344",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<checkbox bound_box=403,1200,982,1344>Puget Sound and Islands</checkbox>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    1344
+                ],
+                [
+                    982,
+                    1488
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": true,
+            "text": "Snoqualmie Region",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 11,
+            "size": "579*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Snoqualmie Region[enabled,checked,]",
+            "view_str": "d607b434735ec4db13be51dd1a0858f8",
+            "bound_box": "403,1344,982,1488",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "9",
+            "desc": "<checkbox bound_box=403,1344,982,1488>Snoqualmie Region</checkbox>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    1488
+                ],
+                [
+                    982,
+                    1632
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "South Cascades",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 12,
+            "size": "579*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]South Cascades[enabled,,]",
+            "view_str": "a9fc3a114396da2a96366e84a29597c0",
+            "bound_box": "403,1488,982,1632",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<checkbox bound_box=403,1488,982,1632>South Cascades</checkbox>"
+        },
+        {
+            "package": "org.wta",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    403,
+                    1632
+                ],
+                [
+                    982,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/text1",
+            "checked": false,
+            "text": "Southwest Washington",
+            "class": "android.widget.CheckedTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 13,
+            "size": "579*144",
+            "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Southwest Washington[enabled,,]",
+            "view_str": "43b3988f9b5a00558e46f07efc8cdca4",
+            "bound_box": "403,1632,982,1776",
+            "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<checkbox bound_box=403,1632,982,1776>Southwest Washington</checkbox>"
+        }
+    ]
+}

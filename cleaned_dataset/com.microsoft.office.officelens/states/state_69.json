@@ -1,0 +1,1200 @@
+{
+    "state_str": "08b900/748e18",
+    "state_str_content_free": "dd1dd1/e85970",
+    "foreground_activity": "com.microsoft.office.officelens/.FirstRunActivity",
+    "activity_stack": [
+        "com.microsoft.office.officelens/.FirstRunActivity",
+        "com.microsoft.office.officelens/.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                27,
+                28
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "a83625098204679e80f9aa43ab770683",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c5961b0879366f1c84293ca48bdd6622",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "3632f16b486a38c37606385d5436fe96",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "e000bd42cc6435933891bcd2c8b8e91d",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5,
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_consent_view_pager",
+            "checked": false,
+            "text": null,
+            "class": "androidx.viewpager.widget.ViewPager",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1704",
+            "signature": "[class]androidx.viewpager.widget.ViewPager[resource_id]com.microsoft.office.officelens:id/fre_consent_view_pager[text]None[enabled,,]",
+            "view_str": "4587eaf318ea354cdb3115657c4422bb",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]androidx.viewpager.widget.ViewPager[resource_id]com.microsoft.office.officelens:id/fre_consent_view_pager",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<scrollbar bound_box=0,72,1080,1776></scrollbar>"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    0,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "0*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "564030ddf2f8b74e1c5e79eae334629d",
+            "bound_box": "0,72,0,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                14,
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    0,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "0*1704",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "0261fe843062a56256101bd4f8808214",
+            "bound_box": "0,72,0,1776",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    0,
+                    1382
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "0*1310",
+            "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+            "view_str": "c4bb8fb3f1b85b9e79e21892e8f85b4a",
+            "bound_box": "0,72,0,1382",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]None"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    0,
+                    1338
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "0*1266",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "429155f0681b4aaeabd0097e923be640",
+            "bound_box": "0,72,0,1338",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    120
+                ],
+                [
+                    -96,
+                    504
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_page_image",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "-96*384",
+            "signature": "[class]android.widget.ImageView[resource_id]com.microsoft.office.officelens:id/fre_page_image[text]None[enabled,,]",
+            "view_str": "ca842003b418d807f09da6261a119b1f",
+            "bound_box": "0,120,-96,504",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.microsoft.office.officelens:id/fre_page_image"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    552
+                ],
+                [
+                    -224,
+                    633
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_page_title",
+            "checked": false,
+            "text": "Getting better together",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 10,
+            "size": "-224*81",
+            "signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_title[text]Getting better together[enabled,,]",
+            "view_str": "a49f0269b5bc8c0dad8ce7a482ac9705",
+            "bound_box": "0,552,-224,633",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_title"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    681
+                ],
+                [
+                    -96,
+                    1043
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_page_desc_part1",
+            "checked": false,
+            "text": "We\u2019d like you to share optional diagnostic and usage data about Word, Excel, PowerPoint, Microsoft 365, OneNote and Loop. It\u2019s how we continue to improve. None of this data includes your name, file contents, or information about apps unrelated to Microsoft 365.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 11,
+            "size": "-96*362",
+            "signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_desc_part1[text]None[enabled,,]",
+            "view_str": "eae51490b03bcfbd6b27cf96dd3e4878",
+            "bound_box": "0,681,-96,1043",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_desc_part1"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1091
+                ],
+                [
+                    -96,
+                    1209
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_page_desc_part2",
+            "checked": false,
+            "text": "Do you want optional data about your Microsoft 365 experience sent to Microsoft?",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 12,
+            "size": "-96*118",
+            "signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_desc_part2[text]None[enabled,,]",
+            "view_str": "a936d7a68b00d31d1ef9f73db7b00f90",
+            "bound_box": "0,1091,-96,1209",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_desc_part2"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Learn More Link.",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1281
+                ],
+                [
+                    -768,
+                    1338
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_learn_more",
+            "checked": false,
+            "text": "Learn More",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 13,
+            "size": "-768*57",
+            "signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_learn_more[text]Learn More[enabled,,]",
+            "view_str": "44be9985c577b62bb6c15a3902a9053c",
+            "bound_box": "0,1281,-768,1338",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_learn_more"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1382
+                ],
+                [
+                    -48,
+                    1519
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/accept_basic",
+            "checked": false,
+            "text": "DON\u2019T SEND OPTIONAL DATA",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 14,
+            "size": "-48*137",
+            "signature": "[class]android.widget.Button[resource_id]com.microsoft.office.officelens:id/accept_basic[text]DON\u2019T SEND OPTIONAL DATA[enabled,,]",
+            "view_str": "a00c5db1dcd2d1c0869c1df100df3e75",
+            "bound_box": "0,1382,-48,1519",
+            "content_free_signature": "[class]android.widget.Button[resource_id]com.microsoft.office.officelens:id/accept_basic"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1567
+                ],
+                [
+                    -48,
+                    1704
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/accept_full",
+            "checked": false,
+            "text": "ACCEPT AND SEND OPTIONAL DATA",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 15,
+            "size": "-48*137",
+            "signature": "[class]android.widget.Button[resource_id]com.microsoft.office.officelens:id/accept_full[text]ACCEPT AND SEND OPTIONAL DATA[enabled,,]",
+            "view_str": "7feac2f2834c67c5f7c8306ea1c68857",
+            "bound_box": "0,1567,-48,1704",
+            "content_free_signature": "[class]android.widget.Button[resource_id]com.microsoft.office.officelens:id/accept_full"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 16,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "564030ddf2f8b74e1c5e79eae334629d",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                18,
+                26
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "8f56921211fcc2af1c9547a87872fc99",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1555
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 18,
+            "size": "1080*1483",
+            "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+            "view_str": "c4bb8fb3f1b85b9e79e21892e8f85b4a",
+            "bound_box": "0,72,1080,1555",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<scrollbar bound_box=0,72,1080,1555></scrollbar>"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 6,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1555
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 18,
+            "temp_id": 19,
+            "size": "1080*1483",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "b656eea8aed05ce09b9fd2a20356976f",
+            "bound_box": "0,72,1080,1555",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    120
+                ],
+                [
+                    984,
+                    504
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_page_image",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 20,
+            "size": "888*384",
+            "signature": "[class]android.widget.ImageView[resource_id]com.microsoft.office.officelens:id/fre_page_image[text]None[enabled,,]",
+            "view_str": "ca842003b418d807f09da6261a119b1f",
+            "bound_box": "96,120,984,504",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.microsoft.office.officelens:id/fre_page_image"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    166,
+                    552
+                ],
+                [
+                    913,
+                    633
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_page_title",
+            "checked": false,
+            "text": "Powering your experiences",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 21,
+            "size": "747*81",
+            "signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_title[text]Powering your experiences[enabled,,]",
+            "view_str": "fc6e16b30036aacd29da94453e72e1b5",
+            "bound_box": "166,552,913,633",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<p bound_box=166,552,913,633>Powering your experiences</p>"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    681
+                ],
+                [
+                    984,
+                    1287
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_page_desc_part1",
+            "checked": false,
+            "text": "Word, Excel, PowerPoint, Microsoft 365, OneNote and Loop includes experiences that connect to online services\u2014for example, downloadable templates from Office.com, and OneDrive file storage for sharing files with people you choose. When you use these experiences, Microsoft 365 collects diagnostic service data. In addition, some of these services analyze your content to deliver suggestions and recommendations.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 22,
+            "size": "888*606",
+            "signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_desc_part1[text]None[enabled,,]",
+            "view_str": "eae51490b03bcfbd6b27cf96dd3e4878",
+            "bound_box": "96,681,984,1287",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_desc_part1",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<p bound_box=96,681,984,1287>Word, Excel, PowerPoint, Microsoft 365, OneNote an</p>"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1335
+                ],
+                [
+                    984,
+                    1392
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_page_desc_part2",
+            "checked": false,
+            "text": "To adjust these privacy settings, navigate to",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 23,
+            "size": "888*57",
+            "signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_desc_part2[text]To adjust these privacy settings, navigate to[enabled,,]",
+            "view_str": "f33fcb377e6c18e2998e06d8e98b4a35",
+            "bound_box": "96,1335,984,1392",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_desc_part2",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<p bound_box=96,1335,984,1392>To adjust these privacy settings, navigate to</p>"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1392
+                ],
+                [
+                    984,
+                    1510
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_page_desc_part3",
+            "checked": false,
+            "text": "\"Privacy and permissions\" from your app settings.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 24,
+            "size": "888*118",
+            "signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_desc_part3[text]\"Privacy and permissions\" from your app settings.[enabled,,]",
+            "view_str": "c94d20d41639d4a6dd2b6a07de4cba31",
+            "bound_box": "96,1392,984,1510",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_page_desc_part3",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<p bound_box=96,1392,984,1510>\"Privacy and permissions\" from your app settings.</p>"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Learn More Link.",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1582
+                ],
+                [
+                    312,
+                    1555
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/fre_learn_more",
+            "checked": false,
+            "text": "Learn More",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 25,
+            "size": "216*-27",
+            "signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_learn_more[text]Learn More[enabled,,]",
+            "view_str": "44be9985c577b62bb6c15a3902a9053c",
+            "bound_box": "96,1582,312,1555",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.microsoft.office.officelens:id/fre_learn_more"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1567
+                ],
+                [
+                    1032,
+                    1704
+                ]
+            ],
+            "resource_id": "com.microsoft.office.officelens:id/close_button",
+            "checked": false,
+            "text": "CLOSE",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 26,
+            "size": "984*137",
+            "signature": "[class]android.widget.Button[resource_id]com.microsoft.office.officelens:id/close_button[text]CLOSE[enabled,,]",
+            "view_str": "f29ca553bdd17f0f80eb572438cd7e6b",
+            "bound_box": "48,1567,1032,1704",
+            "content_free_signature": "[class]android.widget.Button[resource_id]com.microsoft.office.officelens:id/close_button",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<button bound_box=48,1567,1032,1704>CLOSE</button>"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 27,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "248cf041b2d8e9ff1b31011c266e7a76",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "com.microsoft.office.officelens",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 28,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "b5607b96e02f3493b8470bebe7a70cab",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

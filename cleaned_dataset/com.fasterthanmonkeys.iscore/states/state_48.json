@@ -1,0 +1,946 @@
+{
+    "state_str": "b52257/c7b3c9",
+    "state_str_content_free": "024a1a/3682d0",
+    "foreground_activity": "com.fasterthanmonkeys.iscore/.NewGame",
+    "activity_stack": [
+        "com.fasterthanmonkeys.iscore/.NewGame",
+        "com.fasterthanmonkeys.iscore/.GameManager",
+        "com.fasterthanmonkeys.iscore/.Baseball"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    16,
+                    777
+                ],
+                [
+                    1064,
+                    1491
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1048*714",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "81c71ed68148983ac22c904a30c80df5",
+            "bound_box": "16,777,1064,1491",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    16,
+                    777
+                ],
+                [
+                    1064,
+                    1491
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1048*714",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "4be5604c4fc61343cc3a9a4d962e9ec3",
+            "bound_box": "16,777,1064,1491",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    16,
+                    777
+                ],
+                [
+                    1064,
+                    1491
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1048*714",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "343d116c372c95946ad8f040a2f40d8a",
+            "bound_box": "16,777,1064,1491",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                18
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    16,
+                    777
+                ],
+                [
+                    1064,
+                    1491
+                ]
+            ],
+            "resource_id": "android:id/parentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1048*714",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel[text]None[enabled,,]",
+            "view_str": "940c40f38acc3c8f813f535f8940d5c6",
+            "bound_box": "16,777,1064,1491",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    25,
+                    804
+                ],
+                [
+                    1061,
+                    1271
+                ]
+            ],
+            "resource_id": "android:id/customPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1036*467",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/customPanel[text]None[enabled,,]",
+            "view_str": "aa765a0dd54c18a86f8f798c8afb811b",
+            "bound_box": "25,804,1061,1271",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/customPanel"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    63,
+                    834
+                ],
+                [
+                    1023,
+                    1271
+                ]
+            ],
+            "resource_id": "android:id/custom",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "960*437",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/custom[text]None[enabled,,]",
+            "view_str": "d0ce3efb67cbacd4a37d8af9b04be40e",
+            "bound_box": "63,834,1023,1271",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/custom"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    63,
+                    849
+                ],
+                [
+                    1023,
+                    1256
+                ]
+            ],
+            "resource_id": "android:id/timePicker",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.TimePicker",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "960*407",
+            "signature": "[class]android.widget.TimePicker[resource_id]android:id/timePicker[text]None[enabled,,]",
+            "view_str": "70f05cf2e9ac79ad16065879d85e57d5",
+            "bound_box": "63,849,1023,1256",
+            "content_free_signature": "[class]android.widget.TimePicker[resource_id]android:id/timePicker"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8,
+                17
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    207,
+                    849
+                ],
+                [
+                    878,
+                    1256
+                ]
+            ],
+            "resource_id": "android:id/timePickerLayout",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "671*407",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/timePickerLayout[text]None[enabled,,]",
+            "view_str": "ac32c85c235bf9fd6efbba22b74b9f48",
+            "bound_box": "207,849,878,1256",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/timePickerLayout"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9,
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    207,
+                    849
+                ],
+                [
+                    642,
+                    1256
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "435*407",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "3ff7058dba87368f3882cfbce496e879",
+            "bound_box": "207,849,642,1256",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10,
+                11,
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    207,
+                    849
+                ],
+                [
+                    417,
+                    1256
+                ]
+            ],
+            "resource_id": "android:id/hour",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "210*407",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/hour[text]None[enabled,,]",
+            "view_str": "abfa2b3c9362af0a3403c1be9592064e",
+            "bound_box": "207,849,417,1256",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/hour"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Increase hour",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    207,
+                    849
+                ],
+                [
+                    417,
+                    981
+                ]
+            ],
+            "resource_id": "android:id/increment",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "210*132",
+            "signature": "[class]android.widget.ImageButton[resource_id]android:id/increment[text]None[enabled,,]",
+            "view_str": "a0c15f806407e32603e467c3d11bd0be",
+            "bound_box": "207,849,417,981",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]android:id/increment",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button alt='Increase hour' bound_box=207,849,417,981></button>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    207,
+                    981
+                ],
+                [
+                    417,
+                    1124
+                ]
+            ],
+            "resource_id": "android:id/numberpicker_input",
+            "checked": false,
+            "text": "1",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 9,
+            "temp_id": 11,
+            "size": "210*143",
+            "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]1[enabled,,]",
+            "view_str": "18f260d2cfbdfcc983c0c73c56ba221d",
+            "bound_box": "207,981,417,1124",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input",
+            "allowed_actions": [
+                "touch",
+                "set_text",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<input bound_box=207,981,417,1124>1</input>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Decrease hour",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    207,
+                    1124
+                ],
+                [
+                    417,
+                    1256
+                ]
+            ],
+            "resource_id": "android:id/decrement",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 9,
+            "temp_id": 12,
+            "size": "210*132",
+            "signature": "[class]android.widget.ImageButton[resource_id]android:id/decrement[text]None[enabled,,]",
+            "view_str": "e5e8362b5e82c5d1943f6b8a2fa47f88",
+            "bound_box": "207,1124,417,1256",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]android:id/decrement",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button alt='Decrease hour' bound_box=207,1124,417,1256></button>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14,
+                15,
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    432,
+                    849
+                ],
+                [
+                    642,
+                    1256
+                ]
+            ],
+            "resource_id": "android:id/minute",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 13,
+            "size": "210*407",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/minute[text]None[enabled,,]",
+            "view_str": "d061cdd454278bf7643ddcae11ead770",
+            "bound_box": "432,849,642,1256",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/minute"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Increase minute",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    432,
+                    849
+                ],
+                [
+                    642,
+                    981
+                ]
+            ],
+            "resource_id": "android:id/increment",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "210*132",
+            "signature": "[class]android.widget.ImageButton[resource_id]android:id/increment[text]None[enabled,,]",
+            "view_str": "daee8ffec75b1d0338b0b9ccc50fa6a7",
+            "bound_box": "432,849,642,981",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]android:id/increment",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button alt='Increase minute' bound_box=432,849,642,981></button>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    432,
+                    981
+                ],
+                [
+                    642,
+                    1124
+                ]
+            ],
+            "resource_id": "android:id/numberpicker_input",
+            "checked": false,
+            "text": "02",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 13,
+            "temp_id": 15,
+            "size": "210*143",
+            "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]02[enabled,,]",
+            "view_str": "896e01279cf4cbece1cbb0d6ea25394f",
+            "bound_box": "432,981,642,1124",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input",
+            "allowed_actions": [
+                "touch",
+                "set_text",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<input bound_box=432,981,642,1124>02</input>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Decrease minute",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    432,
+                    1124
+                ],
+                [
+                    642,
+                    1256
+                ]
+            ],
+            "resource_id": "android:id/decrement",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 13,
+            "temp_id": 16,
+            "size": "210*132",
+            "signature": "[class]android.widget.ImageButton[resource_id]android:id/decrement[text]None[enabled,,]",
+            "view_str": "05eaa646b1e36e12376178606eac11c1",
+            "bound_box": "432,1124,642,1256",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]android:id/decrement",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<button alt='Decrease minute' bound_box=432,1124,642,1256></button>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    657,
+                    978
+                ],
+                [
+                    878,
+                    1122
+                ]
+            ],
+            "resource_id": "android:id/amPm",
+            "checked": false,
+            "text": "AM",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 17,
+            "size": "221*144",
+            "signature": "[class]android.widget.Button[resource_id]android:id/amPm[text]AM[enabled,,]",
+            "view_str": "3616317945a0e631f938e8ebff6d11b2",
+            "bound_box": "657,978,878,1122",
+            "content_free_signature": "[class]android.widget.Button[resource_id]android:id/amPm",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<button bound_box=657,978,878,1122>AM</button>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    25,
+                    1271
+                ],
+                [
+                    1061,
+                    1482
+                ]
+            ],
+            "resource_id": "android:id/buttonPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 18,
+            "size": "1036*211",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/buttonPanel[text]None[enabled,,]",
+            "view_str": "378fe4ced51a03237dfbe5f1b21aa290",
+            "bound_box": "25,1271,1061,1482",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/buttonPanel"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                20,
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    63,
+                    1271
+                ],
+                [
+                    1023,
+                    1435
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 18,
+            "temp_id": 19,
+            "size": "960*164",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "d7a5fc994b9136b6fd997d832040335b",
+            "bound_box": "63,1271,1023,1435",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    69,
+                    1283
+                ],
+                [
+                    543,
+                    1427
+                ]
+            ],
+            "resource_id": "android:id/button1",
+            "checked": false,
+            "text": "OK",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 20,
+            "size": "474*144",
+            "signature": "[class]android.widget.Button[resource_id]android:id/button1[text]OK[enabled,,]",
+            "view_str": "0a33f64f7e33a547c9d32e5235696771",
+            "bound_box": "69,1283,543,1427",
+            "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button1",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<button bound_box=69,1283,543,1427>OK</button>"
+        },
+        {
+            "package": "com.fasterthanmonkeys.iscore",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    543,
+                    1283
+                ],
+                [
+                    1017,
+                    1427
+                ]
+            ],
+            "resource_id": "android:id/button2",
+            "checked": false,
+            "text": "Cancel",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 21,
+            "size": "474*144",
+            "signature": "[class]android.widget.Button[resource_id]android:id/button2[text]Cancel[enabled,,]",
+            "view_str": "dc553426f0f321fbc2150a6f422c6d30",
+            "bound_box": "543,1283,1017,1427",
+            "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button2",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<button bound_box=543,1283,1017,1427>Cancel</button>"
+        }
+    ]
+}

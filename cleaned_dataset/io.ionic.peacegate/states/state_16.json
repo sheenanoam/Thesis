@@ -1,0 +1,1642 @@
+{
+    "state_str": "08b900/6a59cc",
+    "state_str_content_free": "dd1dd1/b12f82",
+    "foreground_activity": "io.ionic.peacegate/.MainActivity",
+    "activity_stack": [
+        "io.ionic.peacegate/.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                37,
+                38
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "d38ef36cd623a995e53325b4effea0ce",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "5c6849bf4391ed96df70ce8ef959bd4b",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "75876aa7071893fa1b4f5bd1cfb13bba",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "io.ionic.peacegate:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]io.ionic.peacegate:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "1dd68291e61ac95018f15df7ca511e0b",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]io.ionic.peacegate:id/action_bar_root"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "af3f7974ac82961a0983f7e22aa61c51",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.webkit.WebView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1704",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+            "view_str": "b321ddc7a232713a2352188d982d14e0",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7
+            ],
+            "focused": true,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "PEACEGATE",
+            "class": "android.webkit.WebView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1704",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]PEACEGATE[enabled,,]",
+            "view_str": "c1ec3300c9949146d845ba723c82220f",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<scrollbar bound_box=0,72,1080,1776>PEACEGATE</scrollbar>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "062620cfd771cd219bdc14cf428656ce",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "0834e3c031d62b0bfb81910e907c39d7",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "2da619eda7fcd5024abc72c9516486b2",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "main-content",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]main-content[text][enabled,,]",
+            "view_str": "58fb18ceede855428e7509784ec95b08",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]main-content"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "58bbdb5ad1323a9cf047ef3a7e66b529",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "cd80ac828f77e2cabfee90912ba49cb0",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14,
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "c069643031e3a83512582f91a51af32a",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "background-content",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]background-content[text][enabled,,]",
+            "view_str": "5d1a0129512eea19995f22b5601bf281",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]background-content"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 15,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "9081f2ddaf2218610b3adc8c24154a27",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17,
+                20,
+                21,
+                23
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 16,
+            "size": "1080*1620",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "2a8cc8526fd2aa5f63e340cb0f2ad631",
+            "bound_box": "0,72,1080,1692",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<scrollbar bound_box=0,72,1080,1692></scrollbar>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                18,
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    198
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "1080*126",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "e3e4f9ff440ea6b1adc5d49c3d8170e5",
+            "bound_box": "0,72,1080,198",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    126,
+                    198
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "\uf053",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 18,
+            "size": "126*126",
+            "signature": "[class]android.widget.Button[resource_id]None[text]\uf053[enabled,,]",
+            "view_str": "5621ddabbf0f2143315953e9cd87f60e",
+            "bound_box": "0,72,126,198",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=0,72,126,198>\uf053</button>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    483,
+                    81
+                ],
+                [
+                    597,
+                    192
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "peacegate",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 19,
+            "size": "114*111",
+            "signature": "[class]android.widget.Image[resource_id]None[text]peacegate[enabled,,]",
+            "view_str": "76a6dd3479568b8e2f59cef7593d1f40",
+            "bound_box": "483,81,597,192",
+            "content_free_signature": "[class]android.widget.Image[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button bound_box=483,81,597,192>peacegate</button>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    192
+                ],
+                [
+                    1080,
+                    342
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Ask Peegee",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 20,
+            "size": "1080*150",
+            "signature": "[class]android.view.View[resource_id]None[text]Ask Peegee[enabled,,]",
+            "view_str": "0df76f00d31e755d7cde24f1f889713f",
+            "bound_box": "0,192,1080,342",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<p bound_box=0,192,1080,342>Ask Peegee</p>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                22
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    372
+                ],
+                [
+                    1080,
+                    1212
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 21,
+            "size": "1080*840",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "fdef72e04e5da765419dffbe43f19061",
+            "bound_box": "0,372,1080,1212",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    168,
+                    372
+                ],
+                [
+                    912,
+                    1122
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "peegee",
+            "class": "android.widget.Image",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 21,
+            "temp_id": 22,
+            "size": "744*750",
+            "signature": "[class]android.widget.Image[resource_id]None[text]peegee[enabled,,]",
+            "view_str": "56378a6af3e4665bda851aa5ec1244dc",
+            "bound_box": "168,372,912,1122",
+            "content_free_signature": "[class]android.widget.Image[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<p bound_box=168,372,912,1122>peegee</p>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                24
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    45,
+                    1092
+                ],
+                [
+                    1035,
+                    1692
+                ]
+            ],
+            "resource_id": "accordionExample",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 23,
+            "size": "990*600",
+            "signature": "[class]android.view.View[resource_id]accordionExample[text][enabled,,]",
+            "view_str": "d1280b69f7a532f10a383362cb5e21ed",
+            "bound_box": "45,1092,1035,1692",
+            "content_free_signature": "[class]android.view.View[resource_id]accordionExample"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                25
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    45,
+                    1092
+                ],
+                [
+                    1035,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 23,
+            "temp_id": 24,
+            "size": "990*600",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "766cea1ed259fa46165bbba9680b3cf8",
+            "bound_box": "45,1092,1035,1692",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 8,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                33,
+                35
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1095
+                ],
+                [
+                    1032,
+                    1692
+                ]
+            ],
+            "resource_id": "collapseOne",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 24,
+            "temp_id": 25,
+            "size": "984*597",
+            "signature": "[class]android.view.View[resource_id]collapseOne[text][enabled,,]",
+            "view_str": "3cbf3224f3cdc30f82535ed6734b39dc",
+            "bound_box": "48,1095,1032,1692",
+            "content_free_signature": "[class]android.view.View[resource_id]collapseOne"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    93,
+                    1095
+                ],
+                [
+                    987,
+                    1212
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Hello ,",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 26,
+            "size": "894*117",
+            "signature": "[class]android.view.View[resource_id]None[text]Hello ,[enabled,,]",
+            "view_str": "068bf07339a6dfae1d4a2167a14a813f",
+            "bound_box": "93,1095,987,1212",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<p bound_box=93,1095,987,1212>Hello ,</p>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    93,
+                    1260
+                ],
+                [
+                    987,
+                    1377
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "I am Peegee, your virtual guide.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 27,
+            "size": "894*117",
+            "signature": "[class]android.view.View[resource_id]None[text]I am Peegee, your virtual guide.[enabled,,]",
+            "view_str": "7b6a03aa5a8ba7de5ca1c32bda113990",
+            "bound_box": "93,1260,987,1377",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<p bound_box=93,1260,987,1377>I am Peegee, your virtual guide.</p>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    93,
+                    1425
+                ],
+                [
+                    987,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "When it comes to dispute resolution, there are so many choices available. People are often confused about which process to apply to their situation. I can help you to analyse your dispute and identify the best mode of dispute resolution.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 28,
+            "size": "894*267",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "c1cee0aa205daa9c17cc51a4096a1caa",
+            "bound_box": "93,1425,987,1692",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<p bound_box=93,1425,987,1692>When it comes to dispute resolution, there are so </p>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    93,
+                    1689
+                ],
+                [
+                    987,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "I can also help you to understand the various facilities in the PeaceGate App and how to use it.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 29,
+            "size": "894*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "c1cee0aa205daa9c17cc51a4096a1caa",
+            "bound_box": "93,1689,987,1692",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<p bound_box=93,1689,987,1692>I can also help you to understand the various faci</p>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    93,
+                    1689
+                ],
+                [
+                    987,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "I am happy to be at your service any time! You can also chat with Peegee 2.0 for any of your queries.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 30,
+            "size": "894*3",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "c1cee0aa205daa9c17cc51a4096a1caa",
+            "bound_box": "93,1689,987,1692",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<p bound_box=93,1689,987,1692>I am happy to be at your service any time! You can</p>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                32
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1689
+                ],
+                [
+                    1032,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 31,
+            "size": "984*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "715d8609fe934ffb381284aeefcd8118",
+            "bound_box": "48,1689,1032,1692",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    93,
+                    1689
+                ],
+                [
+                    987,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "ANALYSE MY DISPUTE",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 31,
+            "temp_id": 32,
+            "size": "894*3",
+            "signature": "[class]android.widget.Button[resource_id]None[text]ANALYSE MY DISPUTE[enabled,,]",
+            "view_str": "c749b7e3fa1c5b162494b6268a2ad97d",
+            "bound_box": "93,1689,987,1692",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<button bound_box=93,1689,987,1692>ANALYSE MY DISPUTE</button>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                34
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1689
+                ],
+                [
+                    1032,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 33,
+            "size": "984*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "050e3c7c80213a947b7541152d4ebe08",
+            "bound_box": "48,1689,1032,1692",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    93,
+                    1689
+                ],
+                [
+                    987,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "HELP ME TO UNDERSTAND THIS APP",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 34,
+            "size": "894*3",
+            "signature": "[class]android.widget.Button[resource_id]None[text]HELP ME TO UNDERSTAND THIS APP[enabled,,]",
+            "view_str": "c23bc35cb3295015ba73d2cc9ecb5323",
+            "bound_box": "93,1689,987,1692",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "12",
+            "desc": "<button bound_box=93,1689,987,1692>HELP ME TO UNDERSTAND THIS APP</button>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                36
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    1689
+                ],
+                [
+                    1032,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 35,
+            "size": "984*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "ebc46cacb2fa31d76e2b214fe01994fb",
+            "bound_box": "48,1689,1032,1692",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    93,
+                    1689
+                ],
+                [
+                    987,
+                    1692
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "LIVE CHAT WITH PEEGEE 2.0",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 35,
+            "temp_id": 36,
+            "size": "894*3",
+            "signature": "[class]android.widget.Button[resource_id]None[text]LIVE CHAT WITH PEEGEE 2.0[enabled,,]",
+            "view_str": "0727858c700542e6e0188f689e8c929d",
+            "bound_box": "93,1689,987,1692",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "13",
+            "desc": "<button bound_box=93,1689,987,1692>LIVE CHAT WITH PEEGEE 2.0</button>"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 37,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "812b2c85dcf3c8335532be6a0db4b6ab",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "io.ionic.peacegate",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 38,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "f340d494ac36cc936298b05ad8771706",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

@@ -1,0 +1,626 @@
+{
+    "state_str": "08b900/9f235d",
+    "state_str_content_free": "dd1dd1/2727af",
+    "foreground_activity": "aplicacion.tiempo/aplicacion.HorasActivity",
+    "activity_stack": [
+        "aplicacion.tiempo/aplicacion.HorasActivity",
+        "aplicacion.tiempo/aplicacion.TiempoActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    27,
+                    566
+                ],
+                [
+                    1053,
+                    1282
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1026*716",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "5398a9d4d51181a97c65de0476b70118",
+            "bound_box": "27,566,1053,1282",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    614
+                ],
+                [
+                    1005,
+                    1234
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "930*620",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "91e4f967450c5909cdfe7beef532c1eb",
+            "bound_box": "75,614,1005,1234",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    614
+                ],
+                [
+                    1005,
+                    1234
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "930*620",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "cfd36f1b4c765e97512ff7635641c2cb",
+            "bound_box": "75,614,1005,1234",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                8,
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    614
+                ],
+                [
+                    1005,
+                    1234
+                ]
+            ],
+            "resource_id": "android:id/parentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "930*620",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel[text]None[enabled,,]",
+            "view_str": "5658489e693318d9a29ad4f9cad348c9",
+            "bound_box": "75,614,1005,1234",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5,
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    614
+                ],
+                [
+                    1005,
+                    773
+                ]
+            ],
+            "resource_id": "android:id/topPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "930*159",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/topPanel[text]None[enabled,,]",
+            "view_str": "df36dd852f99feacff7ac6d139363993",
+            "bound_box": "75,614,1005,773",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/topPanel"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    614
+                ],
+                [
+                    1005,
+                    749
+                ]
+            ],
+            "resource_id": "android:id/title_template",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "930*135",
+            "signature": "[class]android.widget.LinearLayout[resource_id]android:id/title_template[text]None[enabled,,]",
+            "view_str": "a16a60cc3ffd45c8a79cd40d53d0e269",
+            "bound_box": "75,614,1005,749",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/title_template"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    147,
+                    668
+                ],
+                [
+                    933,
+                    749
+                ]
+            ],
+            "resource_id": "android:id/alertTitle",
+            "checked": false,
+            "text": "Something went wrong",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "786*81",
+            "signature": "[class]android.widget.TextView[resource_id]android:id/alertTitle[text]Something went wrong[enabled,,]",
+            "view_str": "614e2c8095d90b593ead260ea9dea36e",
+            "bound_box": "147,668,933,749",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/alertTitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=147,668,933,749>Something went wrong</p>"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    749
+                ],
+                [
+                    1005,
+                    773
+                ]
+            ],
+            "resource_id": "android:id/titleDividerNoCustom",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 7,
+            "size": "930*24",
+            "signature": "[class]android.view.View[resource_id]android:id/titleDividerNoCustom[text]None[enabled,,]",
+            "view_str": "a7041c209035f38b0c8262b9b61059b7",
+            "bound_box": "75,749,1005,773",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/titleDividerNoCustom"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    773
+                ],
+                [
+                    1005,
+                    1066
+                ]
+            ],
+            "resource_id": "android:id/contentPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 8,
+            "size": "930*293",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/contentPanel[text]None[enabled,,]",
+            "view_str": "1b6b73994042294508cc19004cec7cc3",
+            "bound_box": "75,773,1005,1066",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/contentPanel"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    773
+                ],
+                [
+                    1005,
+                    1066
+                ]
+            ],
+            "resource_id": "android:id/scrollView",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "930*293",
+            "signature": "[class]android.widget.ScrollView[resource_id]android:id/scrollView[text]None[enabled,,]",
+            "view_str": "844d7f5cf2dbd7d5e61888f7d62ec84c",
+            "bound_box": "75,773,1005,1066",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]android:id/scrollView"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    773
+                ],
+                [
+                    1005,
+                    1066
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "930*293",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c5e786b0e52cf0f3ed8c54d1c490f58a",
+            "bound_box": "75,773,1005,1066",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    773
+                ],
+                [
+                    1005,
+                    1066
+                ]
+            ],
+            "resource_id": "android:id/message",
+            "checked": false,
+            "text": "Check that Google Play is enabled on your device and that you're using an up-to-date version before opening the app. If the problem persists try reinstalling the app.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "930*293",
+            "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]None[enabled,,]",
+            "view_str": "1db95a72d7e4bca6457c259a88422ace",
+            "bound_box": "75,773,1005,1066",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<p bound_box=75,773,1005,1066>Check that Google Play is enabled on your device a</p>"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    1066
+                ],
+                [
+                    1005,
+                    1234
+                ]
+            ],
+            "resource_id": "android:id/buttonPanel",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 12,
+            "size": "930*168",
+            "signature": "[class]android.widget.ScrollView[resource_id]android:id/buttonPanel[text]None[enabled,,]",
+            "view_str": "fe4bca8472e313172b485879675df47a",
+            "bound_box": "75,1066,1005,1234",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]android:id/buttonPanel"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    75,
+                    1066
+                ],
+                [
+                    1005,
+                    1234
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "930*168",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "9f261ec4896f3db58912ef0f61072504",
+            "bound_box": "75,1066,1005,1234",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "aplicacion.tiempo",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    774,
+                    1078
+                ],
+                [
+                    969,
+                    1222
+                ]
+            ],
+            "resource_id": "android:id/button1",
+            "checked": false,
+            "text": "CLOSE",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "195*144",
+            "signature": "[class]android.widget.Button[resource_id]android:id/button1[text]CLOSE[enabled,,]",
+            "view_str": "e56c382af771e0f44f17d84db0d73bb2",
+            "bound_box": "774,1078,969,1222",
+            "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button1",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=774,1078,969,1222>CLOSE</button>"
+        }
+    ]
+}

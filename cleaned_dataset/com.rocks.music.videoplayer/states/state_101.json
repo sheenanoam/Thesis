@@ -1,0 +1,832 @@
+{
+    "state_str": "08b900/3d8f84",
+    "state_str_content_free": "dd1dd1/0b2f69",
+    "foreground_activity": "com.rocks.music.videoplayer/com.rocks.music.hamburger.RecentAddActivity",
+    "activity_stack": [
+        "com.rocks.music.videoplayer/com.rocks.music.hamburger.RecentAddActivity",
+        "com.rocks.music.videoplayer/com.rocks.music.hamburger.BaseActivity",
+        "com.rocks.music.videoplayer/com.rocks.music.hamburger.BaseActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    72
+                ],
+                [
+                    1068,
+                    792
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "588*720",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "480185af548c1b98177e595992df8243",
+            "bound_box": "480,72,1068,792",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    72
+                ],
+                [
+                    1068,
+                    792
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "588*720",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "2cf9dcd9d38c8e134f5bfebbd9187f22",
+            "bound_box": "480,72,1068,792",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3,
+                8,
+                12,
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    72
+                ],
+                [
+                    1068,
+                    792
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ListView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "588*720",
+            "signature": "[class]android.widget.ListView[resource_id]None[text]None[enabled,,]",
+            "view_str": "9f9937a36726804b0707b2d7d9073ee7",
+            "bound_box": "480,72,1068,792",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    72
+                ],
+                [
+                    1068,
+                    252
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "588*180",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "526044ddee8f03f34ff4d050e33a15ab",
+            "bound_box": "480,72,1068,252",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5,
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    72
+                ],
+                [
+                    1068,
+                    252
+                ]
+            ],
+            "resource_id": "com.rocks.music.videoplayer:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "588*180",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.rocks.music.videoplayer:id/content[text]None[enabled,,]",
+            "view_str": "1d5a7233c4d542d027280b493f6f8ddc",
+            "bound_box": "480,72,1068,252",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.rocks.music.videoplayer:id/content"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    528,
+                    129
+                ],
+                [
+                    924,
+                    194
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "396*65",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "be87767d1d238228b8b0aecea823f7a9",
+            "bound_box": "528,129,924,194",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    528,
+                    129
+                ],
+                [
+                    924,
+                    194
+                ]
+            ],
+            "resource_id": "com.rocks.music.videoplayer:id/title",
+            "checked": false,
+            "text": "\u0915\u094d\u0930\u092e\u092c\u0926\u094d\u0927 \u0915\u0930\u0947\u0902",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "396*65",
+            "signature": "[class]android.widget.TextView[resource_id]com.rocks.music.videoplayer:id/title[text]\u0915\u094d\u0930\u092e\u092c\u0926\u094d\u0927 \u0915\u0930\u0947\u0902[enabled,,]",
+            "view_str": "5cf1787709f20d996af54b4a1ceb21d3",
+            "bound_box": "528,129,924,194",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.rocks.music.videoplayer:id/title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button bound_box=528,129,924,194>\u0915\u094d\u0930\u092e\u092c\u0926\u094d\u0927 \u0915\u0930\u0947\u0902</button>"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    948,
+                    126
+                ],
+                [
+                    1020,
+                    198
+                ]
+            ],
+            "resource_id": "com.rocks.music.videoplayer:id/submenuarrow",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 7,
+            "size": "72*72",
+            "signature": "[class]android.widget.ImageView[resource_id]com.rocks.music.videoplayer:id/submenuarrow[text]None[enabled,,]",
+            "view_str": "78a456555cb2137e7d69db469ff267b8",
+            "bound_box": "948,126,1020,198",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.rocks.music.videoplayer:id/submenuarrow"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    252
+                ],
+                [
+                    1068,
+                    432
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 8,
+            "size": "588*180",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "526044ddee8f03f34ff4d050e33a15ab",
+            "bound_box": "480,252,1068,432",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    252
+                ],
+                [
+                    1068,
+                    432
+                ]
+            ],
+            "resource_id": "com.rocks.music.videoplayer:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "588*180",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.rocks.music.videoplayer:id/content[text]None[enabled,,]",
+            "view_str": "b4ff61eb389571e2567e85ad8a8af397",
+            "bound_box": "480,252,1068,432",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.rocks.music.videoplayer:id/content"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    528,
+                    309
+                ],
+                [
+                    1020,
+                    374
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "492*65",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "1f2b960218635b1ade03b59ddd816a5a",
+            "bound_box": "528,309,1020,374",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    528,
+                    309
+                ],
+                [
+                    1020,
+                    374
+                ]
+            ],
+            "resource_id": "com.rocks.music.videoplayer:id/title",
+            "checked": false,
+            "text": "\u0938\u092d\u0940 \u0915\u093e \u091a\u092f\u0928 \u0915\u0930\u0947",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "492*65",
+            "signature": "[class]android.widget.TextView[resource_id]com.rocks.music.videoplayer:id/title[text]\u0938\u092d\u0940 \u0915\u093e \u091a\u092f\u0928 \u0915\u0930\u0947[enabled,,]",
+            "view_str": "79bf0fdffe99cad763a115bb6e8ab182",
+            "bound_box": "528,309,1020,374",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.rocks.music.videoplayer:id/title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=528,309,1020,374>\u0938\u092d\u0940 \u0915\u093e \u091a\u092f\u0928 \u0915\u0930\u0947</button>"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    432
+                ],
+                [
+                    1068,
+                    612
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 12,
+            "size": "588*180",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "526044ddee8f03f34ff4d050e33a15ab",
+            "bound_box": "480,432,1068,612",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    432
+                ],
+                [
+                    1068,
+                    612
+                ]
+            ],
+            "resource_id": "com.rocks.music.videoplayer:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "588*180",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.rocks.music.videoplayer:id/content[text]None[enabled,,]",
+            "view_str": "b4ff61eb389571e2567e85ad8a8af397",
+            "bound_box": "480,432,1068,612",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.rocks.music.videoplayer:id/content"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    528,
+                    489
+                ],
+                [
+                    1020,
+                    554
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "492*65",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "aeabc89faf0651f115c0a4931531dde6",
+            "bound_box": "528,489,1020,554",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    528,
+                    489
+                ],
+                [
+                    1020,
+                    554
+                ]
+            ],
+            "resource_id": "com.rocks.music.videoplayer:id/title",
+            "checked": false,
+            "text": "\u0924\u093e\u091c\u093c\u093e \u0915\u0930\u0928\u093e",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "492*65",
+            "signature": "[class]android.widget.TextView[resource_id]com.rocks.music.videoplayer:id/title[text]\u0924\u093e\u091c\u093c\u093e \u0915\u0930\u0928\u093e[enabled,,]",
+            "view_str": "bd5da2317ac72e3ee5a4b307991ed853",
+            "bound_box": "528,489,1020,554",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.rocks.music.videoplayer:id/title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=528,489,1020,554>\u0924\u093e\u091c\u093c\u093e \u0915\u0930\u0928\u093e</button>"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    612
+                ],
+                [
+                    1068,
+                    792
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 16,
+            "size": "588*180",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "526044ddee8f03f34ff4d050e33a15ab",
+            "bound_box": "480,612,1068,792",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                18
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    480,
+                    612
+                ],
+                [
+                    1068,
+                    792
+                ]
+            ],
+            "resource_id": "com.rocks.music.videoplayer:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "588*180",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.rocks.music.videoplayer:id/content[text]None[enabled,,]",
+            "view_str": "b4ff61eb389571e2567e85ad8a8af397",
+            "bound_box": "480,612,1068,792",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.rocks.music.videoplayer:id/content"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    528,
+                    669
+                ],
+                [
+                    1020,
+                    734
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 18,
+            "size": "492*65",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "7412975cbc5e479dad8d59c0d3824c66",
+            "bound_box": "528,669,1020,734",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.rocks.music.videoplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    528,
+                    669
+                ],
+                [
+                    1020,
+                    734
+                ]
+            ],
+            "resource_id": "com.rocks.music.videoplayer:id/title",
+            "checked": false,
+            "text": "\u0928\u093f\u091c\u0940 \u092b\u093c\u094b\u0932\u094d\u0921\u0930",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 18,
+            "temp_id": 19,
+            "size": "492*65",
+            "signature": "[class]android.widget.TextView[resource_id]com.rocks.music.videoplayer:id/title[text]\u0928\u093f\u091c\u0940 \u092b\u093c\u094b\u0932\u094d\u0921\u0930[enabled,,]",
+            "view_str": "c0e1d8d62d2d559f4324a15af0cf0a37",
+            "bound_box": "528,669,1020,734",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.rocks.music.videoplayer:id/title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button bound_box=528,669,1020,734>\u0928\u093f\u091c\u0940 \u092b\u093c\u094b\u0932\u094d\u0921\u0930</button>"
+        }
+    ]
+}

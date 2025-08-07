@@ -1,0 +1,910 @@
+{
+    "state_str": "08b900/b332ec",
+    "state_str_content_free": "dd1dd1/e380af",
+    "foreground_activity": "uk.co.metrobus/com.discoverpassenger.features.disruptions.ui.activity.DisruptionsActivity",
+    "activity_stack": [
+        "uk.co.metrobus/com.discoverpassenger.features.disruptions.ui.activity.DisruptionsActivity",
+        "uk.co.metrobus/com.discoverpassenger.features.services.ui.activity.ServicesActivity",
+        "uk.co.metrobus/com.discoverpassenger.features.tickets.ui.activity.TicketingActivity",
+        "uk.co.metrobus/com.discoverpassenger.features.explore.ui.activity.ExploreActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                20,
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "1e0c547d4b1bf6ca8b844ad94e6c37f7",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "8c5b00b1cb22c86b49f597a5fc6c668a",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "a7963ca42b0105eb224632e1c8cf52a6",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]uk.co.metrobus:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "353dd371b4270c368d069fa3a706240c",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]uk.co.metrobus:id/action_bar_root"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "f8c302f9895d44b191fca445fd80bcd3",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/drawer",
+            "checked": false,
+            "text": null,
+            "class": "androidx.drawerlayout.widget.DrawerLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1704",
+            "signature": "[class]androidx.drawerlayout.widget.DrawerLayout[resource_id]uk.co.metrobus:id/drawer[text]None[enabled,,]",
+            "view_str": "2b73ae8dacc7d727ad24b121e2b7b425",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]androidx.drawerlayout.widget.DrawerLayout[resource_id]uk.co.metrobus:id/drawer"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                12,
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/root_view",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1704",
+            "signature": "[class]android.view.ViewGroup[resource_id]uk.co.metrobus:id/root_view[text]None[enabled,,]",
+            "view_str": "ed7654a9d695aaf9525eb6e7df3112ac",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]uk.co.metrobus:id/root_view"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/appbar_layout",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "1080*168",
+            "signature": "[class]android.widget.LinearLayout[resource_id]uk.co.metrobus:id/appbar_layout[text]None[enabled,,]",
+            "view_str": "8657da0e56cfa09708ae33bcdaa1909c",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]uk.co.metrobus:id/appbar_layout"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9,
+                10,
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/default_toolbar",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "1080*168",
+            "signature": "[class]android.view.ViewGroup[resource_id]uk.co.metrobus:id/default_toolbar[text]None[enabled,,]",
+            "view_str": "597d3f4eaa1c2fe603a47cd7c57571ec",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]uk.co.metrobus:id/default_toolbar"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Navigation Menu",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    168,
+                    240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "168*168",
+            "signature": "[class]android.widget.ImageButton[resource_id]None[text]None[enabled,,]",
+            "view_str": "f0619ee7f66e4eb01a347a89cdd362d1",
+            "bound_box": "0,72,168,240",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button alt='Navigation Menu' bound_box=0,72,168,240></button>"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    216,
+                    116
+                ],
+                [
+                    606,
+                    195
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Service Updates",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 10,
+            "size": "390*79",
+            "signature": "[class]android.widget.TextView[resource_id]None[text]Service Updates[enabled,,]",
+            "view_str": "6513e501fff895c8f37d78b5e684a6cc",
+            "bound_box": "216,116,606,195",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<p bound_box=216,116,606,195>Service Updates</p>"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "androidx.appcompat.widget.LinearLayoutCompat",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 11,
+            "size": "0*168",
+            "signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]",
+            "view_str": "a7d46e0cf7552458f4d7b5fefc0e8333",
+            "bound_box": "1080,72,1080,240",
+            "content_free_signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/content_frame",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 12,
+            "size": "1080*1536",
+            "signature": "[class]android.widget.FrameLayout[resource_id]uk.co.metrobus:id/content_frame[text]None[enabled,,]",
+            "view_str": "9a8c8dc52e13aedc79c399ba6de7a1ae",
+            "bound_box": "0,240,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]uk.co.metrobus:id/content_frame"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/fragment_holder",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "1080*1536",
+            "signature": "[class]android.widget.FrameLayout[resource_id]uk.co.metrobus:id/fragment_holder[text]None[enabled,,]",
+            "view_str": "5c39fd7485924c7331f8a5bc03b20bcc",
+            "bound_box": "0,240,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]uk.co.metrobus:id/fragment_holder"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/refresh_layout",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "1080*1536",
+            "signature": "[class]android.view.ViewGroup[resource_id]uk.co.metrobus:id/refresh_layout[text]None[enabled,,]",
+            "view_str": "89d5f985f0cb808dcef08f26bef67c83",
+            "bound_box": "0,240,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]uk.co.metrobus:id/refresh_layout"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "1080*1536",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "4eebfd43fc91f2307888bd4a6252394a",
+            "bound_box": "0,240,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17,
+                18
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/error_state",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 16,
+            "size": "1080*1536",
+            "signature": "[class]android.view.ViewGroup[resource_id]uk.co.metrobus:id/error_state[text]None[enabled,,]",
+            "view_str": "3fd3c262a423e0d2833b53a9aa327212",
+            "bound_box": "0,240,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]uk.co.metrobus:id/error_state"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    108,
+                    911
+                ],
+                [
+                    972,
+                    982
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/error_title",
+            "checked": false,
+            "text": "Unknown error occurred.",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "864*71",
+            "signature": "[class]android.widget.TextView[resource_id]uk.co.metrobus:id/error_title[text]Unknown error occurred.[enabled,,]",
+            "view_str": "98c8a84ccae2f141b84437bfeb3b1725",
+            "bound_box": "108,911,972,982",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]uk.co.metrobus:id/error_title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<p bound_box=108,911,972,982>Unknown error occurred.</p>"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    408,
+                    1006
+                ],
+                [
+                    672,
+                    1177
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/error_retry",
+            "checked": false,
+            "text": "RETRY",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 18,
+            "size": "264*171",
+            "signature": "[class]android.widget.Button[resource_id]uk.co.metrobus:id/error_retry[text]RETRY[enabled,,]",
+            "view_str": "e397b9475e826b96819bbfde2cd0652f",
+            "bound_box": "408,1006,672,1177",
+            "content_free_signature": "[class]android.widget.Button[resource_id]uk.co.metrobus:id/error_retry",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button bound_box=408,1006,672,1177>RETRY</button>"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "uk.co.metrobus:id/bottom_sheet",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 19,
+            "size": "1080*0",
+            "signature": "[class]android.widget.FrameLayout[resource_id]uk.co.metrobus:id/bottom_sheet[text]None[enabled,,]",
+            "view_str": "93bc461e7c3e7fc2475a7affa36edce4",
+            "bound_box": "0,1776,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]uk.co.metrobus:id/bottom_sheet"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 20,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "020261349985e6c4b8cbe2783b982d1d",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "uk.co.metrobus",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 21,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "32afee4c7ae81e3b770be79ff88929ca",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

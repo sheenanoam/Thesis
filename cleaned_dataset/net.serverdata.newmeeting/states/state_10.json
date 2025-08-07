@@ -1,0 +1,953 @@
+{
+    "state_str": "310c70/fae476",
+    "state_str_content_free": "0cbb44/40e503",
+    "foreground_activity": "net.serverdata.newmeeting/net.whitelabel.anymeeting.ui.MainActivity",
+    "activity_stack": [
+        "net.serverdata.newmeeting/net.whitelabel.anymeeting.ui.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                21,
+                22
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "972f15698c5b6711909a7bf416301856",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "a1255c8129e06e440ef357ea3fd091c5",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c898088b4c80301805bd3982cee9eb5a",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]net.serverdata.newmeeting:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "c3ef978efc882bb66bb0761ebb9cf121",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]net.serverdata.newmeeting:id/action_bar_root"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "5a3d9c8d835e28225602b9243b6864af",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/activityRoot",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]net.serverdata.newmeeting:id/activityRoot[text]None[enabled,,]",
+            "view_str": "8598c3ebe420480b366f9199b8691ded",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]net.serverdata.newmeeting:id/activityRoot"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/mainActivityNavHostFragment",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.FrameLayout[resource_id]net.serverdata.newmeeting:id/mainActivityNavHostFragment[text]None[enabled,,]",
+            "view_str": "1ed5a94a9e7eba22eba4c588d577e236",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.serverdata.newmeeting:id/mainActivityNavHostFragment"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8,
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "faa5ce214069c3903e04940617b83fa2",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/appbar",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "1080*168",
+            "signature": "[class]android.widget.LinearLayout[resource_id]net.serverdata.newmeeting:id/appbar[text]None[enabled,,]",
+            "view_str": "8d8a3d5dcb7df9aa6980231d41ea3600",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]net.serverdata.newmeeting:id/appbar"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/toolbar",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "1080*168",
+            "signature": "[class]android.view.ViewGroup[resource_id]net.serverdata.newmeeting:id/toolbar[text]None[enabled,,]",
+            "view_str": "2f5b9a360b161303167cace85781945a",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]net.serverdata.newmeeting:id/toolbar"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "androidx.appcompat.widget.LinearLayoutCompat",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "144*168",
+            "signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]",
+            "view_str": "09baf55e3e5dcf1a9eb70ae769523ac8",
+            "bound_box": "936,72,1080,240",
+            "content_free_signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Settings",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    84
+                ],
+                [
+                    1080,
+                    228
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/settings_item",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "144*144",
+            "signature": "[class]android.widget.Button[resource_id]net.serverdata.newmeeting:id/settings_item[text]None[enabled,,]",
+            "view_str": "8b7f37fee8cff486679eb7f1d6819df5",
+            "bound_box": "936,84,1080,228",
+            "content_free_signature": "[class]android.widget.Button[resource_id]net.serverdata.newmeeting:id/settings_item",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button alt='Settings' bound_box=936,84,1080,228></button>"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ScrollView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 12,
+            "size": "1080*1536",
+            "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+            "view_str": "1a8ca4f1f7d5af9c524ebc45bf659796",
+            "bound_box": "0,240,1080,1776",
+            "content_free_signature": "[class]android.widget.ScrollView[resource_id]None"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "1080*1536",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "39d0c1b36547531e54dade4d76f8a6b5",
+            "bound_box": "0,240,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    240
+                ],
+                [
+                    1008,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "936*1536",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "4d55ae09e0bba72bbb9fb7c461e0c912",
+            "bound_box": "72,240,1008,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": "Login",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    243
+                ],
+                [
+                    1008,
+                    894
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/promoImage",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "936*651",
+            "signature": "[class]android.widget.ImageView[resource_id]net.serverdata.newmeeting:id/promoImage[text]None[enabled,,]",
+            "view_str": "be68bc6ae4cea1a6f2bb880f2f89b927",
+            "bound_box": "72,243,1008,894",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]net.serverdata.newmeeting:id/promoImage",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<p alt='Login' bound_box=72,243,1008,894></p>"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    121,
+                    942
+                ],
+                [
+                    959,
+                    1211
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/joinTitle",
+            "checked": false,
+            "text": "Join and host\n meetings on-the-go!",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 16,
+            "size": "838*269",
+            "signature": "[class]android.widget.TextView[resource_id]net.serverdata.newmeeting:id/joinTitle[text]Join and host\n meetings on-the-go![enabled,,]",
+            "view_str": "8ffddc7a6b87ef82eb8a23a0ce1375c3",
+            "bound_box": "121,942,959,1211",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]net.serverdata.newmeeting:id/joinTitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<p bound_box=121,942,959,1211>Join and host\n meetings on-the-go!</p>"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    1283
+                ],
+                [
+                    1008,
+                    1432
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/joinBtn",
+            "checked": false,
+            "text": "Join meeting",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 17,
+            "size": "936*149",
+            "signature": "[class]android.widget.Button[resource_id]net.serverdata.newmeeting:id/joinBtn[text]Join meeting[enabled,,]",
+            "view_str": "667a9812ee41b11b5fa57559aba7cabd",
+            "bound_box": "72,1283,1008,1432",
+            "content_free_signature": "[class]android.widget.Button[resource_id]net.serverdata.newmeeting:id/joinBtn",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button bound_box=72,1283,1008,1432>Join meeting</button>"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    1480
+                ],
+                [
+                    1008,
+                    1629
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/startBtn",
+            "checked": false,
+            "text": "Sign in",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 18,
+            "size": "936*149",
+            "signature": "[class]android.widget.Button[resource_id]net.serverdata.newmeeting:id/startBtn[text]Sign in[enabled,,]",
+            "view_str": "e96bf02f26b2a3e9fcc7c0498a06f1fd",
+            "bound_box": "72,1480,1008,1629",
+            "content_free_signature": "[class]android.widget.Button[resource_id]net.serverdata.newmeeting:id/startBtn",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<button bound_box=72,1480,1008,1629>Sign in</button>"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                20
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    468,
+                    1632
+                ],
+                [
+                    612,
+                    1776
+                ]
+            ],
+            "resource_id": "net.serverdata.newmeeting:id/frameLayout",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 19,
+            "size": "144*144",
+            "signature": "[class]android.widget.FrameLayout[resource_id]net.serverdata.newmeeting:id/frameLayout[text]None[enabled,,]",
+            "view_str": "3399e0fb336def45fca3169f6b778e77",
+            "bound_box": "468,1632,612,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.serverdata.newmeeting:id/frameLayout"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    1704
+                ],
+                [
+                    540,
+                    1704
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 20,
+            "size": "0*0",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "61e5cb4cc5bd9eacf9837b61d15759fc",
+            "bound_box": "540,1704,540,1704",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 21,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "fdce2714105a716f78fd294eb8d97925",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "net.serverdata.newmeeting",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 22,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "0715c6ba65e5ad9cd1674199314bcdb3",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

@@ -1,0 +1,721 @@
+{
+    "state_str": "34120b/4870ce",
+    "state_str_content_free": "0cbb44/0f2ca5",
+    "foreground_activity": "com.maxmpz.audioplayer/com.maxmpz.widget.base.AlertDialogActivity",
+    "activity_stack": [
+        "com.maxmpz.audioplayer/com.maxmpz.widget.base.AlertDialogActivity",
+        "com.maxmpz.audioplayer/.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "7bd101fa3f6f65cbdb6a6ffa30f20947",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "3dc2064c6fdef4b08cac5a7053c416c3",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3,
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "e33d43bb254ac5d27fceb88920be3a6d",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": "Close",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/dialog_shim",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1920",
+            "signature": "[class]android.view.View[resource_id]com.maxmpz.audioplayer:id/dialog_shim[text]None[enabled,,]",
+            "view_str": "10375802152a739e6036f69b7d7de015",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]com.maxmpz.audioplayer:id/dialog_shim",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button alt='Close' bound_box=0,0,1080,1920></button>"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5,
+                6,
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/dialog_outer_layout",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 4,
+            "size": "1080*1920",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/dialog_outer_layout[text]None[enabled,,]",
+            "view_str": "867309866ca900d830e87b4670c944d7",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/dialog_outer_layout"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/menu_placeholder",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1920",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/menu_placeholder[text]None[enabled,,]",
+            "view_str": "9e6dc5ce6abcfb653ac8884264347e8f",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/menu_placeholder"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                9,
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    610
+                ],
+                [
+                    1080,
+                    1237
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/dialog_frame",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 6,
+            "size": "1080*627",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/dialog_frame[text]None[enabled,,]",
+            "view_str": "bde6ad021f971fdc6f21009004e51ff4",
+            "bound_box": "0,610,1080,1237",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/dialog_frame"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    682
+                ],
+                [
+                    984,
+                    747
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/dialog_title_layout",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "888*65",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/dialog_title_layout[text]None[enabled,,]",
+            "view_str": "ed858c9ecfe4f38a934f509a7c3367a8",
+            "bound_box": "96,682,984,747",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/dialog_title_layout"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    691
+                ],
+                [
+                    984,
+                    747
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/title",
+            "checked": false,
+            "text": "Bass",
+            "class": "com.maxmpz.widget.base.FastTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "888*56",
+            "signature": "[class]com.maxmpz.widget.base.FastTextView[resource_id]com.maxmpz.audioplayer:id/title[text]Bass[enabled,,]",
+            "view_str": "c11d21444df509e03e8c8e3af0d6f81c",
+            "bound_box": "96,691,984,747",
+            "content_free_signature": "[class]com.maxmpz.widget.base.FastTextView[resource_id]com.maxmpz.audioplayer:id/title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=96,691,984,747>Bass</button>"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10,
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    747
+                ],
+                [
+                    1056,
+                    1045
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 9,
+            "size": "1032*298",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/content[text]None[enabled,,]",
+            "view_str": "83278a58be455751d2e6a412f3825d67",
+            "bound_box": "24,747,1056,1045",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/content"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": true,
+            "bounds": [
+                [
+                    96,
+                    783
+                ],
+                [
+                    984,
+                    906
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/edit_text",
+            "checked": false,
+            "text": "0",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "888*123",
+            "signature": "[class]android.widget.EditText[resource_id]com.maxmpz.audioplayer:id/edit_text[text]0[enabled,,]",
+            "view_str": "88b2079f1d20584e3ba76c153d8f82ca",
+            "bound_box": "96,783,984,906",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]com.maxmpz.audioplayer:id/edit_text",
+            "allowed_actions": [
+                "touch",
+                "set_text",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<input bound_box=96,783,984,906>0</input>"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    942
+                ],
+                [
+                    984,
+                    1033
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/hint_below",
+            "checked": false,
+            "text": "The value change may result in a volume jump. Take off headphones before changing!",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 11,
+            "size": "888*91",
+            "signature": "[class]android.widget.TextView[resource_id]com.maxmpz.audioplayer:id/hint_below[text]None[enabled,,]",
+            "view_str": "2e1d6b3d4bb2e52142293b2e8c346b08",
+            "bound_box": "96,942,984,1033",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.maxmpz.audioplayer:id/hint_below",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button bound_box=96,942,984,1033>The value change may result in a volume jump. Take</button>"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13,
+                14,
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    1045
+                ],
+                [
+                    1056,
+                    1213
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/buttons_layout",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 12,
+            "size": "1032*168",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/buttons_layout[text]None[enabled,,]",
+            "view_str": "9c601986d3ca8eb29ae987000288aaaa",
+            "bound_box": "24,1045,1056,1213",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/buttons_layout"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    1057
+                ],
+                [
+                    599,
+                    1057
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/button_space",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "527*0",
+            "signature": "[class]android.view.View[resource_id]com.maxmpz.audioplayer:id/button_space[text]None[enabled,,]",
+            "view_str": "38362c6d9c7eb68ad5ec86c50d695e98",
+            "bound_box": "72,1057,599,1057",
+            "content_free_signature": "[class]android.view.View[resource_id]com.maxmpz.audioplayer:id/button_space"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    599,
+                    1057
+                ],
+                [
+                    816,
+                    1201
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/button2",
+            "checked": false,
+            "text": "Cancel",
+            "class": "com.maxmpz.widget.base.FastTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 14,
+            "size": "217*144",
+            "signature": "[class]com.maxmpz.widget.base.FastTextView[resource_id]com.maxmpz.audioplayer:id/button2[text]Cancel[enabled,,]",
+            "view_str": "eb5ebc347317efd49afd644791e9b5b1",
+            "bound_box": "599,1057,816,1201",
+            "content_free_signature": "[class]com.maxmpz.widget.base.FastTextView[resource_id]com.maxmpz.audioplayer:id/button2",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<button bound_box=599,1057,816,1201>Cancel</button>"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    816,
+                    1057
+                ],
+                [
+                    1008,
+                    1201
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/button1",
+            "checked": false,
+            "text": "OK",
+            "class": "com.maxmpz.widget.base.FastTextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 15,
+            "size": "192*144",
+            "signature": "[class]com.maxmpz.widget.base.FastTextView[resource_id]com.maxmpz.audioplayer:id/button1[text]OK[enabled,,]",
+            "view_str": "7a1eaabb0b88106de063b11e07e5c091",
+            "bound_box": "816,1057,1008,1201",
+            "content_free_signature": "[class]com.maxmpz.widget.base.FastTextView[resource_id]com.maxmpz.audioplayer:id/button1",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<button bound_box=816,1057,1008,1201>OK</button>"
+        },
+        {
+            "package": "com.maxmpz.audioplayer",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1320
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.maxmpz.audioplayer:id/toast_container",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 16,
+            "size": "1080*600",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/toast_container[text]None[enabled,,]",
+            "view_str": "dbca7b298ae132528fa894da012e13e0",
+            "bound_box": "0,1320,1080,1920",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.maxmpz.audioplayer:id/toast_container"
+        }
+    ]
+}

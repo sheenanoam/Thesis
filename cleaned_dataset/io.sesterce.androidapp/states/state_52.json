@@ -1,0 +1,958 @@
+{
+    "state_str": "08b900/703e38",
+    "state_str_content_free": "dd1dd1/57e2e6",
+    "foreground_activity": "io.sesterce.androidapp/.spending.SpendingEditActivity",
+    "activity_stack": [
+        "io.sesterce.androidapp/.spending.SpendingEditActivity",
+        "io.sesterce.androidapp/.spendinglist.SpendingListActivity",
+        "io.sesterce.androidapp/.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    189
+                ],
+                [
+                    650,
+                    957
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "626*768",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "542decad4ba6db4cec86931884d8b576",
+            "bound_box": "24,189,650,957",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    189
+                ],
+                [
+                    650,
+                    957
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "626*768",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "266f507d1c15410d07d3ecc808eef44b",
+            "bound_box": "24,189,650,957",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3,
+                7,
+                11,
+                15,
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    213
+                ],
+                [
+                    650,
+                    933
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ListView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "626*720",
+            "signature": "[class]android.widget.ListView[resource_id]None[text]None[enabled,,]",
+            "view_str": "951119f9f68d9ffcd1fd080f88a00ace",
+            "bound_box": "24,213,650,933",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    213
+                ],
+                [
+                    650,
+                    357
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "626*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "3c3a832259b9cb4b48d8c55423a816f4",
+            "bound_box": "24,213,650,357",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    213
+                ],
+                [
+                    650,
+                    357
+                ]
+            ],
+            "resource_id": "io.sesterce.androidapp:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "626*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]io.sesterce.androidapp:id/content[text]None[enabled,,]",
+            "view_str": "400790d62a5c8c6ce011f114342e95c7",
+            "bound_box": "24,213,650,357",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]io.sesterce.androidapp:id/content"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    252
+                ],
+                [
+                    602,
+                    317
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "530*65",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "64366cdb52712bbd2ba3cc454a79aa61",
+            "bound_box": "72,252,602,317",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    252
+                ],
+                [
+                    602,
+                    317
+                ]
+            ],
+            "resource_id": "io.sesterce.androidapp:id/title",
+            "checked": false,
+            "text": "Alicia",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "530*65",
+            "signature": "[class]android.widget.TextView[resource_id]io.sesterce.androidapp:id/title[text]Alicia[enabled,,]",
+            "view_str": "297c6f18de4aa2b220bd6676dae39a44",
+            "bound_box": "72,252,602,317",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]io.sesterce.androidapp:id/title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button bound_box=72,252,602,317>Alicia</button>"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    357
+                ],
+                [
+                    650,
+                    501
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 7,
+            "size": "626*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "3c3a832259b9cb4b48d8c55423a816f4",
+            "bound_box": "24,357,650,501",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    357
+                ],
+                [
+                    650,
+                    501
+                ]
+            ],
+            "resource_id": "io.sesterce.androidapp:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "626*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]io.sesterce.androidapp:id/content[text]None[enabled,,]",
+            "view_str": "400790d62a5c8c6ce011f114342e95c7",
+            "bound_box": "24,357,650,501",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]io.sesterce.androidapp:id/content"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    396
+                ],
+                [
+                    602,
+                    461
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "530*65",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "8413765c6f2bde5835fb01e7a1c428a6",
+            "bound_box": "72,396,602,461",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    396
+                ],
+                [
+                    602,
+                    461
+                ]
+            ],
+            "resource_id": "io.sesterce.androidapp:id/title",
+            "checked": false,
+            "text": "Ben",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "530*65",
+            "signature": "[class]android.widget.TextView[resource_id]io.sesterce.androidapp:id/title[text]Ben[enabled,,]",
+            "view_str": "24c7dab17520a03cca22bbe8c2742ca0",
+            "bound_box": "72,396,602,461",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]io.sesterce.androidapp:id/title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=72,396,602,461>Ben</button>"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    501
+                ],
+                [
+                    650,
+                    645
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 11,
+            "size": "626*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "3c3a832259b9cb4b48d8c55423a816f4",
+            "bound_box": "24,501,650,645",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    501
+                ],
+                [
+                    650,
+                    645
+                ]
+            ],
+            "resource_id": "io.sesterce.androidapp:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "626*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]io.sesterce.androidapp:id/content[text]None[enabled,,]",
+            "view_str": "400790d62a5c8c6ce011f114342e95c7",
+            "bound_box": "24,501,650,645",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]io.sesterce.androidapp:id/content"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    540
+                ],
+                [
+                    602,
+                    605
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "530*65",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "bc31f71de4cad90bce0d922a385ac5e9",
+            "bound_box": "72,540,602,605",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    540
+                ],
+                [
+                    602,
+                    605
+                ]
+            ],
+            "resource_id": "io.sesterce.androidapp:id/title",
+            "checked": false,
+            "text": "Jen",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "530*65",
+            "signature": "[class]android.widget.TextView[resource_id]io.sesterce.androidapp:id/title[text]Jen[enabled,,]",
+            "view_str": "5078922598dfa887154141bbddef75ee",
+            "bound_box": "72,540,602,605",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]io.sesterce.androidapp:id/title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=72,540,602,605>Jen</button>"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    645
+                ],
+                [
+                    650,
+                    789
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 15,
+            "size": "626*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "3c3a832259b9cb4b48d8c55423a816f4",
+            "bound_box": "24,645,650,789",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    645
+                ],
+                [
+                    650,
+                    789
+                ]
+            ],
+            "resource_id": "io.sesterce.androidapp:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 16,
+            "size": "626*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]io.sesterce.androidapp:id/content[text]None[enabled,,]",
+            "view_str": "400790d62a5c8c6ce011f114342e95c7",
+            "bound_box": "24,645,650,789",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]io.sesterce.androidapp:id/content"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                18
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    684
+                ],
+                [
+                    602,
+                    749
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "530*65",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "536e1836d53de621852805d889fe2e69",
+            "bound_box": "72,684,602,749",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    684
+                ],
+                [
+                    602,
+                    749
+                ]
+            ],
+            "resource_id": "io.sesterce.androidapp:id/title",
+            "checked": false,
+            "text": "Tom",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 18,
+            "size": "530*65",
+            "signature": "[class]android.widget.TextView[resource_id]io.sesterce.androidapp:id/title[text]Tom[enabled,,]",
+            "view_str": "acc2ac97520c6f574b92027d79a91dfc",
+            "bound_box": "72,684,602,749",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]io.sesterce.androidapp:id/title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button bound_box=72,684,602,749>Tom</button>"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                20
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    789
+                ],
+                [
+                    650,
+                    933
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 19,
+            "size": "626*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "3c3a832259b9cb4b48d8c55423a816f4",
+            "bound_box": "24,789,650,933",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    24,
+                    789
+                ],
+                [
+                    650,
+                    933
+                ]
+            ],
+            "resource_id": "io.sesterce.androidapp:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 20,
+            "size": "626*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]io.sesterce.androidapp:id/content[text]None[enabled,,]",
+            "view_str": "400790d62a5c8c6ce011f114342e95c7",
+            "bound_box": "24,789,650,933",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]io.sesterce.androidapp:id/content"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                22
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    828
+                ],
+                [
+                    602,
+                    893
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 20,
+            "temp_id": 21,
+            "size": "530*65",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "45b9cf609906c3d73c6500a8a3fb5dcb",
+            "bound_box": "72,828,602,893",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "io.sesterce.androidapp",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    72,
+                    828
+                ],
+                [
+                    602,
+                    893
+                ]
+            ],
+            "resource_id": "io.sesterce.androidapp:id/title",
+            "checked": false,
+            "text": "Select multiple members",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 21,
+            "temp_id": 22,
+            "size": "530*65",
+            "signature": "[class]android.widget.TextView[resource_id]io.sesterce.androidapp:id/title[text]Select multiple members[enabled,,]",
+            "view_str": "7d503e08a7448f5a426b72260efff32e",
+            "bound_box": "72,828,602,893",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]io.sesterce.androidapp:id/title",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<button bound_box=72,828,602,893>Select multiple members</button>"
+        }
+    ]
+}

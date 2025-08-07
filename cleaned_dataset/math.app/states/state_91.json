@@ -1,0 +1,1424 @@
+{
+    "state_str": "c408f9/b1200c",
+    "state_str_content_free": "0cbb44/cc192e",
+    "foreground_activity": "math.app/.Multiply",
+    "activity_stack": [
+        "math.app/.Multiply",
+        "math.app/.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                31,
+                32
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c8b018f734bc61fa4aa042d90cbdd026",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "b43bef09fa86333179ea781e1b806e14",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "41b85be19ddbc6e5bfdbe6f5eee78cbd",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "math.app:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]math.app:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "7d642e33de326e1ea47d560ce66fa2a7",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]math.app:id/action_bar_root"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "3f8a6adb963423d143e65c943ae5f976",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 25,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1704",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "6ae9d4da446943bf5fa355513e0cd281",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "math.app:id/imageView2",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.ImageView[resource_id]math.app:id/imageView2[text]None[enabled,,]",
+            "view_str": "df6d6edc3e35788a6d010786e67dba5c",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]math.app:id/imageView2"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    87,
+                    123
+                ],
+                [
+                    691,
+                    259
+                ]
+            ],
+            "resource_id": "math.app:id/chooseDiff",
+            "checked": false,
+            "text": "Choose difficulty:",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 7,
+            "size": "604*136",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/chooseDiff[text]Choose difficulty:[enabled,,]",
+            "view_str": "8a42bb83e6d386473b812d90c81b1e9e",
+            "bound_box": "87,123,691,259",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/chooseDiff",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=87,123,691,259>Choose difficulty:</p>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    87,
+                    259
+                ],
+                [
+                    389,
+                    362
+                ]
+            ],
+            "resource_id": "math.app:id/easyDifficulty",
+            "checked": false,
+            "text": "Easy",
+            "class": "android.widget.CheckBox",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 8,
+            "size": "302*103",
+            "signature": "[class]android.widget.CheckBox[resource_id]math.app:id/easyDifficulty[text]Easy[enabled,,]",
+            "view_str": "65e781514c8a2a121b76a2629ef9242c",
+            "bound_box": "87,259,389,362",
+            "content_free_signature": "[class]android.widget.CheckBox[resource_id]math.app:id/easyDifficulty",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<checkbox bound_box=87,259,389,362>Easy</checkbox>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    389,
+                    259
+                ],
+                [
+                    691,
+                    362
+                ]
+            ],
+            "resource_id": "math.app:id/mediumDifficulty",
+            "checked": false,
+            "text": "Medium",
+            "class": "android.widget.CheckBox",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 9,
+            "size": "302*103",
+            "signature": "[class]android.widget.CheckBox[resource_id]math.app:id/mediumDifficulty[text]Medium[enabled,,]",
+            "view_str": "aa5e621e3c0fee694b9b3f398dc2cb5f",
+            "bound_box": "389,259,691,362",
+            "content_free_signature": "[class]android.widget.CheckBox[resource_id]math.app:id/mediumDifficulty",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<checkbox bound_box=389,259,691,362>Medium</checkbox>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    691,
+                    259
+                ],
+                [
+                    996,
+                    362
+                ]
+            ],
+            "resource_id": "math.app:id/hardDifficulty",
+            "checked": true,
+            "text": "Hard",
+            "class": "android.widget.CheckBox",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 10,
+            "size": "305*103",
+            "signature": "[class]android.widget.CheckBox[resource_id]math.app:id/hardDifficulty[text]Hard[enabled,checked,]",
+            "view_str": "eff5a5114911876bbe1549c85ad6fcff",
+            "bound_box": "691,259,996,362",
+            "content_free_signature": "[class]android.widget.CheckBox[resource_id]math.app:id/hardDifficulty",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [
+                "selected"
+            ],
+            "local_id": "3",
+            "desc": "<checkbox bound_box=691,259,996,362>Hard</checkbox>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    825,
+                    108
+                ],
+                [
+                    996,
+                    279
+                ]
+            ],
+            "resource_id": "math.app:id/trophyBtn",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 11,
+            "size": "171*171",
+            "signature": "[class]android.widget.ImageButton[resource_id]math.app:id/trophyBtn[text]None[enabled,,]",
+            "view_str": "5f7cd029538229a05201df82bbf47a99",
+            "bound_box": "825,108,996,279",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]math.app:id/trophyBtn"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    87,
+                    447
+                ],
+                [
+                    540,
+                    583
+                ]
+            ],
+            "resource_id": "math.app:id/incorrectCount",
+            "checked": false,
+            "text": "0",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 12,
+            "size": "453*136",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/incorrectCount[text]0[enabled,,]",
+            "view_str": "8308af1cf58fdc7598d40cb6e793dc51",
+            "bound_box": "87,447,540,583",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/incorrectCount",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<p bound_box=87,447,540,583>0</p>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    540,
+                    447
+                ],
+                [
+                    996,
+                    583
+                ]
+            ],
+            "resource_id": "math.app:id/correctCount",
+            "checked": false,
+            "text": "0",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 13,
+            "size": "456*136",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/correctCount[text]0[enabled,,]",
+            "view_str": "840a1520b4525188b0c055e2dc1b3e36",
+            "bound_box": "540,447,996,583",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/correctCount",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<p bound_box=540,447,996,583>0</p>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    184,
+                    617
+                ],
+                [
+                    486,
+                    788
+                ]
+            ],
+            "resource_id": "math.app:id/firstMultiplier",
+            "checked": false,
+            "text": "14",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 14,
+            "size": "302*171",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/firstMultiplier[text]14[enabled,,]",
+            "view_str": "7a8d16dde9784ef4120e42dbfd9ae8f3",
+            "bound_box": "184,617,486,788",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/firstMultiplier",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<p bound_box=184,617,486,788>14</p>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    486,
+                    617
+                ],
+                [
+                    594,
+                    788
+                ]
+            ],
+            "resource_id": "math.app:id/multiply",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 15,
+            "size": "108*171",
+            "signature": "[class]android.widget.ImageView[resource_id]math.app:id/multiply[text]None[enabled,,]",
+            "view_str": "ed257560452e4b7220bd45f7b4d4bbcc",
+            "bound_box": "486,617,594,788",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]math.app:id/multiply"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    594,
+                    617
+                ],
+                [
+                    896,
+                    788
+                ]
+            ],
+            "resource_id": "math.app:id/secondMultiplier",
+            "checked": false,
+            "text": "87",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 16,
+            "size": "302*171",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/secondMultiplier[text]87[enabled,,]",
+            "view_str": "e391bdccb5092717ab6bc469be5b4f08",
+            "bound_box": "594,617,896,788",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/secondMultiplier",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<p bound_box=594,617,896,788>87</p>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    896,
+                    617
+                ],
+                [
+                    996,
+                    788
+                ]
+            ],
+            "resource_id": "math.app:id/equals",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 17,
+            "size": "100*171",
+            "signature": "[class]android.widget.ImageView[resource_id]math.app:id/equals[text]None[enabled,,]",
+            "view_str": "41fc70b5b2c5898504f620c55e3b8b3a",
+            "bound_box": "896,617,996,788",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]math.app:id/equals"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    184,
+                    788
+                ],
+                [
+                    896,
+                    975
+                ]
+            ],
+            "resource_id": "math.app:id/result",
+            "checked": false,
+            "text": "8148",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 18,
+            "size": "712*187",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/result[text]8148[enabled,,]",
+            "view_str": "93bd2eb3937038a8e4f6113116e31e76",
+            "bound_box": "184,788,896,975",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/result",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<p bound_box=184,788,896,975>8148</p>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    102,
+                    1075
+                ],
+                [
+                    374,
+                    1216
+                ]
+            ],
+            "resource_id": "math.app:id/number7",
+            "checked": false,
+            "text": "7",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 19,
+            "size": "272*141",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/number7[text]7[enabled,,]",
+            "view_str": "8982ce27bacbe403630c402e2edf24d1",
+            "bound_box": "102,1075,374,1216",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/number7",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<button bound_box=102,1075,374,1216>7</button>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    404,
+                    1075
+                ],
+                [
+                    676,
+                    1216
+                ]
+            ],
+            "resource_id": "math.app:id/number8",
+            "checked": false,
+            "text": "8",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 20,
+            "size": "272*141",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/number8[text]8[enabled,,]",
+            "view_str": "b1214e35cebc71f64db3f706f1b33ec6",
+            "bound_box": "404,1075,676,1216",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/number8",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<button bound_box=404,1075,676,1216>8</button>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    706,
+                    1075
+                ],
+                [
+                    981,
+                    1216
+                ]
+            ],
+            "resource_id": "math.app:id/number9",
+            "checked": false,
+            "text": "9",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 21,
+            "size": "275*141",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/number9[text]9[enabled,,]",
+            "view_str": "8baaf60569bf02a31b05bc376e842ece",
+            "bound_box": "706,1075,981,1216",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/number9",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<button bound_box=706,1075,981,1216>9</button>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    102,
+                    1246
+                ],
+                [
+                    374,
+                    1386
+                ]
+            ],
+            "resource_id": "math.app:id/number4",
+            "checked": false,
+            "text": "4",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 22,
+            "size": "272*140",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/number4[text]4[enabled,,]",
+            "view_str": "d57a8348d87ff3282a08b5a9d015cc88",
+            "bound_box": "102,1246,374,1386",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/number4",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "12",
+            "desc": "<button bound_box=102,1246,374,1386>4</button>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    404,
+                    1246
+                ],
+                [
+                    676,
+                    1386
+                ]
+            ],
+            "resource_id": "math.app:id/number5",
+            "checked": false,
+            "text": "5",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 23,
+            "size": "272*140",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/number5[text]5[enabled,,]",
+            "view_str": "3e93a834c8a90a7672add7530b3c3fc9",
+            "bound_box": "404,1246,676,1386",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/number5",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "13",
+            "desc": "<button bound_box=404,1246,676,1386>5</button>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    706,
+                    1246
+                ],
+                [
+                    981,
+                    1386
+                ]
+            ],
+            "resource_id": "math.app:id/number6",
+            "checked": false,
+            "text": "6",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 24,
+            "size": "275*140",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/number6[text]6[enabled,,]",
+            "view_str": "56fcea83eabbaa8d562c6bf93d08192c",
+            "bound_box": "706,1246,981,1386",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/number6",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "14",
+            "desc": "<button bound_box=706,1246,981,1386>6</button>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    102,
+                    1416
+                ],
+                [
+                    374,
+                    1557
+                ]
+            ],
+            "resource_id": "math.app:id/number1",
+            "checked": false,
+            "text": "1",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 25,
+            "size": "272*141",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/number1[text]1[enabled,,]",
+            "view_str": "181ac24df50016d107667eb49eba57dc",
+            "bound_box": "102,1416,374,1557",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/number1",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "15",
+            "desc": "<button bound_box=102,1416,374,1557>1</button>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    404,
+                    1416
+                ],
+                [
+                    676,
+                    1557
+                ]
+            ],
+            "resource_id": "math.app:id/number2",
+            "checked": false,
+            "text": "2",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 26,
+            "size": "272*141",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/number2[text]2[enabled,,]",
+            "view_str": "175d0dbd827f6ebb83440ee55438fe78",
+            "bound_box": "404,1416,676,1557",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/number2",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "16",
+            "desc": "<button bound_box=404,1416,676,1557>2</button>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    706,
+                    1416
+                ],
+                [
+                    981,
+                    1557
+                ]
+            ],
+            "resource_id": "math.app:id/number3",
+            "checked": false,
+            "text": "3",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 27,
+            "size": "275*141",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/number3[text]3[enabled,,]",
+            "view_str": "3f71df7847126f8c82dbe68180cd0c09",
+            "bound_box": "706,1416,981,1557",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/number3",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "17",
+            "desc": "<button bound_box=706,1416,981,1557>3</button>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    87,
+                    1572
+                ],
+                [
+                    389,
+                    1742
+                ]
+            ],
+            "resource_id": "math.app:id/delOneBtn",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 28,
+            "size": "302*170",
+            "signature": "[class]android.widget.Button[resource_id]math.app:id/delOneBtn[text]None[enabled,,]",
+            "view_str": "d1018b88c69bf21f36efc963b631e119",
+            "bound_box": "87,1572,389,1742",
+            "content_free_signature": "[class]android.widget.Button[resource_id]math.app:id/delOneBtn"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    404,
+                    1587
+                ],
+                [
+                    676,
+                    1727
+                ]
+            ],
+            "resource_id": "math.app:id/number0",
+            "checked": false,
+            "text": "0",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 29,
+            "size": "272*140",
+            "signature": "[class]android.widget.TextView[resource_id]math.app:id/number0[text]0[enabled,,]",
+            "view_str": "6966e5df6d433fb09facb13ffa1868c5",
+            "bound_box": "404,1587,676,1727",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]math.app:id/number0",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "18",
+            "desc": "<button bound_box=404,1587,676,1727>0</button>"
+        },
+        {
+            "package": "math.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    706,
+                    1587
+                ],
+                [
+                    981,
+                    1727
+                ]
+            ],
+            "resource_id": "math.app:id/acceptBtn",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 30,
+            "size": "275*140",
+            "signature": "[class]android.widget.ImageButton[resource_id]math.app:id/acceptBtn[text]None[enabled,,]",
+            "view_str": "67c7a0551ac9e1c307f003dbbb332911",
+            "bound_box": "706,1587,981,1727",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]math.app:id/acceptBtn"
+        },
+        {
+            "package": "math.app",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 31,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "f377c9e3e67c11f3738e94cfb0c964f0",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "math.app",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 32,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "8425217cd85ab5887089f898afdae922",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

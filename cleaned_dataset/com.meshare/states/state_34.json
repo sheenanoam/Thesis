@@ -1,0 +1,821 @@
+{
+    "state_str": "08b900/f8e2d1",
+    "state_str_content_free": "dd1dd1/d6e6ae",
+    "foreground_activity": "com.meshare/.ui.login.StartActivity",
+    "activity_stack": [
+        "com.meshare/.ui.login.StartActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                18,
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "9d6614aeb669bfbc8ca4b421898e3774",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "9a301b606b80df657f7ddf96366f397d",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "f8fffd06ece5fe6384e2aa1381eb0eee",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.meshare:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.meshare:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "c0ff540c7208fbf2e68020cb252a6fdf",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.meshare:id/action_bar_root"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "28e856723080bc126ce32babbf5b6c19",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6,
+                7,
+                8,
+                11
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "652ee59aa8afad2de3f267cb432cd981",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.meshare:id/background",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.ImageView[resource_id]com.meshare:id/background[text]None[enabled,,]",
+            "view_str": "69286c7aae20102f3297e263e7c31226",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.meshare:id/background"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.meshare:id/start_bg_view",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 7,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.ImageView[resource_id]com.meshare:id/start_bg_view[text]None[enabled,,]",
+            "view_str": "7f49bef9b4dffa9998de182b6d0e4b0d",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.meshare:id/start_bg_view"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9,
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    119,
+                    360
+                ],
+                [
+                    961,
+                    576
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 8,
+            "size": "842*216",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "bb22d7b7587cb553cdb62a4b631fbb16",
+            "bound_box": "119,360,961,576",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    262,
+                    360
+                ],
+                [
+                    817,
+                    459
+                ]
+            ],
+            "resource_id": "com.meshare:id/iv_smart_home_life",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "555*99",
+            "signature": "[class]android.widget.ImageView[resource_id]com.meshare:id/iv_smart_home_life[text]None[enabled,,]",
+            "view_str": "7e2866eca01bc77f0ae6fa177e1a87ab",
+            "bound_box": "262,360,817,459",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.meshare:id/iv_smart_home_life"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    119,
+                    495
+                ],
+                [
+                    961,
+                    576
+                ]
+            ],
+            "resource_id": "com.meshare:id/tv_smart_home_life",
+            "checked": false,
+            "text": "Connecting Everything and You",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 10,
+            "size": "842*81",
+            "signature": "[class]android.widget.TextView[resource_id]com.meshare:id/tv_smart_home_life[text]Connecting Everything and You[enabled,,]",
+            "view_str": "4c3e6d6a69871d62af9dc25f81729721",
+            "bound_box": "119,495,961,576",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.meshare:id/tv_smart_home_life",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=119,495,961,576>Connecting Everything and You</p>"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12,
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1320
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.meshare:id/container_login_or_register",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 11,
+            "size": "1080*456",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.meshare:id/container_login_or_register[text]None[enabled,,]",
+            "view_str": "21603ce8a69fac9f9a7ce2d6788cf0e3",
+            "bound_box": "0,1320,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.meshare:id/container_login_or_register"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1320
+                ],
+                [
+                    984,
+                    1452
+                ]
+            ],
+            "resource_id": "com.meshare:id/btn_login",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "888*132",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.meshare:id/btn_login[text]None[enabled,,]",
+            "view_str": "4d6abcb8b094a585725b15c44ecc3042",
+            "bound_box": "96,1320,984,1452",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.meshare:id/btn_login"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1320
+                ],
+                [
+                    984,
+                    1452
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "888*132",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "c612f787ec1cd2e354368301847aa409",
+            "bound_box": "96,1320,984,1452",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1320
+                ],
+                [
+                    984,
+                    1452
+                ]
+            ],
+            "resource_id": "com.meshare:id/loading_btn_txt",
+            "checked": false,
+            "text": "Login",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "888*132",
+            "signature": "[class]android.widget.TextView[resource_id]com.meshare:id/loading_btn_txt[text]Login[enabled,,]",
+            "view_str": "30261c764ec9bead304e80c224d925b7",
+            "bound_box": "96,1320,984,1452",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.meshare:id/loading_btn_txt",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=96,1320,984,1452>Login</button>"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1500
+                ],
+                [
+                    984,
+                    1632
+                ]
+            ],
+            "resource_id": "com.meshare:id/btn_register",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 15,
+            "size": "888*132",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.meshare:id/btn_register[text]None[enabled,,]",
+            "view_str": "778d525d4947e42c24e8c89ce9f760b7",
+            "bound_box": "96,1500,984,1632",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.meshare:id/btn_register"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1500
+                ],
+                [
+                    984,
+                    1632
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 15,
+            "temp_id": 16,
+            "size": "888*132",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "440059f7176c7c391a960100dcb6e2ca",
+            "bound_box": "96,1500,984,1632",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.meshare",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    1500
+                ],
+                [
+                    984,
+                    1632
+                ]
+            ],
+            "resource_id": "com.meshare:id/loading_btn_txt",
+            "checked": false,
+            "text": "Sign Up",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "888*132",
+            "signature": "[class]android.widget.TextView[resource_id]com.meshare:id/loading_btn_txt[text]Sign Up[enabled,,]",
+            "view_str": "be126033b3bcb033b3aa600a427d6c61",
+            "bound_box": "96,1500,984,1632",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.meshare:id/loading_btn_txt",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=96,1500,984,1632>Sign Up</button>"
+        },
+        {
+            "package": "com.meshare",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 18,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "79e565a20e9261d6ff8e4d8831b2dfbc",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "com.meshare",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 19,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "cabfb4918c5f15542074667c1cae98f0",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

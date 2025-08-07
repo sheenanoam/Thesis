@@ -1,0 +1,2514 @@
+{
+    "state_str": "74c9d5/244315",
+    "state_str_content_free": "024a1a/eea1f7",
+    "foreground_activity": "com.perfectgifting.app/com.perfectgifting.MainActivity",
+    "activity_stack": [
+        "com.perfectgifting.app/com.perfectgifting.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                58,
+                59
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "63bc87fef66a2c2740adf8f74c42697b",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "d82a8aa9a757edff8a747f93086301d3",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "5f72ada20cad77b254b832670a7abea2",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.webkit.WebView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+            "view_str": "966942ecc354470bb6a772d9039d01b1",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Sign in with Apple\u00a0ID",
+            "class": "android.webkit.WebView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1704",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]Sign in with Apple\u00a0ID[enabled,,]",
+            "view_str": "6eb00a58f945c25139174693a0b319b3",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<scrollbar bound_box=0,72,1080,1776>Sign in with Apple\u00a0ID</scrollbar>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "f95ca6d7631ddbd93a1a204a46997c41",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button bound_box=0,72,1080,1776></button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7,
+                29,
+                48,
+                49
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "content",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1704",
+            "signature": "[class]android.view.View[resource_id]content[text][enabled,,]",
+            "view_str": "13bba75c5144576b99191470fbb0dd1e",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]content"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8,
+                17
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    360
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "1080*288",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "57263cc50afd977ad05fc0f57395860a",
+            "bound_box": "0,72,1080,360",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9,
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    216
+                ]
+            ],
+            "resource_id": "globalheader",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]globalheader[text][enabled,,]",
+            "view_str": "92cc59c7459702c65dca54cebfa072a1",
+            "bound_box": "0,72,1080,216",
+            "content_free_signature": "[class]android.view.View[resource_id]globalheader"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    216
+                ]
+            ],
+            "resource_id": "globalnav",
+            "checked": false,
+            "text": "Global",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]globalnav[text]Global[enabled,,]",
+            "view_str": "127ca37baed3a7bb9dc0fde7fb3b82b9",
+            "bound_box": "0,72,1080,216",
+            "content_free_signature": "[class]android.view.View[resource_id]globalnav",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<button bound_box=0,72,1080,216>Global</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11,
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    216
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "ce8096b61fab62657f903ec05fa6a305",
+            "bound_box": "0,72,1080,216",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    216
+                ]
+            ],
+            "resource_id": "globalnav-list",
+            "checked": false,
+            "text": "",
+            "class": "android.widget.ListView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "1080*144",
+            "signature": "[class]android.widget.ListView[resource_id]globalnav-list[text][enabled,,]",
+            "view_str": "f6e493b199a9e8809ef704f856d06b56",
+            "bound_box": "0,72,1080,216",
+            "content_free_signature": "[class]android.widget.ListView[resource_id]globalnav-list"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    216
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "dbaea215f5bad9bd95f9fd65cbe46a4c",
+            "bound_box": "0,72,1080,216",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    147,
+                    204
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Apple",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "147*132",
+            "signature": "[class]android.view.View[resource_id]None[text]Apple[enabled,,]",
+            "view_str": "6fdfcd044ea51a98d5ae7056784ee178",
+            "bound_box": "0,72,147,204",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button bound_box=0,72,147,204>Apple</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    144,
+                    216
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 14,
+            "size": "144*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "5c9857f2cf2d683e45199505d2f717b9",
+            "bound_box": "0,72,144,216",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    144,
+                    216
+                ]
+            ],
+            "resource_id": "globalnav-menutrigger-button",
+            "checked": false,
+            "text": "Menu",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "144*144",
+            "signature": "[class]android.widget.Button[resource_id]globalnav-menutrigger-button[text]Menu[enabled,,]",
+            "view_str": "6e6a85d85fbca65ec462bdad19430545",
+            "bound_box": "0,72,144,216",
+            "content_free_signature": "[class]android.widget.Button[resource_id]globalnav-menutrigger-button",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<button bound_box=0,72,144,216>Menu</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    216
+                ]
+            ],
+            "resource_id": "globalnav-placeholder",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 16,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]globalnav-placeholder[text][enabled,,]",
+            "view_str": "b02cc2b7ce426827552fdea61735d5c3",
+            "bound_box": "0,72,1080,216",
+            "content_free_signature": "[class]android.view.View[resource_id]globalnav-placeholder"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                18,
+                28
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    216
+                ],
+                [
+                    1080,
+                    396
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Apple\u00a0ID",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 17,
+            "size": "1080*180",
+            "signature": "[class]android.view.View[resource_id]None[text]Apple\u00a0ID[enabled,,]",
+            "view_str": "e3f156e3732dde32f672276d7dc0848a",
+            "bound_box": "0,216,1080,396",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<button bound_box=0,216,1080,396>Apple\u00a0ID</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    216
+                ],
+                [
+                    1080,
+                    360
+                ]
+            ],
+            "resource_id": "ac-localnav",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 18,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]ac-localnav[text][enabled,,]",
+            "view_str": "4fb43ef18cae947dd0b9f8d6523dfa9d",
+            "bound_box": "0,216,1080,360",
+            "content_free_signature": "[class]android.view.View[resource_id]ac-localnav"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                20,
+                22
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    216
+                ],
+                [
+                    1080,
+                    360
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 18,
+            "temp_id": 19,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "dd912e84816ec38dee63205b19c5f989",
+            "bound_box": "0,216,1080,360",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    216
+                ],
+                [
+                    1080,
+                    360
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 20,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "076ee68efba6f76927290c8ac1de9a5c",
+            "bound_box": "0,216,1080,360",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    360
+                ],
+                [
+                    1080,
+                    363
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 20,
+            "temp_id": 21,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "443b7318c4da26b78155a0f191147538",
+            "bound_box": "0,360,1080,363",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                23,
+                24,
+                25,
+                26,
+                27
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    216
+                ],
+                [
+                    1080,
+                    360
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 19,
+            "temp_id": 22,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "b345fee1de35dd96f0fc928616724648",
+            "bound_box": "0,216,1080,360",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    216
+                ],
+                [
+                    1080,
+                    360
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "  ",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 22,
+            "temp_id": 23,
+            "size": "984*144",
+            "signature": "[class]android.view.View[resource_id]None[text]  [enabled,,]",
+            "view_str": "66a939a91d6086a1a2f3bfe96131c4ae",
+            "bound_box": "96,216,1080,360",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<button bound_box=96,216,1080,360>  </button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    252
+                ],
+                [
+                    267,
+                    396
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Apple\u00a0ID",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 22,
+            "temp_id": 24,
+            "size": "219*144",
+            "signature": "[class]android.view.View[resource_id]None[text]Apple\u00a0ID[enabled,,]",
+            "view_str": "db7adf0651e602d4c988dc3499741aca",
+            "bound_box": "48,252,267,396",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<button bound_box=48,252,267,396>Apple\u00a0ID</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    216
+                ],
+                [
+                    3,
+                    219
+                ]
+            ],
+            "resource_id": "ac-localnav-menustate-open",
+            "checked": false,
+            "text": "Open Menu",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 22,
+            "temp_id": 25,
+            "size": "3*3",
+            "signature": "[class]android.view.View[resource_id]ac-localnav-menustate-open[text]Open Menu[enabled,,]",
+            "view_str": "8afddaaa76c30b79b25acded261bdb18",
+            "bound_box": "0,216,3,219",
+            "content_free_signature": "[class]android.view.View[resource_id]ac-localnav-menustate-open",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<button bound_box=0,216,3,219>Open Menu</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    825,
+                    216
+                ],
+                [
+                    1080,
+                    348
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 22,
+            "temp_id": 26,
+            "size": "255*132",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "443b7318c4da26b78155a0f191147538",
+            "bound_box": "825,216,1080,348",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    96,
+                    504
+                ],
+                [
+                    1080,
+                    648
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "  ",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 22,
+            "temp_id": 27,
+            "size": "984*144",
+            "signature": "[class]android.view.View[resource_id]None[text]  [enabled,,]",
+            "view_str": "66a939a91d6086a1a2f3bfe96131c4ae",
+            "bound_box": "96,504,1080,648",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<button bound_box=96,504,1080,648>  </button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    216
+                ],
+                [
+                    1080,
+                    396
+                ]
+            ],
+            "resource_id": "ac-localnav-curtain",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 28,
+            "size": "1080*180",
+            "signature": "[class]android.view.View[resource_id]ac-localnav-curtain[text][enabled,,]",
+            "view_str": "9b44504732f69f4f8d2afd060e443755",
+            "bound_box": "0,216,1080,396",
+            "content_free_signature": "[class]android.view.View[resource_id]ac-localnav-curtain"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                30
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    402
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "signin",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 29,
+            "size": "1080*1374",
+            "signature": "[class]android.view.View[resource_id]signin[text][enabled,,]",
+            "view_str": "f9cc9e9802d1b3d0057319c1f73c8dee",
+            "bound_box": "0,402,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]signin"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                31
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    402
+                ],
+                [
+                    1026,
+                    1665
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 29,
+            "temp_id": 30,
+            "size": "972*1263",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "4b82f3fc96726cafbc338ab18385e733",
+            "bound_box": "54,402,1026,1665",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                32
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    402
+                ],
+                [
+                    1026,
+                    1665
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 30,
+            "temp_id": 31,
+            "size": "972*1263",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "0efdd3cb91d51721a373171707a1d772",
+            "bound_box": "54,402,1026,1665",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                33
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    402
+                ],
+                [
+                    1026,
+                    1665
+                ]
+            ],
+            "resource_id": "step",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 31,
+            "temp_id": 32,
+            "size": "972*1263",
+            "signature": "[class]android.view.View[resource_id]step[text][enabled,,]",
+            "view_str": "8346af3dfc8b3e32783eabc4b53de62c",
+            "bound_box": "54,402,1026,1665",
+            "content_free_signature": "[class]android.view.View[resource_id]step"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                34
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    843
+                ],
+                [
+                    1026,
+                    1665
+                ]
+            ],
+            "resource_id": "stepEl",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 32,
+            "temp_id": 33,
+            "size": "972*822",
+            "signature": "[class]android.view.View[resource_id]stepEl[text][enabled,,]",
+            "view_str": "65af66d163b1bf3b02a0086119b581c6",
+            "bound_box": "54,843,1026,1665",
+            "content_free_signature": "[class]android.view.View[resource_id]stepEl"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 6,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                35,
+                36,
+                43,
+                45,
+                46,
+                47
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    843
+                ],
+                [
+                    1026,
+                    1665
+                ]
+            ],
+            "resource_id": "signin",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 33,
+            "temp_id": 34,
+            "size": "972*822",
+            "signature": "[class]android.view.View[resource_id]signin[text][enabled,,]",
+            "view_str": "253c548d306261ed8991246a9bbdbfc6",
+            "bound_box": "54,843,1026,1665",
+            "content_free_signature": "[class]android.view.View[resource_id]signin"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    843
+                ],
+                [
+                    1026,
+                    993
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Use your Apple\u00a0ID to sign in to Perfect Gifting Login.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 35,
+            "size": "972*150",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "2b03eacb9b0d170b6f9e1034ff1fa43c",
+            "bound_box": "54,843,1026,993",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<button bound_box=54,843,1026,993>Use your Apple\u00a0ID to sign in to Perfect Gifting Lo</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                37,
+                42
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    174,
+                    1032
+                ],
+                [
+                    906,
+                    1203
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 36,
+            "size": "732*171",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "17eaeedae8a58f718cd8e80d1f8b8e2e",
+            "bound_box": "174,1032,906,1203",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                38,
+                41
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    174,
+                    1032
+                ],
+                [
+                    906,
+                    1203
+                ]
+            ],
+            "resource_id": "sign_in_form",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 36,
+            "temp_id": 37,
+            "size": "732*171",
+            "signature": "[class]android.view.View[resource_id]sign_in_form[text][enabled,,]",
+            "view_str": "dfb6b26dd550932efb1efa080c107dbb",
+            "bound_box": "174,1032,906,1203",
+            "content_free_signature": "[class]android.view.View[resource_id]sign_in_form"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                39
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    174,
+                    1032
+                ],
+                [
+                    906,
+                    1203
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 37,
+            "temp_id": 38,
+            "size": "732*171",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6db240eaf8cd21c2ad7b1d2b7ce52b0a",
+            "bound_box": "174,1032,906,1203",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                40
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    174,
+                    1032
+                ],
+                [
+                    906,
+                    1203
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 38,
+            "temp_id": 39,
+            "size": "732*171",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "73e87b63ff688de6be4a503f404ef1ce",
+            "bound_box": "174,1032,906,1203",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": true,
+            "bounds": [
+                [
+                    174,
+                    1032
+                ],
+                [
+                    906,
+                    1200
+                ]
+            ],
+            "resource_id": "account_name_text_field",
+            "checked": false,
+            "text": "",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 39,
+            "temp_id": 40,
+            "size": "732*168",
+            "signature": "[class]android.widget.EditText[resource_id]account_name_text_field[text][enabled,,]",
+            "view_str": "b6d2b5b5129ce62a77cbddac59459b2e",
+            "bound_box": "174,1032,906,1200",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]account_name_text_field"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": true,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    174,
+                    1200
+                ],
+                [
+                    906,
+                    1260
+                ]
+            ],
+            "resource_id": "password_text_field",
+            "checked": false,
+            "text": "",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 37,
+            "temp_id": 41,
+            "size": "732*60",
+            "signature": "[class]android.widget.EditText[resource_id]password_text_field[text][enabled,,]",
+            "view_str": "55ef1e80e437bccd5456921a19f852cf",
+            "bound_box": "174,1200,906,1260",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]password_text_field"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": false,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    819,
+                    1101
+                ],
+                [
+                    876,
+                    1191
+                ]
+            ],
+            "resource_id": "sign-in",
+            "checked": false,
+            "text": "Continue",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 36,
+            "temp_id": 42,
+            "size": "57*90",
+            "signature": "[class]android.widget.Button[resource_id]sign-in[text]Continue[,,]",
+            "view_str": "3441155c79d1853ffa4c1d992143837b",
+            "bound_box": "819,1101,876,1191",
+            "content_free_signature": "[class]android.widget.Button[resource_id]sign-in",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<button bound_box=819,1101,876,1191>Continue</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                44
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    54,
+                    1251
+                ],
+                [
+                    1026,
+                    1341
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 43,
+            "size": "972*90",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "fc7a9ca10ba1ac80295c92badcf5522c",
+            "bound_box": "54,1251,1026,1341",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    345,
+                    1254
+                ],
+                [
+                    735,
+                    1308
+                ]
+            ],
+            "resource_id": "iforgot-link",
+            "checked": false,
+            "text": "Forgot password?\uf32d Opens in a new window.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 43,
+            "temp_id": 44,
+            "size": "390*54",
+            "signature": "[class]android.view.View[resource_id]iforgot-link[text]Forgot password?\uf32d Opens in a new window.[enabled,,]",
+            "view_str": "e2b579cc7ef84ba964f94405dad98b5f",
+            "bound_box": "345,1254,735,1308",
+            "content_free_signature": "[class]android.view.View[resource_id]iforgot-link",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "12",
+            "desc": "<button bound_box=345,1254,735,1308>Forgot password?\uf32d Opens in a new window.</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    495,
+                    1368
+                ],
+                [
+                    585,
+                    1443
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 45,
+            "size": "90*75",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "842dfe866d7b3967fc894ae74bdd47eb",
+            "bound_box": "495,1368,585,1443",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    81,
+                    1470
+                ],
+                [
+                    999,
+                    1614
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "In setting up Sign in with Apple, information about your interactions with Apple and this device may be used by Apple to help prevent fraud. ",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 46,
+            "size": "918*144",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "2b03eacb9b0d170b6f9e1034ff1fa43c",
+            "bound_box": "81,1470,999,1614",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "13",
+            "desc": "<button bound_box=81,1470,999,1614>In setting up Sign in with Apple, information abou</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    447,
+                    1566
+                ],
+                [
+                    951,
+                    1662
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "See how your data is managed... Opens in a new window.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 47,
+            "size": "504*96",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "2b03eacb9b0d170b6f9e1034ff1fa43c",
+            "bound_box": "447,1566,951,1662",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "14",
+            "desc": "<button bound_box=447,1566,951,1662>See how your data is managed... Opens in a new win</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1773
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 48,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "324b8ae7a11f53139a7dbaae28b0859c",
+            "bound_box": "0,1773,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                50,
+                51
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1773
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "ac-globalfooter",
+            "checked": false,
+            "text": "Apple Footer",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 49,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]ac-globalfooter[text]Apple Footer[enabled,,]",
+            "view_str": "275dc67134151a048f62b95d2e2a1754",
+            "bound_box": "0,1773,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]ac-globalfooter",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "15",
+            "desc": "<button bound_box=0,1773,1080,1776>Apple Footer</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1773
+                ],
+                [
+                    3,
+                    1776
+                ]
+            ],
+            "resource_id": "ac-gf-label",
+            "checked": false,
+            "text": "Apple Footer",
+            "class": "android.view.View",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 49,
+            "temp_id": 50,
+            "size": "3*3",
+            "signature": "[class]android.view.View[resource_id]ac-gf-label[text]Apple Footer[enabled,,]",
+            "view_str": "dd65a6c450e1c7aa56006ffc3a25c247",
+            "bound_box": "0,1773,3,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]ac-gf-label",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "16",
+            "desc": "<button bound_box=0,1773,3,1776>Apple Footer</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                52
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1773
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 49,
+            "temp_id": 51,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "ad62526e3e77282fe296c7faf79b43fe",
+            "bound_box": "0,1773,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                53,
+                54,
+                55,
+                57
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1773
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 51,
+            "temp_id": 52,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "38c344c44495ce4a570d37b6a5927649",
+            "bound_box": "0,1773,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1773
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "  ",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 53,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]None[text]  [enabled,,]",
+            "view_str": "85713fc2f2abfb9ab9143c2a44995ab3",
+            "bound_box": "0,1773,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "17",
+            "desc": "<button bound_box=0,1773,1080,1776>  </button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1773
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Copyright \u00a9 2024 Apple Inc. All rights reserved.",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 54,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]None[text]Copyright \u00a9 2024 Apple Inc. All rights reserved.[enabled,,]",
+            "view_str": "fec687c748ba16bad25353b19207e2ba",
+            "bound_box": "0,1773,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "18",
+            "desc": "<button bound_box=0,1773,1080,1776>Copyright \u00a9 2024 Apple Inc. All rights reserved.</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                56
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1773
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 55,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "19af06d6b9e9358c1c491190ec4337e0",
+            "bound_box": "0,1773,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    420,
+                    1773
+                ],
+                [
+                    660,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Privacy Policy",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 55,
+            "temp_id": 56,
+            "size": "240*3",
+            "signature": "[class]android.view.View[resource_id]None[text]Privacy Policy[enabled,,]",
+            "view_str": "a52ebf46610852d8ee36b89f7746b2d2",
+            "bound_box": "420,1773,660,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "19",
+            "desc": "<button bound_box=420,1773,660,1776>Privacy Policy</button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1773
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "  ",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 57,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]None[text]  [enabled,,]",
+            "view_str": "85713fc2f2abfb9ab9143c2a44995ab3",
+            "bound_box": "0,1773,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "20",
+            "desc": "<button bound_box=0,1773,1080,1776>  </button>"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 58,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "26c9b1cad7880210a575c2f2ac41b3b7",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "com.perfectgifting.app",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 59,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "122a9843c6510cde7c786b2666244f49",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}
